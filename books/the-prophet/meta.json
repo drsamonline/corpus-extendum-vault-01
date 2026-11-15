@@ -1,0 +1,46 @@
+{
+  "id": "58585",
+  "slug": "the-prophet",
+  "title": "The Prophet",
+  "author": {
+    "name": "Kahlil Gibran",
+    "file_as": "Gibran, Kahlil",
+    "death": 1931
+  },
+  "year": 1923,
+  "category": "Poetry",
+  "language": "en",
+  "subjects": [
+    "Prose poems, American",
+    "Mysticism -- Poetry"
+  ],
+  "blurb": "Twenty-six prose poems on love, work, freedom and death. Never out of print since 1923, and never out of fashion either.",
+  "rights": {
+    "basis": "author d. 1931; first published 1923 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "kahlil-gibran_the-prophet",
+    "url": "https://standardebooks.org/ebooks/kahlil-gibran/the-prophet",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-prophet/the-prophet.pdf",
+    "epub": "books/the-prophet/the-prophet.epub",
+    "txt": "books/the-prophet/the-prophet.txt",
+    "cover": "books/the-prophet/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "607af02f",
+  "text_sha256": "b29063387fc8ba072931fb2f705305026c8b849e0c7124f3d7f7930a3fb890aa"
+}

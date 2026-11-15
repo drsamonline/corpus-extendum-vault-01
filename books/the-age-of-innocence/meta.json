@@ -1,0 +1,46 @@
+{
+  "id": "541",
+  "slug": "the-age-of-innocence",
+  "title": "The Age of Innocence",
+  "author": {
+    "name": "Edith Wharton",
+    "file_as": "Wharton, Edith",
+    "death": 1937
+  },
+  "year": 1920,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "New York (N.Y.) -- Social life and customs",
+    "Married people -- Fiction"
+  ],
+  "blurb": "New York society, and a man who does the correct thing for forty years. Wharton won the Pulitzer for it, and deserved to.",
+  "rights": {
+    "basis": "author d. 1937; first published 1920 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "edith-wharton_the-age-of-innocence",
+    "url": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-age-of-innocence/the-age-of-innocence.pdf",
+    "epub": "books/the-age-of-innocence/the-age-of-innocence.epub",
+    "txt": "books/the-age-of-innocence/the-age-of-innocence.txt",
+    "cover": "books/the-age-of-innocence/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "58ca3b1d",
+  "text_sha256": "9bafcdb5e01100cb87b57d95ad9e26a67a38024be88dc8e14aec83f781e77467"
+}

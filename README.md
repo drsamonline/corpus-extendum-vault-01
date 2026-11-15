@@ -2,7 +2,7 @@
 
 Storage for [Corpus Extendum](https://github.com/drsamonline/corpus-extendum), the public-domain library.
 
-**State:** open · 10 books · 53 MB · cap 600 books / 2.5 GB
+**State:** open · 26 books · 138 MB · cap 600 books / 2.5 GB
 
 This repository holds book files and nothing else. There is no website here, deliberately: GitHub Pages caps a published site at 1 GB, and this vault is built to reach 2.5 GB. The library serves these files through jsDelivr and `raw.githubusercontent.com`.
 

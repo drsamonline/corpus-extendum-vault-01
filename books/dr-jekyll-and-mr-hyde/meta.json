@@ -1,0 +1,46 @@
+{
+  "id": "43",
+  "slug": "dr-jekyll-and-mr-hyde",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "file_as": "Stevenson, Robert Louis",
+    "death": 1894
+  },
+  "year": 1886,
+  "category": "Gothic & Horror",
+  "language": "en",
+  "subjects": [
+    "Physicians -- Fiction",
+    "Multiple personality -- Fiction"
+  ],
+  "blurb": "Written in a few days and read ever since. A short, cold book about how a respectable man arranges his own undoing.",
+  "rights": {
+    "basis": "author d. 1894; first published 1886 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde",
+    "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.pdf",
+    "epub": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.epub",
+    "txt": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.txt",
+    "cover": "books/dr-jekyll-and-mr-hyde/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "40017d87",
+  "text_sha256": "35264ce991dcecdcbf1fea1d007ccbc83cf6a133595ccbc8b2a1b0c2cf98e3d1"
+}

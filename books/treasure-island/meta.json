@@ -1,0 +1,46 @@
+{
+  "id": "27780",
+  "slug": "treasure-island",
+  "title": "Treasure Island",
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "file_as": "Stevenson, Robert Louis",
+    "death": 1894
+  },
+  "year": 1883,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Treasure troves -- Fiction",
+    "Pirates -- Fiction"
+  ],
+  "blurb": "The map with the X on it, the one-legged sailor, the boy who learns whom to trust. Every pirate cliche in English comes from here.",
+  "rights": {
+    "basis": "author d. 1894; first published 1883 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "robert-louis-stevenson_treasure-island",
+    "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/treasure-island/treasure-island.pdf",
+    "epub": "books/treasure-island/treasure-island.epub",
+    "txt": "books/treasure-island/treasure-island.txt",
+    "cover": "books/treasure-island/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "64256573",
+  "text_sha256": "3a6662cb21f07291f3572ab317aa0c1d7224f102fd07525c21bb148f4f111996"
+}

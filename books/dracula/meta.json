@@ -1,0 +1,46 @@
+{
+  "id": "345",
+  "slug": "dracula",
+  "title": "Dracula",
+  "author": {
+    "name": "Bram Stoker",
+    "file_as": "Stoker, Bram",
+    "death": 1912
+  },
+  "year": 1897,
+  "category": "Gothic & Horror",
+  "language": "en",
+  "subjects": [
+    "Dracula, Count (Fictitious character)",
+    "Vampires -- Fiction"
+  ],
+  "blurb": "Letters, diaries, telegrams and newspaper cuttings, assembled into the book that gave the twentieth century its monster.",
+  "rights": {
+    "basis": "author d. 1912; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "bram-stoker_dracula",
+    "url": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/dracula/dracula.pdf",
+    "epub": "books/dracula/dracula.epub",
+    "txt": "books/dracula/dracula.txt",
+    "cover": "books/dracula/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "860e450a",
+  "text_sha256": "a383519834c2c8ef1a45badb487f908729c2ada1a828e000360ed6bb117a6783"
+}

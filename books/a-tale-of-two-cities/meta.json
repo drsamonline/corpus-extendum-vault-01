@@ -1,0 +1,46 @@
+{
+  "id": "98",
+  "slug": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": {
+    "name": "Charles Dickens",
+    "file_as": "Dickens, Charles",
+    "death": 1870
+  },
+  "year": 1859,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "France -- History -- Revolution, 1789-1799",
+    "Historical fiction"
+  ],
+  "blurb": "London and Paris, the guillotine and the sacrifice. The best-selling novel in English, and still the sharpest thing written about a revolution eating its own.",
+  "rights": {
+    "basis": "author d. 1870; first published 1859 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charles-dickens_a-tale-of-two-cities",
+    "url": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/a-tale-of-two-cities/a-tale-of-two-cities.pdf",
+    "epub": "books/a-tale-of-two-cities/a-tale-of-two-cities.epub",
+    "txt": "books/a-tale-of-two-cities/a-tale-of-two-cities.txt",
+    "cover": "books/a-tale-of-two-cities/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "53570927",
+  "text_sha256": "2316c7427f3122b3218dbfa36eea790f40c4603d214bd33c8b14809874efd380"
+}

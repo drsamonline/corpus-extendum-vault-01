@@ -1,0 +1,46 @@
+{
+  "id": "829",
+  "slug": "gullivers-travels",
+  "title": "Gulliver's Travels",
+  "author": {
+    "name": "Jonathan Swift",
+    "file_as": "Swift, Jonathan",
+    "death": 1745
+  },
+  "year": 1726,
+  "category": "Satire",
+  "language": "en",
+  "subjects": [
+    "Voyages, Imaginary -- Fiction",
+    "Satire"
+  ],
+  "blurb": "Four voyages, each one a different way of being laughed at. A children's book that was never meant to be one.",
+  "rights": {
+    "basis": "author d. 1745; first published 1726 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jonathan-swift_gullivers-travels",
+    "url": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/gullivers-travels/gullivers-travels.pdf",
+    "epub": "books/gullivers-travels/gullivers-travels.epub",
+    "txt": "books/gullivers-travels/gullivers-travels.txt",
+    "cover": "books/gullivers-travels/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "efa7a0a1",
+  "text_sha256": "18efa15d5237a714d324756fe37e1b48e9bef8c4246aa4f27825b8de8540c6f2"
+}

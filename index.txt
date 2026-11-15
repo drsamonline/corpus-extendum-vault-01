@@ -1,12 +1,28 @@
-# corpus-extendum-vault-01 | 10 books | 53.1 MB | cap 600 books / 2500 MB | state: open | built 2026-11-15T19:16Z
+# corpus-extendum-vault-01 | 26 books | 138.1 MB | cap 600 books / 2500 MB | state: open | built 2026-11-15T19:34Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
+98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
+43|dr-jekyll-and-mr-hyde|The Strange Case of Dr. Jekyll and Mr. Hyde|Stevenson, Robert Louis|1886|Gothic & Horror|en|author d. 1894; first published 1886|pdf,epub,txt|221|285|books/dr-jekyll-and-mr-hyde|40017d87|35264ce9
+345|dracula|Dracula|Stoker, Bram|1897|Gothic & Horror|en|author d. 1912; first published 1897|pdf,epub,txt|1364|529|books/dracula|860e450a|a3835198
 2814|dubliners|Dubliners|Joyce, James|1914|Short Stories|en|author d. 1941; first published 1914|pdf,epub,txt|559|890|books/dubliners|6905b4f4|b137cc2e
 84|frankenstein|Frankenstein; or, The Modern Prometheus|Shelley, Mary Wollstonecraft|1818|Gothic & Horror|en|author d. 1851; first published 1818|pdf,epub,txt|650|674|books/frankenstein|19a54747|0746682a
 7164|gitanjali|Gitanjali|Tagore, Rabindranath|1912|Poetry|en|author d. 1941; first published 1912|pdf,epub,txt|149|469|books/gitanjali|43289b3d|c75eb077
+1400|great-expectations|Great Expectations|Dickens, Charles|1861|Fiction|en|author d. 1870; first published 1861|pdf,epub,txt|1451|652|books/great-expectations|3a67ce6e|ae9107d0
+829|gullivers-travels|Gulliver's Travels|Swift, Jonathan|1726|Satire|en|author d. 1745; first published 1726|pdf,epub,txt|1250|884|books/gullivers-travels|efa7a0a1|18efa15d
+76|huckleberry-finn|The Adventures of Huckleberry Finn|Twain, Mark|1884|Adventure|en|author d. 1910; first published 1884|pdf,epub,txt|835|488|books/huckleberry-finn|d158643d|7a7f31aa
+1260|jane-eyre|Jane Eyre|Bronte, Charlotte|1847|Fiction|en|author d. 1855; first published 1847|pdf,epub,txt|1529|650|books/jane-eyre|e85b55cc|5eb6385f
 2680|meditations|Meditations|Marcus Aurelius, Emperor of Rome|180|Philosophy|en|author d. 180; first published 180|pdf,epub,txt|428|676|books/meditations|0c15745e|8a65f945
+2701|moby-dick|Moby-Dick; or, The Whale|Melville, Herman|1851|Fiction|en|author d. 1891; first published 1851|pdf,epub,txt|1819|894|books/moby-dick|413ce4ab|19094886
 1342|pride-and-prejudice|Pride and Prejudice|Austen, Jane|1813|Fiction|en|author d. 1817; first published 1813|pdf,epub,txt|1034|803|books/pride-and-prejudice|ba2d9425|78a0a582
 1661|sherlock-holmes|The Adventures of Sherlock Holmes|Doyle, Arthur Conan|1892|Mystery & Detective|en|author d. 1930; first published 1892|pdf,epub,txt|839|1476|books/sherlock-holmes|c33240b6|d1ee5f56
 408|souls-of-black-folk|The Souls of Black Folk|Du Bois, W. E. B.|1903|Essays|en|author d. 1963; first published 1903|pdf,epub,txt|964|716|books/souls-of-black-folk|5f1c8d92|a3904a2a
+541|the-age-of-innocence|The Age of Innocence|Wharton, Edith|1920|Fiction|en|author d. 1937; first published 1920|pdf,epub,txt|871|487|books/the-age-of-innocence|58ca3b1d|9bafcdb5
+160|the-awakening|The Awakening|Chopin, Kate|1899|Fiction|en|author d. 1904; first published 1899|pdf,epub,txt|425|309|books/the-awakening|5eb33c5f|16f70dcb
+5230|the-invisible-man|The Invisible Man|Wells, H. G.|1897|Science Fiction|en|author d. 1946; first published 1897|pdf,epub,txt|414|394|books/the-invisible-man|025dbe5f|5c00d82b
+174|the-picture-of-dorian-gray|The Picture of Dorian Gray|Wilde, Oscar|1890|Fiction|en|author d. 1900; first published 1890|pdf,epub,txt|631|408|books/the-picture-of-dorian-gray|6297606a|afe98b3e
+58585|the-prophet|The Prophet|Gibran, Kahlil|1923|Poetry|en|author d. 1931; first published 1923|pdf,epub,txt|114|228|books/the-prophet|607af02f|b2906338
+25344|the-scarlet-letter|The Scarlet Letter|Hawthorne, Nathaniel|1850|Fiction|en|author d. 1864; first published 1850|pdf,epub,txt|698|397|books/the-scarlet-letter|a5cadb15|962ac5b3
 2388|the-song-celestial|The Song Celestial; or, Bhagavad-Gita|Arnold, Edwin, Sir|1885|Sacred Texts|en|author d. 1904; first published 1885|pdf,epub,txt|187|120|books/the-song-celestial|36bd6fc1|b7ca516c
 35|the-time-machine|The Time Machine|Wells, H. G.|1895|Science Fiction|en|author d. 1946; first published 1895|pdf,epub,txt|269|520|books/the-time-machine|e3d8bef5|80a067bf
+27780|treasure-island|Treasure Island|Stevenson, Robert Louis|1883|Adventure|en|author d. 1894; first published 1883|pdf,epub,txt|546|435|books/treasure-island|64256573|3a6662cb
+768|wuthering-heights|Wuthering Heights|Bronte, Emily|1847|Fiction|en|author d. 1848; first published 1847|pdf,epub,txt|967|529|books/wuthering-heights|3d65f918|de65ea47

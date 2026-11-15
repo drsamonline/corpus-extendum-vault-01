@@ -1,0 +1,46 @@
+{
+  "id": "768",
+  "slug": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": {
+    "name": "Emily Bronte",
+    "file_as": "Bronte, Emily",
+    "death": 1848
+  },
+  "year": 1847,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Yorkshire (England) -- Fiction",
+    "Revenge -- Fiction"
+  ],
+  "blurb": "One house, two families, and a love that outlives both. The strangest novel of its century, written by someone who died the year after it appeared.",
+  "rights": {
+    "basis": "author d. 1848; first published 1847 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "emily-bronte_wuthering-heights",
+    "url": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/wuthering-heights/wuthering-heights.pdf",
+    "epub": "books/wuthering-heights/wuthering-heights.epub",
+    "txt": "books/wuthering-heights/wuthering-heights.txt",
+    "cover": "books/wuthering-heights/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "3d65f918",
+  "text_sha256": "de65ea47a2d6df4f4b58a5d644c0cc513152bb037b89c6734ac0e3c529d35cea"
+}

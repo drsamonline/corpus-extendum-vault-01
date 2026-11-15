@@ -1,0 +1,46 @@
+{
+  "id": "1400",
+  "slug": "great-expectations",
+  "title": "Great Expectations",
+  "author": {
+    "name": "Charles Dickens",
+    "file_as": "Dickens, Charles",
+    "death": 1870
+  },
+  "year": 1861,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "England -- Social life and customs -- 19th century",
+    "Orphans -- Fiction"
+  ],
+  "blurb": "Pip, the convict, and Miss Havisham's stopped clocks. Dickens' tightest plot and his clearest argument about what money does to people.",
+  "rights": {
+    "basis": "author d. 1870; first published 1861 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charles-dickens_great-expectations",
+    "url": "https://standardebooks.org/ebooks/charles-dickens/great-expectations",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/great-expectations/great-expectations.pdf",
+    "epub": "books/great-expectations/great-expectations.epub",
+    "txt": "books/great-expectations/great-expectations.txt",
+    "cover": "books/great-expectations/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "3a67ce6e",
+  "text_sha256": "ae9107d00f09b2876ae77c84f657f2e451f4999fb13d2774e01351dc8bf63a88"
+}

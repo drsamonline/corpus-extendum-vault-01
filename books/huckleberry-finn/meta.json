@@ -1,0 +1,46 @@
+{
+  "id": "76",
+  "slug": "huckleberry-finn",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": {
+    "name": "Mark Twain",
+    "file_as": "Twain, Mark",
+    "death": 1910
+  },
+  "year": 1884,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Mississippi River -- Fiction",
+    "Finn, Huckleberry (Fictitious character)"
+  ],
+  "blurb": "A raft, a runaway, and a boy deciding that what he has been taught is wrong. American literature starts here, in the vernacular.",
+  "rights": {
+    "basis": "author d. 1910; first published 1884 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "mark-twain_the-adventures-of-huckleberry-finn",
+    "url": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/huckleberry-finn/huckleberry-finn.pdf",
+    "epub": "books/huckleberry-finn/huckleberry-finn.epub",
+    "txt": "books/huckleberry-finn/huckleberry-finn.txt",
+    "cover": "books/huckleberry-finn/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "d158643d",
+  "text_sha256": "7a7f31aa6f5e413f5bc640c1ea43a9351af52cbf0280ddfb4682b2962393f82f"
+}

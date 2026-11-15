@@ -1,13 +1,59 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 10,
-  "mb": 53.1,
+  "books": 26,
+  "mb": 138.1,
   "cap": {
     "books": 600,
     "mb": 2500
   },
   "records": [
+    {
+      "id": "98",
+      "slug": "a-tale-of-two-cities",
+      "title": "A Tale of Two Cities",
+      "author": {
+        "name": "Charles Dickens",
+        "file_as": "Dickens, Charles",
+        "death": 1870
+      },
+      "year": 1859,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "France -- History -- Revolution, 1789-1799",
+        "Historical fiction"
+      ],
+      "blurb": "London and Paris, the guillotine and the sacrifice. The best-selling novel in English, and still the sharpest thing written about a revolution eating its own.",
+      "rights": {
+        "basis": "author d. 1870; first published 1859 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charles-dickens_a-tale-of-two-cities",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/a-tale-of-two-cities/a-tale-of-two-cities.pdf",
+        "epub": "books/a-tale-of-two-cities/a-tale-of-two-cities.epub",
+        "txt": "books/a-tale-of-two-cities/a-tale-of-two-cities.txt",
+        "cover": "books/a-tale-of-two-cities/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "53570927",
+      "text_sha256": "2316c7427f3122b3218dbfa36eea790f40c4603d214bd33c8b14809874efd380"
+    },
     {
       "id": "11",
       "slug": "alice-in-wonderland",
@@ -53,6 +99,98 @@
       "added": "2026-11-15",
       "file_sha8": "a551490a",
       "text_sha256": "cea7d9da85d7bfb5f7c212f0f45042b1539833cf43eaad12f384c66a1c52473b"
+    },
+    {
+      "id": "43",
+      "slug": "dr-jekyll-and-mr-hyde",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": {
+        "name": "Robert Louis Stevenson",
+        "file_as": "Stevenson, Robert Louis",
+        "death": 1894
+      },
+      "year": 1886,
+      "category": "Gothic & Horror",
+      "language": "en",
+      "subjects": [
+        "Physicians -- Fiction",
+        "Multiple personality -- Fiction"
+      ],
+      "blurb": "Written in a few days and read ever since. A short, cold book about how a respectable man arranges his own undoing.",
+      "rights": {
+        "basis": "author d. 1894; first published 1886 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde",
+        "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.pdf",
+        "epub": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.epub",
+        "txt": "books/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde.txt",
+        "cover": "books/dr-jekyll-and-mr-hyde/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "40017d87",
+      "text_sha256": "35264ce991dcecdcbf1fea1d007ccbc83cf6a133595ccbc8b2a1b0c2cf98e3d1"
+    },
+    {
+      "id": "345",
+      "slug": "dracula",
+      "title": "Dracula",
+      "author": {
+        "name": "Bram Stoker",
+        "file_as": "Stoker, Bram",
+        "death": 1912
+      },
+      "year": 1897,
+      "category": "Gothic & Horror",
+      "language": "en",
+      "subjects": [
+        "Dracula, Count (Fictitious character)",
+        "Vampires -- Fiction"
+      ],
+      "blurb": "Letters, diaries, telegrams and newspaper cuttings, assembled into the book that gave the twentieth century its monster.",
+      "rights": {
+        "basis": "author d. 1912; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "bram-stoker_dracula",
+        "url": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/dracula/dracula.pdf",
+        "epub": "books/dracula/dracula.epub",
+        "txt": "books/dracula/dracula.txt",
+        "cover": "books/dracula/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "860e450a",
+      "text_sha256": "a383519834c2c8ef1a45badb487f908729c2ada1a828e000360ed6bb117a6783"
     },
     {
       "id": "2814",
@@ -193,6 +331,190 @@
       "text_sha256": "c75eb077c7d5c193bf4163214f456a24e79acb89b1a637166d18c8e4b8d53cf8"
     },
     {
+      "id": "1400",
+      "slug": "great-expectations",
+      "title": "Great Expectations",
+      "author": {
+        "name": "Charles Dickens",
+        "file_as": "Dickens, Charles",
+        "death": 1870
+      },
+      "year": 1861,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "England -- Social life and customs -- 19th century",
+        "Orphans -- Fiction"
+      ],
+      "blurb": "Pip, the convict, and Miss Havisham's stopped clocks. Dickens' tightest plot and his clearest argument about what money does to people.",
+      "rights": {
+        "basis": "author d. 1870; first published 1861 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charles-dickens_great-expectations",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/great-expectations",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/great-expectations/great-expectations.pdf",
+        "epub": "books/great-expectations/great-expectations.epub",
+        "txt": "books/great-expectations/great-expectations.txt",
+        "cover": "books/great-expectations/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "3a67ce6e",
+      "text_sha256": "ae9107d00f09b2876ae77c84f657f2e451f4999fb13d2774e01351dc8bf63a88"
+    },
+    {
+      "id": "829",
+      "slug": "gullivers-travels",
+      "title": "Gulliver's Travels",
+      "author": {
+        "name": "Jonathan Swift",
+        "file_as": "Swift, Jonathan",
+        "death": 1745
+      },
+      "year": 1726,
+      "category": "Satire",
+      "language": "en",
+      "subjects": [
+        "Voyages, Imaginary -- Fiction",
+        "Satire"
+      ],
+      "blurb": "Four voyages, each one a different way of being laughed at. A children's book that was never meant to be one.",
+      "rights": {
+        "basis": "author d. 1745; first published 1726 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jonathan-swift_gullivers-travels",
+        "url": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/gullivers-travels/gullivers-travels.pdf",
+        "epub": "books/gullivers-travels/gullivers-travels.epub",
+        "txt": "books/gullivers-travels/gullivers-travels.txt",
+        "cover": "books/gullivers-travels/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "efa7a0a1",
+      "text_sha256": "18efa15d5237a714d324756fe37e1b48e9bef8c4246aa4f27825b8de8540c6f2"
+    },
+    {
+      "id": "76",
+      "slug": "huckleberry-finn",
+      "title": "The Adventures of Huckleberry Finn",
+      "author": {
+        "name": "Mark Twain",
+        "file_as": "Twain, Mark",
+        "death": 1910
+      },
+      "year": 1884,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Mississippi River -- Fiction",
+        "Finn, Huckleberry (Fictitious character)"
+      ],
+      "blurb": "A raft, a runaway, and a boy deciding that what he has been taught is wrong. American literature starts here, in the vernacular.",
+      "rights": {
+        "basis": "author d. 1910; first published 1884 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "mark-twain_the-adventures-of-huckleberry-finn",
+        "url": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/huckleberry-finn/huckleberry-finn.pdf",
+        "epub": "books/huckleberry-finn/huckleberry-finn.epub",
+        "txt": "books/huckleberry-finn/huckleberry-finn.txt",
+        "cover": "books/huckleberry-finn/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "d158643d",
+      "text_sha256": "7a7f31aa6f5e413f5bc640c1ea43a9351af52cbf0280ddfb4682b2962393f82f"
+    },
+    {
+      "id": "1260",
+      "slug": "jane-eyre",
+      "title": "Jane Eyre",
+      "author": {
+        "name": "Charlotte Bronte",
+        "file_as": "Bronte, Charlotte",
+        "death": 1855
+      },
+      "year": 1847,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Governesses -- Fiction",
+        "England -- Social life and customs"
+      ],
+      "blurb": "A governess, a locked attic, and the first heroine in English fiction to insist on being spoken to as an equal.",
+      "rights": {
+        "basis": "author d. 1855; first published 1847 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charlotte-bronte_jane-eyre",
+        "url": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/jane-eyre/jane-eyre.pdf",
+        "epub": "books/jane-eyre/jane-eyre.epub",
+        "txt": "books/jane-eyre/jane-eyre.txt",
+        "cover": "books/jane-eyre/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "e85b55cc",
+      "text_sha256": "5eb6385f5aaa53a62b8d48464da3089d95cfb1d511b81b54b0bf9999e29fd714"
+    },
+    {
       "id": "2680",
       "slug": "meditations",
       "title": "Meditations",
@@ -241,6 +563,52 @@
         "name": "George Long",
         "death": 1879
       }
+    },
+    {
+      "id": "2701",
+      "slug": "moby-dick",
+      "title": "Moby-Dick; or, The Whale",
+      "author": {
+        "name": "Herman Melville",
+        "file_as": "Melville, Herman",
+        "death": 1891
+      },
+      "year": 1851,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Whaling -- Fiction",
+        "Ahab, Captain (Fictitious character)"
+      ],
+      "blurb": "A whaling voyage that becomes an encyclopaedia, a sermon and a curse. Ignored in its own lifetime, now the great American novel.",
+      "rights": {
+        "basis": "author d. 1891; first published 1851 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "herman-melville_moby-dick",
+        "url": "https://standardebooks.org/ebooks/herman-melville/moby-dick",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/moby-dick/moby-dick.pdf",
+        "epub": "books/moby-dick/moby-dick.epub",
+        "txt": "books/moby-dick/moby-dick.txt",
+        "cover": "books/moby-dick/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "413ce4ab",
+      "text_sha256": "19094886a8b1f0b571e77389d35abe4dcc843c9cd96e1d2623b374c191bc6349"
     },
     {
       "id": "1342",
@@ -381,6 +749,282 @@
       "text_sha256": "a3904a2a0cdcab666ff6c3148f64696a4d61c9c2c37830fcea2f2c3412f42301"
     },
     {
+      "id": "541",
+      "slug": "the-age-of-innocence",
+      "title": "The Age of Innocence",
+      "author": {
+        "name": "Edith Wharton",
+        "file_as": "Wharton, Edith",
+        "death": 1937
+      },
+      "year": 1920,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "New York (N.Y.) -- Social life and customs",
+        "Married people -- Fiction"
+      ],
+      "blurb": "New York society, and a man who does the correct thing for forty years. Wharton won the Pulitzer for it, and deserved to.",
+      "rights": {
+        "basis": "author d. 1937; first published 1920 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "edith-wharton_the-age-of-innocence",
+        "url": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-age-of-innocence/the-age-of-innocence.pdf",
+        "epub": "books/the-age-of-innocence/the-age-of-innocence.epub",
+        "txt": "books/the-age-of-innocence/the-age-of-innocence.txt",
+        "cover": "books/the-age-of-innocence/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "58ca3b1d",
+      "text_sha256": "9bafcdb5e01100cb87b57d95ad9e26a67a38024be88dc8e14aec83f781e77467"
+    },
+    {
+      "id": "160",
+      "slug": "the-awakening",
+      "title": "The Awakening",
+      "author": {
+        "name": "Kate Chopin",
+        "file_as": "Chopin, Kate",
+        "death": 1904
+      },
+      "year": 1899,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Women -- Louisiana -- Fiction",
+        "Self-actualization (Psychology) -- Fiction"
+      ],
+      "blurb": "A woman on a Louisiana coast discovers she is a person, and the century was not ready. Condemned on publication, essential now.",
+      "rights": {
+        "basis": "author d. 1904; first published 1899 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "kate-chopin_the-awakening",
+        "url": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-awakening/the-awakening.pdf",
+        "epub": "books/the-awakening/the-awakening.epub",
+        "txt": "books/the-awakening/the-awakening.txt",
+        "cover": "books/the-awakening/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "5eb33c5f",
+      "text_sha256": "16f70dcb2419a8928ea85248d693dff4ac910a0ef631b429c29fe1fa3a0581ff"
+    },
+    {
+      "id": "5230",
+      "slug": "the-invisible-man",
+      "title": "The Invisible Man",
+      "author": {
+        "name": "H. G. Wells",
+        "file_as": "Wells, H. G.",
+        "death": 1946
+      },
+      "year": 1897,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Science -- Experiments -- Fiction",
+        "Science fiction"
+      ],
+      "blurb": "A scientist who solves the wrong problem. Wells' nastiest idea, and his funniest: invisibility as a licence for petty cruelty.",
+      "rights": {
+        "basis": "author d. 1946; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-g-wells_the-invisible-man",
+        "url": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-invisible-man/the-invisible-man.pdf",
+        "epub": "books/the-invisible-man/the-invisible-man.epub",
+        "txt": "books/the-invisible-man/the-invisible-man.txt",
+        "cover": "books/the-invisible-man/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "025dbe5f",
+      "text_sha256": "5c00d82b77619e3832687486c5a375d04e77d6abc87ea7ad9c90b809c6e0786d"
+    },
+    {
+      "id": "174",
+      "slug": "the-picture-of-dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "author": {
+        "name": "Oscar Wilde",
+        "file_as": "Wilde, Oscar",
+        "death": 1900
+      },
+      "year": 1890,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Appearance (Philosophy) -- Fiction",
+        "Conduct of life -- Fiction"
+      ],
+      "blurb": "A portrait ages so its subject need not. Wilde's only novel, and the wittiest book ever written about the cost of never being told no.",
+      "rights": {
+        "basis": "author d. 1900; first published 1890 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "oscar-wilde_the-picture-of-dorian-gray",
+        "url": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.pdf",
+        "epub": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.epub",
+        "txt": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.txt",
+        "cover": "books/the-picture-of-dorian-gray/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "6297606a",
+      "text_sha256": "afe98b3e7b734cff53e9bc41469f9b34d52ea18dc4d9ff494e1470f00b595c8d"
+    },
+    {
+      "id": "58585",
+      "slug": "the-prophet",
+      "title": "The Prophet",
+      "author": {
+        "name": "Kahlil Gibran",
+        "file_as": "Gibran, Kahlil",
+        "death": 1931
+      },
+      "year": 1923,
+      "category": "Poetry",
+      "language": "en",
+      "subjects": [
+        "Prose poems, American",
+        "Mysticism -- Poetry"
+      ],
+      "blurb": "Twenty-six prose poems on love, work, freedom and death. Never out of print since 1923, and never out of fashion either.",
+      "rights": {
+        "basis": "author d. 1931; first published 1923 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "kahlil-gibran_the-prophet",
+        "url": "https://standardebooks.org/ebooks/kahlil-gibran/the-prophet",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-prophet/the-prophet.pdf",
+        "epub": "books/the-prophet/the-prophet.epub",
+        "txt": "books/the-prophet/the-prophet.txt",
+        "cover": "books/the-prophet/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "607af02f",
+      "text_sha256": "b29063387fc8ba072931fb2f705305026c8b849e0c7124f3d7f7930a3fb890aa"
+    },
+    {
+      "id": "25344",
+      "slug": "the-scarlet-letter",
+      "title": "The Scarlet Letter",
+      "author": {
+        "name": "Nathaniel Hawthorne",
+        "file_as": "Hawthorne, Nathaniel",
+        "death": 1864
+      },
+      "year": 1850,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Puritans -- Fiction",
+        "Adultery -- Fiction"
+      ],
+      "blurb": "A letter worn on a dress, and a town that needs it worn. The first great American novel, and still the most exact about shame.",
+      "rights": {
+        "basis": "author d. 1864; first published 1850 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "nathaniel-hawthorne_the-scarlet-letter",
+        "url": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-scarlet-letter/the-scarlet-letter.pdf",
+        "epub": "books/the-scarlet-letter/the-scarlet-letter.epub",
+        "txt": "books/the-scarlet-letter/the-scarlet-letter.txt",
+        "cover": "books/the-scarlet-letter/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "a5cadb15",
+      "text_sha256": "962ac5b3e07f974b1adbd1d2ec2cb4646469a581a24eced975719d6f56eb469e"
+    },
+    {
       "id": "2388",
       "slug": "the-song-celestial",
       "title": "The Song Celestial; or, Bhagavad-Gita",
@@ -471,6 +1115,98 @@
       "added": "2026-11-15",
       "file_sha8": "e3d8bef5",
       "text_sha256": "80a067bf540e8fdd2333d350752df50003be08619cc3cef1dfdf2740a1e09417"
+    },
+    {
+      "id": "27780",
+      "slug": "treasure-island",
+      "title": "Treasure Island",
+      "author": {
+        "name": "Robert Louis Stevenson",
+        "file_as": "Stevenson, Robert Louis",
+        "death": 1894
+      },
+      "year": 1883,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Treasure troves -- Fiction",
+        "Pirates -- Fiction"
+      ],
+      "blurb": "The map with the X on it, the one-legged sailor, the boy who learns whom to trust. Every pirate cliche in English comes from here.",
+      "rights": {
+        "basis": "author d. 1894; first published 1883 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "robert-louis-stevenson_treasure-island",
+        "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/treasure-island/treasure-island.pdf",
+        "epub": "books/treasure-island/treasure-island.epub",
+        "txt": "books/treasure-island/treasure-island.txt",
+        "cover": "books/treasure-island/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "64256573",
+      "text_sha256": "3a6662cb21f07291f3572ab317aa0c1d7224f102fd07525c21bb148f4f111996"
+    },
+    {
+      "id": "768",
+      "slug": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": {
+        "name": "Emily Bronte",
+        "file_as": "Bronte, Emily",
+        "death": 1848
+      },
+      "year": 1847,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Yorkshire (England) -- Fiction",
+        "Revenge -- Fiction"
+      ],
+      "blurb": "One house, two families, and a love that outlives both. The strangest novel of its century, written by someone who died the year after it appeared.",
+      "rights": {
+        "basis": "author d. 1848; first published 1847 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "emily-bronte_wuthering-heights",
+        "url": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/wuthering-heights/wuthering-heights.pdf",
+        "epub": "books/wuthering-heights/wuthering-heights.epub",
+        "txt": "books/wuthering-heights/wuthering-heights.txt",
+        "cover": "books/wuthering-heights/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "3d65f918",
+      "text_sha256": "de65ea47a2d6df4f4b58a5d644c0cc513152bb037b89c6734ac0e3c529d35cea"
     }
   ]
 }

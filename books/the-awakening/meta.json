@@ -1,0 +1,46 @@
+{
+  "id": "160",
+  "slug": "the-awakening",
+  "title": "The Awakening",
+  "author": {
+    "name": "Kate Chopin",
+    "file_as": "Chopin, Kate",
+    "death": 1904
+  },
+  "year": 1899,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Women -- Louisiana -- Fiction",
+    "Self-actualization (Psychology) -- Fiction"
+  ],
+  "blurb": "A woman on a Louisiana coast discovers she is a person, and the century was not ready. Condemned on publication, essential now.",
+  "rights": {
+    "basis": "author d. 1904; first published 1899 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "kate-chopin_the-awakening",
+    "url": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-awakening/the-awakening.pdf",
+    "epub": "books/the-awakening/the-awakening.epub",
+    "txt": "books/the-awakening/the-awakening.txt",
+    "cover": "books/the-awakening/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "5eb33c5f",
+  "text_sha256": "16f70dcb2419a8928ea85248d693dff4ac910a0ef631b429c29fe1fa3a0581ff"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1260",
+  "slug": "jane-eyre",
+  "title": "Jane Eyre",
+  "author": {
+    "name": "Charlotte Bronte",
+    "file_as": "Bronte, Charlotte",
+    "death": 1855
+  },
+  "year": 1847,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Governesses -- Fiction",
+    "England -- Social life and customs"
+  ],
+  "blurb": "A governess, a locked attic, and the first heroine in English fiction to insist on being spoken to as an equal.",
+  "rights": {
+    "basis": "author d. 1855; first published 1847 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charlotte-bronte_jane-eyre",
+    "url": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/jane-eyre/jane-eyre.pdf",
+    "epub": "books/jane-eyre/jane-eyre.epub",
+    "txt": "books/jane-eyre/jane-eyre.txt",
+    "cover": "books/jane-eyre/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "e85b55cc",
+  "text_sha256": "5eb6385f5aaa53a62b8d48464da3089d95cfb1d511b81b54b0bf9999e29fd714"
+}

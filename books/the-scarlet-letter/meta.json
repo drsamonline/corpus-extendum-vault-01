@@ -1,0 +1,46 @@
+{
+  "id": "25344",
+  "slug": "the-scarlet-letter",
+  "title": "The Scarlet Letter",
+  "author": {
+    "name": "Nathaniel Hawthorne",
+    "file_as": "Hawthorne, Nathaniel",
+    "death": 1864
+  },
+  "year": 1850,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Puritans -- Fiction",
+    "Adultery -- Fiction"
+  ],
+  "blurb": "A letter worn on a dress, and a town that needs it worn. The first great American novel, and still the most exact about shame.",
+  "rights": {
+    "basis": "author d. 1864; first published 1850 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "nathaniel-hawthorne_the-scarlet-letter",
+    "url": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-scarlet-letter/the-scarlet-letter.pdf",
+    "epub": "books/the-scarlet-letter/the-scarlet-letter.epub",
+    "txt": "books/the-scarlet-letter/the-scarlet-letter.txt",
+    "cover": "books/the-scarlet-letter/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "a5cadb15",
+  "text_sha256": "962ac5b3e07f974b1adbd1d2ec2cb4646469a581a24eced975719d6f56eb469e"
+}

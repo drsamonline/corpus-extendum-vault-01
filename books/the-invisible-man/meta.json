@@ -1,0 +1,46 @@
+{
+  "id": "5230",
+  "slug": "the-invisible-man",
+  "title": "The Invisible Man",
+  "author": {
+    "name": "H. G. Wells",
+    "file_as": "Wells, H. G.",
+    "death": 1946
+  },
+  "year": 1897,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Science -- Experiments -- Fiction",
+    "Science fiction"
+  ],
+  "blurb": "A scientist who solves the wrong problem. Wells' nastiest idea, and his funniest: invisibility as a licence for petty cruelty.",
+  "rights": {
+    "basis": "author d. 1946; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-g-wells_the-invisible-man",
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-invisible-man/the-invisible-man.pdf",
+    "epub": "books/the-invisible-man/the-invisible-man.epub",
+    "txt": "books/the-invisible-man/the-invisible-man.txt",
+    "cover": "books/the-invisible-man/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "025dbe5f",
+  "text_sha256": "5c00d82b77619e3832687486c5a375d04e77d6abc87ea7ad9c90b809c6e0786d"
+}

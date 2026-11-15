@@ -1,0 +1,46 @@
+{
+  "id": "174",
+  "slug": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "author": {
+    "name": "Oscar Wilde",
+    "file_as": "Wilde, Oscar",
+    "death": 1900
+  },
+  "year": 1890,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Appearance (Philosophy) -- Fiction",
+    "Conduct of life -- Fiction"
+  ],
+  "blurb": "A portrait ages so its subject need not. Wilde's only novel, and the wittiest book ever written about the cost of never being told no.",
+  "rights": {
+    "basis": "author d. 1900; first published 1890 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "oscar-wilde_the-picture-of-dorian-gray",
+    "url": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.pdf",
+    "epub": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.epub",
+    "txt": "books/the-picture-of-dorian-gray/the-picture-of-dorian-gray.txt",
+    "cover": "books/the-picture-of-dorian-gray/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "6297606a",
+  "text_sha256": "afe98b3e7b734cff53e9bc41469f9b34d52ea18dc4d9ff494e1470f00b595c8d"
+}

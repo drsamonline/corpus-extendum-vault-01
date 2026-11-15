@@ -1,0 +1,46 @@
+{
+  "id": "2701",
+  "slug": "moby-dick",
+  "title": "Moby-Dick; or, The Whale",
+  "author": {
+    "name": "Herman Melville",
+    "file_as": "Melville, Herman",
+    "death": 1891
+  },
+  "year": 1851,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Whaling -- Fiction",
+    "Ahab, Captain (Fictitious character)"
+  ],
+  "blurb": "A whaling voyage that becomes an encyclopaedia, a sermon and a curse. Ignored in its own lifetime, now the great American novel.",
+  "rights": {
+    "basis": "author d. 1891; first published 1851 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "herman-melville_moby-dick",
+    "url": "https://standardebooks.org/ebooks/herman-melville/moby-dick",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/moby-dick/moby-dick.pdf",
+    "epub": "books/moby-dick/moby-dick.epub",
+    "txt": "books/moby-dick/moby-dick.txt",
+    "cover": "books/moby-dick/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "413ce4ab",
+  "text_sha256": "19094886a8b1f0b571e77389d35abe4dcc843c9cd96e1d2623b374c191bc6349"
+}
