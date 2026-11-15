@@ -1,0 +1,46 @@
+{
+  "id": "1342",
+  "slug": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1813,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Courtship -- Fiction",
+    "England -- Social life and customs"
+  ],
+  "blurb": "Elizabeth Bennet and Mr Darcy, and the most quoted opening sentence in English fiction. A comedy of manners that doubles as an argument about how people judge each other.",
+  "rights": {
+    "basis": "author d. 1817; first published 1813 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_pride-and-prejudice",
+    "url": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/pride-and-prejudice/pride-and-prejudice.pdf",
+    "epub": "books/pride-and-prejudice/pride-and-prejudice.epub",
+    "txt": "books/pride-and-prejudice/pride-and-prejudice.txt",
+    "cover": "books/pride-and-prejudice/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "ba2d9425",
+  "text_sha256": "78a0a582db906da05e36af990abed243f3cf64b5e3ecd77eb9ea3743be3ec65b"
+}

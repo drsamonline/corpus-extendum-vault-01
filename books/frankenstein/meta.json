@@ -1,0 +1,46 @@
+{
+  "id": "84",
+  "slug": "frankenstein",
+  "title": "Frankenstein; or, The Modern Prometheus",
+  "author": {
+    "name": "Mary Wollstonecraft Shelley",
+    "file_as": "Shelley, Mary Wollstonecraft",
+    "death": 1851
+  },
+  "year": 1818,
+  "category": "Gothic & Horror",
+  "language": "en",
+  "subjects": [
+    "Frankenstein's monster (Fictitious character)",
+    "Horror tales"
+  ],
+  "blurb": "Written by a teenager on a wet summer holiday, and still the sharpest book about making something you cannot look after.",
+  "rights": {
+    "basis": "author d. 1851; first published 1818 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "mary-shelley_frankenstein",
+    "url": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/frankenstein/frankenstein.pdf",
+    "epub": "books/frankenstein/frankenstein.epub",
+    "txt": "books/frankenstein/frankenstein.txt",
+    "cover": "books/frankenstein/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "19a54747",
+  "text_sha256": "0746682a1c24c5235aa84a688001e12f1191fde519c1fa703daa4ab25d8f81a6"
+}

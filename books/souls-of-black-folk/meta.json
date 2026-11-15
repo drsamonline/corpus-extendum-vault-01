@@ -1,0 +1,46 @@
+{
+  "id": "408",
+  "slug": "souls-of-black-folk",
+  "title": "The Souls of Black Folk",
+  "author": {
+    "name": "W. E. B. Du Bois",
+    "file_as": "Du Bois, W. E. B.",
+    "death": 1963
+  },
+  "year": 1903,
+  "category": "Essays",
+  "language": "en",
+  "subjects": [
+    "African Americans",
+    "United States -- Race relations"
+  ],
+  "blurb": "Fourteen essays that gave American thought the idea of double consciousness. Required reading on race, education and the cost of the colour line.",
+  "rights": {
+    "basis": "author d. 1963; first published 1903 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "w-e-b-du-bois_the-souls-of-black-folk",
+    "url": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/souls-of-black-folk/souls-of-black-folk.pdf",
+    "epub": "books/souls-of-black-folk/souls-of-black-folk.epub",
+    "txt": "books/souls-of-black-folk/souls-of-black-folk.txt",
+    "cover": "books/souls-of-black-folk/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "5f1c8d92",
+  "text_sha256": "a3904a2a0cdcab666ff6c3148f64696a4d61c9c2c37830fcea2f2c3412f42301"
+}

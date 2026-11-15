@@ -1,0 +1,12 @@
+# corpus-extendum-vault-01 | 10 books | 53.1 MB | cap 600 books / 2500 MB | state: open | built 2026-11-15T19:16Z
+# id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
+11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
+2814|dubliners|Dubliners|Joyce, James|1914|Short Stories|en|author d. 1941; first published 1914|pdf,epub,txt|559|890|books/dubliners|6905b4f4|b137cc2e
+84|frankenstein|Frankenstein; or, The Modern Prometheus|Shelley, Mary Wollstonecraft|1818|Gothic & Horror|en|author d. 1851; first published 1818|pdf,epub,txt|650|674|books/frankenstein|19a54747|0746682a
+7164|gitanjali|Gitanjali|Tagore, Rabindranath|1912|Poetry|en|author d. 1941; first published 1912|pdf,epub,txt|149|469|books/gitanjali|43289b3d|c75eb077
+2680|meditations|Meditations|Marcus Aurelius, Emperor of Rome|180|Philosophy|en|author d. 180; first published 180|pdf,epub,txt|428|676|books/meditations|0c15745e|8a65f945
+1342|pride-and-prejudice|Pride and Prejudice|Austen, Jane|1813|Fiction|en|author d. 1817; first published 1813|pdf,epub,txt|1034|803|books/pride-and-prejudice|ba2d9425|78a0a582
+1661|sherlock-holmes|The Adventures of Sherlock Holmes|Doyle, Arthur Conan|1892|Mystery & Detective|en|author d. 1930; first published 1892|pdf,epub,txt|839|1476|books/sherlock-holmes|c33240b6|d1ee5f56
+408|souls-of-black-folk|The Souls of Black Folk|Du Bois, W. E. B.|1903|Essays|en|author d. 1963; first published 1903|pdf,epub,txt|964|716|books/souls-of-black-folk|5f1c8d92|a3904a2a
+2388|the-song-celestial|The Song Celestial; or, Bhagavad-Gita|Arnold, Edwin, Sir|1885|Sacred Texts|en|author d. 1904; first published 1885|pdf,epub,txt|187|120|books/the-song-celestial|36bd6fc1|b7ca516c
+35|the-time-machine|The Time Machine|Wells, H. G.|1895|Science Fiction|en|author d. 1946; first published 1895|pdf,epub,txt|269|520|books/the-time-machine|e3d8bef5|80a067bf

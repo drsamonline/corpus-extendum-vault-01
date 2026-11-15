@@ -1,0 +1,46 @@
+{
+  "id": "2814",
+  "slug": "dubliners",
+  "title": "Dubliners",
+  "author": {
+    "name": "James Joyce",
+    "file_as": "Joyce, James",
+    "death": 1941
+  },
+  "year": 1914,
+  "category": "Short Stories",
+  "language": "en",
+  "subjects": [
+    "Dublin (Ireland) -- Fiction",
+    "Short stories"
+  ],
+  "blurb": "Fifteen stories that move from childhood to public life across a single city. The Dead alone is worth the whole shelf.",
+  "rights": {
+    "basis": "author d. 1941; first published 1914 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "james-joyce_dubliners",
+    "url": "https://standardebooks.org/ebooks/james-joyce/dubliners",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/dubliners/dubliners.pdf",
+    "epub": "books/dubliners/dubliners.epub",
+    "txt": "books/dubliners/dubliners.txt",
+    "cover": "books/dubliners/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "6905b4f4",
+  "text_sha256": "b137cc2ed618e5a0d1aa5f3936c91eaacd6fbc68b899a1de83f30d90b6770447"
+}

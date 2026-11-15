@@ -1,0 +1,46 @@
+{
+  "id": "35",
+  "slug": "the-time-machine",
+  "title": "The Time Machine",
+  "author": {
+    "name": "H. G. Wells",
+    "file_as": "Wells, H. G.",
+    "death": 1946
+  },
+  "year": 1895,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Time travel -- Fiction",
+    "Science fiction"
+  ],
+  "blurb": "The book that gave science fiction its time-travel grammar, and its darkest question: what does progress actually lead to?",
+  "rights": {
+    "basis": "author d. 1946; first published 1895 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-g-wells_the-time-machine",
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-time-machine/the-time-machine.pdf",
+    "epub": "books/the-time-machine/the-time-machine.epub",
+    "txt": "books/the-time-machine/the-time-machine.txt",
+    "cover": "books/the-time-machine/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "e3d8bef5",
+  "text_sha256": "80a067bf540e8fdd2333d350752df50003be08619cc3cef1dfdf2740a1e09417"
+}

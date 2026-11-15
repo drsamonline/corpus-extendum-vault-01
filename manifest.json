@@ -1,0 +1,476 @@
+{
+  "vault": "corpus-extendum-vault-01",
+  "state": "open",
+  "books": 10,
+  "mb": 53.1,
+  "cap": {
+    "books": 600,
+    "mb": 2500
+  },
+  "records": [
+    {
+      "id": "11",
+      "slug": "alice-in-wonderland",
+      "title": "Alice's Adventures in Wonderland",
+      "author": {
+        "name": "Lewis Carroll",
+        "file_as": "Carroll, Lewis",
+        "death": 1898
+      },
+      "year": 1865,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Fantasy fiction",
+        "Alice (Fictitious character from Carroll)"
+      ],
+      "blurb": "A book written for one child and owned by every generation since. Logic, nonsense, and a Queen who wants the sentence first.",
+      "rights": {
+        "basis": "author d. 1898; first published 1865 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "lewis-carroll_alices-adventures-in-wonderland_john-tenniel",
+        "url": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland_john-tenniel",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/alice-in-wonderland/alice-in-wonderland.pdf",
+        "epub": "books/alice-in-wonderland/alice-in-wonderland.epub",
+        "txt": "books/alice-in-wonderland/alice-in-wonderland.txt",
+        "cover": "books/alice-in-wonderland/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "a551490a",
+      "text_sha256": "cea7d9da85d7bfb5f7c212f0f45042b1539833cf43eaad12f384c66a1c52473b"
+    },
+    {
+      "id": "2814",
+      "slug": "dubliners",
+      "title": "Dubliners",
+      "author": {
+        "name": "James Joyce",
+        "file_as": "Joyce, James",
+        "death": 1941
+      },
+      "year": 1914,
+      "category": "Short Stories",
+      "language": "en",
+      "subjects": [
+        "Dublin (Ireland) -- Fiction",
+        "Short stories"
+      ],
+      "blurb": "Fifteen stories that move from childhood to public life across a single city. The Dead alone is worth the whole shelf.",
+      "rights": {
+        "basis": "author d. 1941; first published 1914 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "james-joyce_dubliners",
+        "url": "https://standardebooks.org/ebooks/james-joyce/dubliners",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/dubliners/dubliners.pdf",
+        "epub": "books/dubliners/dubliners.epub",
+        "txt": "books/dubliners/dubliners.txt",
+        "cover": "books/dubliners/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "6905b4f4",
+      "text_sha256": "b137cc2ed618e5a0d1aa5f3936c91eaacd6fbc68b899a1de83f30d90b6770447"
+    },
+    {
+      "id": "84",
+      "slug": "frankenstein",
+      "title": "Frankenstein; or, The Modern Prometheus",
+      "author": {
+        "name": "Mary Wollstonecraft Shelley",
+        "file_as": "Shelley, Mary Wollstonecraft",
+        "death": 1851
+      },
+      "year": 1818,
+      "category": "Gothic & Horror",
+      "language": "en",
+      "subjects": [
+        "Frankenstein's monster (Fictitious character)",
+        "Horror tales"
+      ],
+      "blurb": "Written by a teenager on a wet summer holiday, and still the sharpest book about making something you cannot look after.",
+      "rights": {
+        "basis": "author d. 1851; first published 1818 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "mary-shelley_frankenstein",
+        "url": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/frankenstein/frankenstein.pdf",
+        "epub": "books/frankenstein/frankenstein.epub",
+        "txt": "books/frankenstein/frankenstein.txt",
+        "cover": "books/frankenstein/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "19a54747",
+      "text_sha256": "0746682a1c24c5235aa84a688001e12f1191fde519c1fa703daa4ab25d8f81a6"
+    },
+    {
+      "id": "7164",
+      "slug": "gitanjali",
+      "title": "Gitanjali",
+      "author": {
+        "name": "Rabindranath Tagore",
+        "file_as": "Tagore, Rabindranath",
+        "death": 1941
+      },
+      "year": 1912,
+      "category": "Poetry",
+      "language": "en",
+      "subjects": [
+        "Indic poetry -- Translations into English",
+        "Prose poems, Bengali"
+      ],
+      "blurb": "The English Gitanjali, translated by Tagore himself with an introduction by W. B. Yeats, won the 1913 Nobel Prize in Literature — the first for Asia.",
+      "rights": {
+        "basis": "author d. 1941; first published 1912 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "rabindranath-tagore_gitanjali",
+        "url": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/gitanjali/gitanjali.pdf",
+        "epub": "books/gitanjali/gitanjali.epub",
+        "txt": "books/gitanjali/gitanjali.txt",
+        "cover": "books/gitanjali/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "43289b3d",
+      "text_sha256": "c75eb077c7d5c193bf4163214f456a24e79acb89b1a637166d18c8e4b8d53cf8"
+    },
+    {
+      "id": "2680",
+      "slug": "meditations",
+      "title": "Meditations",
+      "author": {
+        "name": "Marcus Aurelius",
+        "file_as": "Marcus Aurelius, Emperor of Rome",
+        "death": 180
+      },
+      "year": 180,
+      "category": "Philosophy",
+      "language": "en",
+      "subjects": [
+        "Stoics",
+        "Ethics -- Early works to 1800"
+      ],
+      "blurb": "A Roman emperor's private notes to himself, never meant for publication. The most practical ethics ever written down.",
+      "rights": {
+        "basis": "author d. 180; first published 180 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "marcus-aurelius_meditations_george-long",
+        "url": "https://standardebooks.org/ebooks/marcus-aurelius/meditations_george-long",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/meditations/meditations.pdf",
+        "epub": "books/meditations/meditations.epub",
+        "txt": "books/meditations/meditations.txt",
+        "cover": "books/meditations/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "0c15745e",
+      "text_sha256": "8a65f94554e7fc73a1ce8b66c03763b92f990614fb36a2bdb563469a51b634ca",
+      "translator": {
+        "name": "George Long",
+        "death": 1879
+      }
+    },
+    {
+      "id": "1342",
+      "slug": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1813,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Courtship -- Fiction",
+        "England -- Social life and customs"
+      ],
+      "blurb": "Elizabeth Bennet and Mr Darcy, and the most quoted opening sentence in English fiction. A comedy of manners that doubles as an argument about how people judge each other.",
+      "rights": {
+        "basis": "author d. 1817; first published 1813 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_pride-and-prejudice",
+        "url": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/pride-and-prejudice/pride-and-prejudice.pdf",
+        "epub": "books/pride-and-prejudice/pride-and-prejudice.epub",
+        "txt": "books/pride-and-prejudice/pride-and-prejudice.txt",
+        "cover": "books/pride-and-prejudice/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "ba2d9425",
+      "text_sha256": "78a0a582db906da05e36af990abed243f3cf64b5e3ecd77eb9ea3743be3ec65b"
+    },
+    {
+      "id": "1661",
+      "slug": "sherlock-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": {
+        "name": "Arthur Conan Doyle",
+        "file_as": "Doyle, Arthur Conan",
+        "death": 1930
+      },
+      "year": 1892,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Holmes, Sherlock (Fictitious character)",
+        "Detective and mystery stories"
+      ],
+      "blurb": "Twelve cases, from A Scandal in Bohemia to The Copper Beeches. The template for every detective story written since.",
+      "rights": {
+        "basis": "author d. 1930; first published 1892 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "arthur-conan-doyle_the-adventures-of-sherlock-holmes",
+        "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/sherlock-holmes/sherlock-holmes.pdf",
+        "epub": "books/sherlock-holmes/sherlock-holmes.epub",
+        "txt": "books/sherlock-holmes/sherlock-holmes.txt",
+        "cover": "books/sherlock-holmes/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "c33240b6",
+      "text_sha256": "d1ee5f56c075ef02c0b291cfffd34a6fad23fd4cf7d52f216dac2c8ee2b767c6"
+    },
+    {
+      "id": "408",
+      "slug": "souls-of-black-folk",
+      "title": "The Souls of Black Folk",
+      "author": {
+        "name": "W. E. B. Du Bois",
+        "file_as": "Du Bois, W. E. B.",
+        "death": 1963
+      },
+      "year": 1903,
+      "category": "Essays",
+      "language": "en",
+      "subjects": [
+        "African Americans",
+        "United States -- Race relations"
+      ],
+      "blurb": "Fourteen essays that gave American thought the idea of double consciousness. Required reading on race, education and the cost of the colour line.",
+      "rights": {
+        "basis": "author d. 1963; first published 1903 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "w-e-b-du-bois_the-souls-of-black-folk",
+        "url": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/souls-of-black-folk/souls-of-black-folk.pdf",
+        "epub": "books/souls-of-black-folk/souls-of-black-folk.epub",
+        "txt": "books/souls-of-black-folk/souls-of-black-folk.txt",
+        "cover": "books/souls-of-black-folk/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "5f1c8d92",
+      "text_sha256": "a3904a2a0cdcab666ff6c3148f64696a4d61c9c2c37830fcea2f2c3412f42301"
+    },
+    {
+      "id": "2388",
+      "slug": "the-song-celestial",
+      "title": "The Song Celestial; or, Bhagavad-Gita",
+      "author": {
+        "name": "trans. Sir Edwin Arnold",
+        "file_as": "Arnold, Edwin, Sir",
+        "death": 1904
+      },
+      "year": 1885,
+      "category": "Sacred Texts",
+      "language": "en",
+      "subjects": [
+        "Hinduism -- Sacred books",
+        "Sanskrit poetry -- Translations into English"
+      ],
+      "blurb": "Arnold's verse translation of the Gita, the version Gandhi called the best he had read in English. Krishna and Arjuna, on duty, action and letting go of the result.",
+      "rights": {
+        "basis": "author d. 1904; first published 1885 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "GITenberg (Project Gutenberg mirror)",
+        "ref": "GITenberg/The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju__2388",
+        "url": "https://www.gutenberg.org/ebooks/2388",
+        "licence": "Project Gutenberg Licence · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-song-celestial/the-song-celestial.pdf",
+        "epub": "books/the-song-celestial/the-song-celestial.epub",
+        "txt": "books/the-song-celestial/the-song-celestial.txt",
+        "cover": "books/the-song-celestial/cover.jpg"
+      },
+      "cover_kind": "generated",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "36bd6fc1",
+      "text_sha256": "b7ca516c13b0e5ef43a86572f97edb8a60df868d773eed7205e3847a16a36d6e"
+    },
+    {
+      "id": "35",
+      "slug": "the-time-machine",
+      "title": "The Time Machine",
+      "author": {
+        "name": "H. G. Wells",
+        "file_as": "Wells, H. G.",
+        "death": 1946
+      },
+      "year": 1895,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Time travel -- Fiction",
+        "Science fiction"
+      ],
+      "blurb": "The book that gave science fiction its time-travel grammar, and its darkest question: what does progress actually lead to?",
+      "rights": {
+        "basis": "author d. 1946; first published 1895 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-15"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-g-wells_the-time-machine",
+        "url": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-time-machine/the-time-machine.pdf",
+        "epub": "books/the-time-machine/the-time-machine.epub",
+        "txt": "books/the-time-machine/the-time-machine.txt",
+        "cover": "books/the-time-machine/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-15",
+      "file_sha8": "e3d8bef5",
+      "text_sha256": "80a067bf540e8fdd2333d350752df50003be08619cc3cef1dfdf2740a1e09417"
+    }
+  ]
+}

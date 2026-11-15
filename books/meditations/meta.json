@@ -1,0 +1,50 @@
+{
+  "id": "2680",
+  "slug": "meditations",
+  "title": "Meditations",
+  "author": {
+    "name": "Marcus Aurelius",
+    "file_as": "Marcus Aurelius, Emperor of Rome",
+    "death": 180
+  },
+  "year": 180,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Stoics",
+    "Ethics -- Early works to 1800"
+  ],
+  "blurb": "A Roman emperor's private notes to himself, never meant for publication. The most practical ethics ever written down.",
+  "rights": {
+    "basis": "author d. 180; first published 180 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "marcus-aurelius_meditations_george-long",
+    "url": "https://standardebooks.org/ebooks/marcus-aurelius/meditations_george-long",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/meditations/meditations.pdf",
+    "epub": "books/meditations/meditations.epub",
+    "txt": "books/meditations/meditations.txt",
+    "cover": "books/meditations/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "0c15745e",
+  "text_sha256": "8a65f94554e7fc73a1ce8b66c03763b92f990614fb36a2bdb563469a51b634ca",
+  "translator": {
+    "name": "George Long",
+    "death": 1879
+  }
+}

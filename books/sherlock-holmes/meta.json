@@ -1,0 +1,46 @@
+{
+  "id": "1661",
+  "slug": "sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "file_as": "Doyle, Arthur Conan",
+    "death": 1930
+  },
+  "year": 1892,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character)",
+    "Detective and mystery stories"
+  ],
+  "blurb": "Twelve cases, from A Scandal in Bohemia to The Copper Beeches. The template for every detective story written since.",
+  "rights": {
+    "basis": "author d. 1930; first published 1892 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "arthur-conan-doyle_the-adventures-of-sherlock-holmes",
+    "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/sherlock-holmes/sherlock-holmes.pdf",
+    "epub": "books/sherlock-holmes/sherlock-holmes.epub",
+    "txt": "books/sherlock-holmes/sherlock-holmes.txt",
+    "cover": "books/sherlock-holmes/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "c33240b6",
+  "text_sha256": "d1ee5f56c075ef02c0b291cfffd34a6fad23fd4cf7d52f216dac2c8ee2b767c6"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "11",
+  "slug": "alice-in-wonderland",
+  "title": "Alice's Adventures in Wonderland",
+  "author": {
+    "name": "Lewis Carroll",
+    "file_as": "Carroll, Lewis",
+    "death": 1898
+  },
+  "year": 1865,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Fantasy fiction",
+    "Alice (Fictitious character from Carroll)"
+  ],
+  "blurb": "A book written for one child and owned by every generation since. Logic, nonsense, and a Queen who wants the sentence first.",
+  "rights": {
+    "basis": "author d. 1898; first published 1865 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "lewis-carroll_alices-adventures-in-wonderland_john-tenniel",
+    "url": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland_john-tenniel",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/alice-in-wonderland/alice-in-wonderland.pdf",
+    "epub": "books/alice-in-wonderland/alice-in-wonderland.epub",
+    "txt": "books/alice-in-wonderland/alice-in-wonderland.txt",
+    "cover": "books/alice-in-wonderland/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "a551490a",
+  "text_sha256": "cea7d9da85d7bfb5f7c212f0f45042b1539833cf43eaad12f384c66a1c52473b"
+}

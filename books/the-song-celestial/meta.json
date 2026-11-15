@@ -1,0 +1,46 @@
+{
+  "id": "2388",
+  "slug": "the-song-celestial",
+  "title": "The Song Celestial; or, Bhagavad-Gita",
+  "author": {
+    "name": "trans. Sir Edwin Arnold",
+    "file_as": "Arnold, Edwin, Sir",
+    "death": 1904
+  },
+  "year": 1885,
+  "category": "Sacred Texts",
+  "language": "en",
+  "subjects": [
+    "Hinduism -- Sacred books",
+    "Sanskrit poetry -- Translations into English"
+  ],
+  "blurb": "Arnold's verse translation of the Gita, the version Gandhi called the best he had read in English. Krishna and Arjuna, on duty, action and letting go of the result.",
+  "rights": {
+    "basis": "author d. 1904; first published 1885 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "GITenberg (Project Gutenberg mirror)",
+    "ref": "GITenberg/The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju__2388",
+    "url": "https://www.gutenberg.org/ebooks/2388",
+    "licence": "Project Gutenberg Licence · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-song-celestial/the-song-celestial.pdf",
+    "epub": "books/the-song-celestial/the-song-celestial.epub",
+    "txt": "books/the-song-celestial/the-song-celestial.txt",
+    "cover": "books/the-song-celestial/cover.jpg"
+  },
+  "cover_kind": "generated",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "36bd6fc1",
+  "text_sha256": "b7ca516c13b0e5ef43a86572f97edb8a60df868d773eed7205e3847a16a36d6e"
+}

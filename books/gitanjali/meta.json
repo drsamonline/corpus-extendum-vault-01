@@ -1,0 +1,46 @@
+{
+  "id": "7164",
+  "slug": "gitanjali",
+  "title": "Gitanjali",
+  "author": {
+    "name": "Rabindranath Tagore",
+    "file_as": "Tagore, Rabindranath",
+    "death": 1941
+  },
+  "year": 1912,
+  "category": "Poetry",
+  "language": "en",
+  "subjects": [
+    "Indic poetry -- Translations into English",
+    "Prose poems, Bengali"
+  ],
+  "blurb": "The English Gitanjali, translated by Tagore himself with an introduction by W. B. Yeats, won the 1913 Nobel Prize in Literature — the first for Asia.",
+  "rights": {
+    "basis": "author d. 1941; first published 1912 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-15"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "rabindranath-tagore_gitanjali",
+    "url": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/gitanjali/gitanjali.pdf",
+    "epub": "books/gitanjali/gitanjali.epub",
+    "txt": "books/gitanjali/gitanjali.txt",
+    "cover": "books/gitanjali/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-15",
+  "file_sha8": "43289b3d",
+  "text_sha256": "c75eb077c7d5c193bf4163214f456a24e79acb89b1a637166d18c8e4b8d53cf8"
+}
