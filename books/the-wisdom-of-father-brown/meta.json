@@ -1,0 +1,46 @@
+{
+  "id": "223",
+  "slug": "the-wisdom-of-father-brown",
+  "title": "The Wisdom of Father Brown",
+  "author": {
+    "name": "G. K. Chesterton",
+    "file_as": "Chesterton, G. K.",
+    "death": 1936
+  },
+  "year": 1914,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Brown, Father (Fictitious character)",
+    "Detective and mystery stories"
+  ],
+  "blurb": "Twelve more cases for the little priest who solves crimes by knowing what people are like. Chesterton's puzzles are better the second time.",
+  "rights": {
+    "basis": "author d. 1936; first published 1914 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "g-k-chesterton_the-wisdom-of-father-brown",
+    "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.pdf",
+    "epub": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.epub",
+    "txt": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.txt",
+    "cover": "books/the-wisdom-of-father-brown/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "12673780",
+  "text_sha256": "9ecbc9c34b62f5d8cbc7c8ef9e0caeaff250183fcbf53b7f8c6ed5cd94c0ff4d"
+}

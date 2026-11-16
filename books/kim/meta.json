@@ -1,0 +1,46 @@
+{
+  "id": "2226",
+  "slug": "kim",
+  "title": "Kim",
+  "author": {
+    "name": "Rudyard Kipling",
+    "file_as": "Kipling, Rudyard",
+    "death": 1936
+  },
+  "year": 1901,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "India -- Fiction",
+    "Orphans -- Fiction"
+  ],
+  "blurb": "An orphan on the Grand Trunk Road, a lama looking for a river, and the Great Game running underneath. Kipling's best novel, and the most complicated.",
+  "rights": {
+    "basis": "author d. 1936; first published 1901 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "rudyard-kipling_kim",
+    "url": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/kim/kim.pdf",
+    "epub": "books/kim/kim.epub",
+    "txt": "books/kim/kim.txt",
+    "cover": "books/kim/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "0c669ac6",
+  "text_sha256": "a01f1d57cb868e60b18bce6aac3cc1870a4c678061daab15549835deefe48495"
+}

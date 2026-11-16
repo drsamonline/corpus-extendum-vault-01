@@ -1,8 +1,8 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 47,
-  "mb": 153.3,
+  "books": 63,
+  "mb": 195.7,
   "cap": {
     "books": 600,
     "mb": 2500
@@ -152,6 +152,98 @@
         "translation_year": 1873,
         "source": "Wikipedia, George Makepeace Towle — died 9 August 1893, Brookline, Massachusetts; translated Verne's Around the World in Eighty Days, 1873"
       }
+    },
+    {
+      "id": "1023",
+      "slug": "bleak-house",
+      "title": "Bleak House",
+      "author": {
+        "name": "Charles Dickens",
+        "file_as": "Dickens, Charles",
+        "death": 1870
+      },
+      "year": 1853,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "London (England) -- Fiction",
+        "Legal stories"
+      ],
+      "blurb": "A lawsuit that outlives everyone in it, and fog over London. Dickens' most ambitious book, and the funniest about catastrophe.",
+      "rights": {
+        "basis": "author d. 1870; first published 1853 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charles-dickens_bleak-house",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/bleak-house/bleak-house.pdf",
+        "epub": "books/bleak-house/bleak-house.epub",
+        "txt": "books/bleak-house/bleak-house.txt",
+        "cover": "books/bleak-house/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "abe319e2",
+      "text_sha256": "a7f4d2a0c744a407c9ac45de2152443c2c708415af7be33e6ee35a743558fb7c"
+    },
+    {
+      "id": "766",
+      "slug": "david-copperfield",
+      "title": "David Copperfield",
+      "author": {
+        "name": "Charles Dickens",
+        "file_as": "Dickens, Charles",
+        "death": 1870
+      },
+      "year": 1850,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "England -- Social life and customs -- 19th century",
+        "Autobiographical fiction"
+      ],
+      "blurb": "The novel Dickens called his favourite child — a whole life from birth to middle age, and the best account of a bad childhood in English.",
+      "rights": {
+        "basis": "author d. 1870; first published 1850 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charles-dickens_david-copperfield",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/david-copperfield/david-copperfield.pdf",
+        "epub": "books/david-copperfield/david-copperfield.epub",
+        "txt": "books/david-copperfield/david-copperfield.txt",
+        "cover": "books/david-copperfield/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "fa5574e2",
+      "text_sha256": "adeae8f09c4c2d0f5a20012baae1e62d6fb363979ddf127f8c9bc7169352585b"
     },
     {
       "id": "43",
@@ -335,6 +427,52 @@
       "added": "2026-11-16",
       "file_sha8": "f6e2142d",
       "text_sha256": "496435fef773dac0dce08546717b0b7d2be2b9ff12c4db25f6da73f5dc16f73a"
+    },
+    {
+      "id": "158",
+      "slug": "emma",
+      "title": "Emma",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1815,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "England -- Social life and customs -- 19th century",
+        "Mate selection -- Fiction"
+      ],
+      "blurb": "A clever woman who cannot resist arranging other people's lives, and the one man who sees straight through her.",
+      "rights": {
+        "basis": "author d. 1817; first published 1815 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_emma",
+        "url": "https://standardebooks.org/ebooks/jane-austen/emma",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/emma/emma.pdf",
+        "epub": "books/emma/emma.epub",
+        "txt": "books/emma/emma.txt",
+        "cover": "books/emma/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "833093a1",
+      "text_sha256": "d119670c61055f64cada2a4128fc289281761f93f254806be56acce957a7cc2c"
     },
     {
       "id": "10661",
@@ -803,6 +941,98 @@
       "text_sha256": "7a3f26352f3b1fe1acb26c290fcf83a9802fed48a41b1846852c9a8357d7ebfa"
     },
     {
+      "id": "421",
+      "slug": "kidnapped",
+      "title": "Kidnapped",
+      "author": {
+        "name": "Robert Louis Stevenson",
+        "file_as": "Stevenson, Robert Louis",
+        "death": 1894
+      },
+      "year": 1886,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Scotland -- History -- 18th century -- Fiction",
+        "Adventure stories"
+      ],
+      "blurb": "An orphan sold to a ship's captain, a flight across the Highlands, and a friendship that is the best thing in the book.",
+      "rights": {
+        "basis": "author d. 1894; first published 1886 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "robert-louis-stevenson_kidnapped",
+        "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/kidnapped/kidnapped.pdf",
+        "epub": "books/kidnapped/kidnapped.epub",
+        "txt": "books/kidnapped/kidnapped.txt",
+        "cover": "books/kidnapped/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "ff395695",
+      "text_sha256": "1a70ff02c5c95b848661bb8aefbf024c604eaf1978c31c9a6a6536812324f6fd"
+    },
+    {
+      "id": "2226",
+      "slug": "kim",
+      "title": "Kim",
+      "author": {
+        "name": "Rudyard Kipling",
+        "file_as": "Kipling, Rudyard",
+        "death": 1936
+      },
+      "year": 1901,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "India -- Fiction",
+        "Orphans -- Fiction"
+      ],
+      "blurb": "An orphan on the Grand Trunk Road, a lama looking for a river, and the Great Game running underneath. Kipling's best novel, and the most complicated.",
+      "rights": {
+        "basis": "author d. 1936; first published 1901 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "rudyard-kipling_kim",
+        "url": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/kim/kim.pdf",
+        "epub": "books/kim/kim.epub",
+        "txt": "books/kim/kim.txt",
+        "cover": "books/kim/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "0c669ac6",
+      "text_sha256": "a01f1d57cb868e60b18bce6aac3cc1870a4c678061daab15549835deefe48495"
+    },
+    {
       "id": "2166",
       "slug": "king-solomons-mines",
       "title": "King Solomon's Mines",
@@ -940,6 +1170,98 @@
       "text_sha256": "7e58dddc1e278aefe69bb97168afe275c3829ebe07ac37633f05cdc0746a1a4a"
     },
     {
+      "id": "5658",
+      "slug": "lord-jim",
+      "title": "Lord Jim",
+      "author": {
+        "name": "Joseph Conrad",
+        "file_as": "Conrad, Joseph",
+        "death": 1924
+      },
+      "year": 1900,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Seafaring life -- Fiction",
+        "Psychological fiction"
+      ],
+      "blurb": "A young officer jumps ship, and spends the rest of his life trying to be the man who would not have. Conrad on courage as an accident.",
+      "rights": {
+        "basis": "author d. 1924; first published 1900 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "joseph-conrad_lord-jim",
+        "url": "https://standardebooks.org/ebooks/joseph-conrad/lord-jim",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/lord-jim/lord-jim.pdf",
+        "epub": "books/lord-jim/lord-jim.epub",
+        "txt": "books/lord-jim/lord-jim.txt",
+        "cover": "books/lord-jim/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "c61abf0d",
+      "text_sha256": "249251c98e7631d0f85ffd2407c75f0793e44be3f82137bc18d28c385b2dcb7d"
+    },
+    {
+      "id": "141",
+      "slug": "mansfield-park",
+      "title": "Mansfield Park",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1814,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Cousins -- Fiction",
+        "England -- Social life and customs"
+      ],
+      "blurb": "The poor relation taken in, and the family that never lets her forget it. Austen's most argued-over novel, and her most quietly savage.",
+      "rights": {
+        "basis": "author d. 1817; first published 1814 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_mansfield-park",
+        "url": "https://standardebooks.org/ebooks/jane-austen/mansfield-park",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/mansfield-park/mansfield-park.pdf",
+        "epub": "books/mansfield-park/mansfield-park.epub",
+        "txt": "books/mansfield-park/mansfield-park.txt",
+        "cover": "books/mansfield-park/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "661c5136",
+      "text_sha256": "87ee0ef241bd1d8393a3013d28ed5bfcddc3dc00ea41f1ce59ca7f461aa0f36c"
+    },
+    {
       "id": "2680",
       "slug": "meditations",
       "title": "Meditations",
@@ -1036,6 +1358,98 @@
       "text_sha256": "19094886a8b1f0b571e77389d35abe4dcc843c9cd96e1d2623b374c191bc6349"
     },
     {
+      "id": "121",
+      "slug": "northanger-abbey",
+      "title": "Northanger Abbey",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1817,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Gothic fiction -- Parodies",
+        "England -- Social life and customs"
+      ],
+      "blurb": "A girl who has read too many gothic novels arrives at an abbey expecting horrors and finds something worse: ordinary people.",
+      "rights": {
+        "basis": "author d. 1817; first published 1817 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_northanger-abbey",
+        "url": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/northanger-abbey/northanger-abbey.pdf",
+        "epub": "books/northanger-abbey/northanger-abbey.epub",
+        "txt": "books/northanger-abbey/northanger-abbey.txt",
+        "cover": "books/northanger-abbey/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "04828f61",
+      "text_sha256": "412c675010d6533120fabc8b5043ba8168835a6cf57d68b7d751d1ed98c0d533"
+    },
+    {
+      "id": "730",
+      "slug": "oliver-twist",
+      "title": "Oliver Twist",
+      "author": {
+        "name": "Charles Dickens",
+        "file_as": "Dickens, Charles",
+        "death": 1870
+      },
+      "year": 1838,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Orphans -- Fiction",
+        "London (England) -- Social life and customs"
+      ],
+      "blurb": "A workhouse boy asks for more, and a city decides what he is worth. Dickens writing about institutions while angry.",
+      "rights": {
+        "basis": "author d. 1870; first published 1838 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charles-dickens_oliver-twist",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/oliver-twist/oliver-twist.pdf",
+        "epub": "books/oliver-twist/oliver-twist.epub",
+        "txt": "books/oliver-twist/oliver-twist.txt",
+        "cover": "books/oliver-twist/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "d6ba25a1",
+      "text_sha256": "b2ba776841d463d2480efd957b50535c4a9d31dd33ffe0ac07946ee1c082ed2d"
+    },
+    {
       "id": "34901",
       "slug": "on-liberty",
       "title": "On Liberty",
@@ -1082,6 +1496,52 @@
       "text_sha256": "4fc52a60e416e6f848d86e37430c73c870f77be0ab26cbf82d5783f78decf75a"
     },
     {
+      "id": "105",
+      "slug": "persuasion",
+      "title": "Persuasion",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1817,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Rejection (Psychology) -- Fiction",
+        "England -- Social life and customs"
+      ],
+      "blurb": "The one that got away, eight years on. Austen's last and most autumnal book, and the only one where the heroine has already been persuaded wrong.",
+      "rights": {
+        "basis": "author d. 1817; first published 1817 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_persuasion",
+        "url": "https://standardebooks.org/ebooks/jane-austen/persuasion",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/persuasion/persuasion.pdf",
+        "epub": "books/persuasion/persuasion.epub",
+        "txt": "books/persuasion/persuasion.txt",
+        "cover": "books/persuasion/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "c19a838d",
+      "text_sha256": "9029f8bf36da6f6b1615edd5be3d2a7544a3f6448f2936ce81786d75f26c3319"
+    },
+    {
       "id": "1342",
       "slug": "pride-and-prejudice",
       "title": "Pride and Prejudice",
@@ -1126,6 +1586,52 @@
       "added": "2026-11-15",
       "file_sha8": "ba2d9425",
       "text_sha256": "78a0a582db906da05e36af990abed243f3cf64b5e3ecd77eb9ea3743be3ec65b"
+    },
+    {
+      "id": "161",
+      "slug": "sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "author": {
+        "name": "Jane Austen",
+        "file_as": "Austen, Jane",
+        "death": 1817
+      },
+      "year": 1811,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Sisters -- Fiction",
+        "England -- Social life and customs"
+      ],
+      "blurb": "Two sisters, one governed by feeling and one by judgement, and a world that rewards neither. Austen's first published novel.",
+      "rights": {
+        "basis": "author d. 1817; first published 1811 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jane-austen_sense-and-sensibility",
+        "url": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/sense-and-sensibility/sense-and-sensibility.pdf",
+        "epub": "books/sense-and-sensibility/sense-and-sensibility.epub",
+        "txt": "books/sense-and-sensibility/sense-and-sensibility.txt",
+        "cover": "books/sense-and-sensibility/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "024b2335",
+      "text_sha256": "62978a42afbaab90a4ff60843073233857875538ad3c4ce23208d0826393f8fc"
     },
     {
       "id": "1661",
@@ -1418,6 +1924,52 @@
       }
     },
     {
+      "id": "52501",
+      "slug": "the-first-men-in-the-moon",
+      "title": "The First Men in the Moon",
+      "author": {
+        "name": "H. G. Wells",
+        "file_as": "Wells, H. G.",
+        "death": 1946
+      },
+      "year": 1901,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Moon -- Fiction",
+        "Science fiction"
+      ],
+      "blurb": "An inventor, a bankrupt, and a sphere with a blind spot. Wells' moon is inhabited, organised, and entirely uninterested in visitors.",
+      "rights": {
+        "basis": "author d. 1946; first published 1901 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-g-wells_the-first-men-in-the-moon",
+        "url": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.pdf",
+        "epub": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.epub",
+        "txt": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.txt",
+        "cover": "books/the-first-men-in-the-moon/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "a65f2188",
+      "text_sha256": "ddc92f54f26169791cbb7874db58f887fe830503561e4b975f293991ffac382d"
+    },
+    {
       "id": "2852",
       "slug": "the-hound-of-the-baskervilles",
       "title": "The Hound of the Baskervilles",
@@ -1508,6 +2060,52 @@
       "added": "2026-11-15",
       "file_sha8": "025dbe5f",
       "text_sha256": "5c00d82b77619e3832687486c5a375d04e77d6abc87ea7ad9c90b809c6e0786d"
+    },
+    {
+      "id": "159",
+      "slug": "the-island-of-doctor-moreau",
+      "title": "The Island of Doctor Moreau",
+      "author": {
+        "name": "H. G. Wells",
+        "file_as": "Wells, H. G.",
+        "death": 1946
+      },
+      "year": 1896,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Animal experimentation -- Fiction",
+        "Science fiction"
+      ],
+      "blurb": "A castaway, a vivisectionist, and the animals he is teaching to be people. Wells at his most unforgiving about what we do to the vulnerable.",
+      "rights": {
+        "basis": "author d. 1946; first published 1896 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-g-wells_the-island-of-doctor-moreau",
+        "url": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.pdf",
+        "epub": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.epub",
+        "txt": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.txt",
+        "cover": "books/the-island-of-doctor-moreau/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "162dd8ad",
+      "text_sha256": "19dd9beac6a49fa05d5ef1ca15058dfa70488bcaf1d7e1309d6254c38be0d50f"
     },
     {
       "id": "18247",
@@ -1832,6 +2430,52 @@
       "text_sha256": "b7ca516c13b0e5ef43a86572f97edb8a60df868d773eed7205e3847a16a36d6e"
     },
     {
+      "id": "969",
+      "slug": "the-tenant-of-wildfell-hall",
+      "title": "The Tenant of Wildfell Hall",
+      "author": {
+        "name": "Anne Bronte",
+        "file_as": "Bronte, Anne",
+        "death": 1849
+      },
+      "year": 1848,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Alcoholism -- Fiction",
+        "Married women -- Fiction"
+      ],
+      "blurb": "A woman leaves a violent husband and is treated as the criminal for it. The most radical novel of its decade, from the least remembered sister.",
+      "rights": {
+        "basis": "author d. 1849; first published 1848 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "anne-bronte_the-tenant-of-wildfell-hall",
+        "url": "https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.pdf",
+        "epub": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.epub",
+        "txt": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.txt",
+        "cover": "books/the-tenant-of-wildfell-hall/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "defef284",
+      "text_sha256": "b0b520a742b7da6339b1ffba9f556ae4c063b39b4c6954111afd066bb37bd375"
+    },
+    {
       "id": "35",
       "slug": "the-time-machine",
       "title": "The Time Machine",
@@ -1970,6 +2614,52 @@
       "text_sha256": "5e3150488c334469e5734ae5887c4b2b02e4ce54cd32eb4fc7e9054b62a12007"
     },
     {
+      "id": "223",
+      "slug": "the-wisdom-of-father-brown",
+      "title": "The Wisdom of Father Brown",
+      "author": {
+        "name": "G. K. Chesterton",
+        "file_as": "Chesterton, G. K.",
+        "death": 1936
+      },
+      "year": 1914,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Brown, Father (Fictitious character)",
+        "Detective and mystery stories"
+      ],
+      "blurb": "Twelve more cases for the little priest who solves crimes by knowing what people are like. Chesterton's puzzles are better the second time.",
+      "rights": {
+        "basis": "author d. 1936; first published 1914 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "g-k-chesterton_the-wisdom-of-father-brown",
+        "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.pdf",
+        "epub": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.epub",
+        "txt": "books/the-wisdom-of-father-brown/the-wisdom-of-father-brown.txt",
+        "cover": "books/the-wisdom-of-father-brown/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "12673780",
+      "text_sha256": "9ecbc9c34b62f5d8cbc7c8ef9e0caeaff250183fcbf53b7f8c6ed5cd94c0ff4d"
+    },
+    {
       "id": "583",
       "slug": "the-woman-in-white",
       "title": "The Woman in White",
@@ -2106,6 +2796,52 @@
       "added": "2026-11-15",
       "file_sha8": "64256573",
       "text_sha256": "3a6662cb21f07291f3572ab317aa0c1d7224f102fd07525c21bb148f4f111996"
+    },
+    {
+      "id": "9182",
+      "slug": "villette",
+      "title": "Villette",
+      "author": {
+        "name": "Charlotte Bronte",
+        "file_as": "Bronte, Charlotte",
+        "death": 1855
+      },
+      "year": 1853,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "British -- Belgium -- Fiction",
+        "Women teachers -- Fiction"
+      ],
+      "blurb": "A plain, friendless woman makes her own way in a foreign city. The most interior of the Brontë novels, and the least consoling.",
+      "rights": {
+        "basis": "author d. 1855; first published 1853 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "charlotte-bronte_villette",
+        "url": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/villette/villette.pdf",
+        "epub": "books/villette/villette.epub",
+        "txt": "books/villette/villette.txt",
+        "cover": "books/villette/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "bb1fa350",
+      "text_sha256": "9327b69427150a9b47e1344ff5e9c6766eff0773b795d19aba6d8bb038a24cce"
     },
     {
       "id": "205",

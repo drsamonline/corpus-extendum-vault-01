@@ -1,0 +1,46 @@
+{
+  "id": "141",
+  "slug": "mansfield-park",
+  "title": "Mansfield Park",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1814,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Cousins -- Fiction",
+    "England -- Social life and customs"
+  ],
+  "blurb": "The poor relation taken in, and the family that never lets her forget it. Austen's most argued-over novel, and her most quietly savage.",
+  "rights": {
+    "basis": "author d. 1817; first published 1814 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_mansfield-park",
+    "url": "https://standardebooks.org/ebooks/jane-austen/mansfield-park",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/mansfield-park/mansfield-park.pdf",
+    "epub": "books/mansfield-park/mansfield-park.epub",
+    "txt": "books/mansfield-park/mansfield-park.txt",
+    "cover": "books/mansfield-park/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "661c5136",
+  "text_sha256": "87ee0ef241bd1d8393a3013d28ed5bfcddc3dc00ea41f1ce59ca7f461aa0f36c"
+}

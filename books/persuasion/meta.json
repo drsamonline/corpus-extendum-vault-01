@@ -1,0 +1,46 @@
+{
+  "id": "105",
+  "slug": "persuasion",
+  "title": "Persuasion",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1817,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Rejection (Psychology) -- Fiction",
+    "England -- Social life and customs"
+  ],
+  "blurb": "The one that got away, eight years on. Austen's last and most autumnal book, and the only one where the heroine has already been persuaded wrong.",
+  "rights": {
+    "basis": "author d. 1817; first published 1817 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_persuasion",
+    "url": "https://standardebooks.org/ebooks/jane-austen/persuasion",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/persuasion/persuasion.pdf",
+    "epub": "books/persuasion/persuasion.epub",
+    "txt": "books/persuasion/persuasion.txt",
+    "cover": "books/persuasion/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "c19a838d",
+  "text_sha256": "9029f8bf36da6f6b1615edd5be3d2a7544a3f6448f2936ce81786d75f26c3319"
+}

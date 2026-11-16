@@ -1,0 +1,46 @@
+{
+  "id": "730",
+  "slug": "oliver-twist",
+  "title": "Oliver Twist",
+  "author": {
+    "name": "Charles Dickens",
+    "file_as": "Dickens, Charles",
+    "death": 1870
+  },
+  "year": 1838,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Orphans -- Fiction",
+    "London (England) -- Social life and customs"
+  ],
+  "blurb": "A workhouse boy asks for more, and a city decides what he is worth. Dickens writing about institutions while angry.",
+  "rights": {
+    "basis": "author d. 1870; first published 1838 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charles-dickens_oliver-twist",
+    "url": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/oliver-twist/oliver-twist.pdf",
+    "epub": "books/oliver-twist/oliver-twist.epub",
+    "txt": "books/oliver-twist/oliver-twist.txt",
+    "cover": "books/oliver-twist/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "d6ba25a1",
+  "text_sha256": "b2ba776841d463d2480efd957b50535c4a9d31dd33ffe0ac07946ee1c082ed2d"
+}

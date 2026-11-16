@@ -1,0 +1,46 @@
+{
+  "id": "9182",
+  "slug": "villette",
+  "title": "Villette",
+  "author": {
+    "name": "Charlotte Bronte",
+    "file_as": "Bronte, Charlotte",
+    "death": 1855
+  },
+  "year": 1853,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "British -- Belgium -- Fiction",
+    "Women teachers -- Fiction"
+  ],
+  "blurb": "A plain, friendless woman makes her own way in a foreign city. The most interior of the Brontë novels, and the least consoling.",
+  "rights": {
+    "basis": "author d. 1855; first published 1853 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charlotte-bronte_villette",
+    "url": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/villette/villette.pdf",
+    "epub": "books/villette/villette.epub",
+    "txt": "books/villette/villette.txt",
+    "cover": "books/villette/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "bb1fa350",
+  "text_sha256": "9327b69427150a9b47e1344ff5e9c6766eff0773b795d19aba6d8bb038a24cce"
+}

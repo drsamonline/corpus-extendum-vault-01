@@ -1,0 +1,46 @@
+{
+  "id": "969",
+  "slug": "the-tenant-of-wildfell-hall",
+  "title": "The Tenant of Wildfell Hall",
+  "author": {
+    "name": "Anne Bronte",
+    "file_as": "Bronte, Anne",
+    "death": 1849
+  },
+  "year": 1848,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Alcoholism -- Fiction",
+    "Married women -- Fiction"
+  ],
+  "blurb": "A woman leaves a violent husband and is treated as the criminal for it. The most radical novel of its decade, from the least remembered sister.",
+  "rights": {
+    "basis": "author d. 1849; first published 1848 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "anne-bronte_the-tenant-of-wildfell-hall",
+    "url": "https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.pdf",
+    "epub": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.epub",
+    "txt": "books/the-tenant-of-wildfell-hall/the-tenant-of-wildfell-hall.txt",
+    "cover": "books/the-tenant-of-wildfell-hall/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "defef284",
+  "text_sha256": "b0b520a742b7da6339b1ffba9f556ae4c063b39b4c6954111afd066bb37bd375"
+}

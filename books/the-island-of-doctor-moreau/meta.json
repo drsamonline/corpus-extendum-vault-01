@@ -1,0 +1,46 @@
+{
+  "id": "159",
+  "slug": "the-island-of-doctor-moreau",
+  "title": "The Island of Doctor Moreau",
+  "author": {
+    "name": "H. G. Wells",
+    "file_as": "Wells, H. G.",
+    "death": 1946
+  },
+  "year": 1896,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Animal experimentation -- Fiction",
+    "Science fiction"
+  ],
+  "blurb": "A castaway, a vivisectionist, and the animals he is teaching to be people. Wells at his most unforgiving about what we do to the vulnerable.",
+  "rights": {
+    "basis": "author d. 1946; first published 1896 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-g-wells_the-island-of-doctor-moreau",
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.pdf",
+    "epub": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.epub",
+    "txt": "books/the-island-of-doctor-moreau/the-island-of-doctor-moreau.txt",
+    "cover": "books/the-island-of-doctor-moreau/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "162dd8ad",
+  "text_sha256": "19dd9beac6a49fa05d5ef1ca15058dfa70488bcaf1d7e1309d6254c38be0d50f"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "158",
+  "slug": "emma",
+  "title": "Emma",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1815,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "England -- Social life and customs -- 19th century",
+    "Mate selection -- Fiction"
+  ],
+  "blurb": "A clever woman who cannot resist arranging other people's lives, and the one man who sees straight through her.",
+  "rights": {
+    "basis": "author d. 1817; first published 1815 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_emma",
+    "url": "https://standardebooks.org/ebooks/jane-austen/emma",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/emma/emma.pdf",
+    "epub": "books/emma/emma.epub",
+    "txt": "books/emma/emma.txt",
+    "cover": "books/emma/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "833093a1",
+  "text_sha256": "d119670c61055f64cada2a4128fc289281761f93f254806be56acce957a7cc2c"
+}

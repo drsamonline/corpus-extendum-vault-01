@@ -1,0 +1,46 @@
+{
+  "id": "1023",
+  "slug": "bleak-house",
+  "title": "Bleak House",
+  "author": {
+    "name": "Charles Dickens",
+    "file_as": "Dickens, Charles",
+    "death": 1870
+  },
+  "year": 1853,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "London (England) -- Fiction",
+    "Legal stories"
+  ],
+  "blurb": "A lawsuit that outlives everyone in it, and fog over London. Dickens' most ambitious book, and the funniest about catastrophe.",
+  "rights": {
+    "basis": "author d. 1870; first published 1853 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charles-dickens_bleak-house",
+    "url": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/bleak-house/bleak-house.pdf",
+    "epub": "books/bleak-house/bleak-house.epub",
+    "txt": "books/bleak-house/bleak-house.txt",
+    "cover": "books/bleak-house/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "abe319e2",
+  "text_sha256": "a7f4d2a0c744a407c9ac45de2152443c2c708415af7be33e6ee35a743558fb7c"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "766",
+  "slug": "david-copperfield",
+  "title": "David Copperfield",
+  "author": {
+    "name": "Charles Dickens",
+    "file_as": "Dickens, Charles",
+    "death": 1870
+  },
+  "year": 1850,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "England -- Social life and customs -- 19th century",
+    "Autobiographical fiction"
+  ],
+  "blurb": "The novel Dickens called his favourite child — a whole life from birth to middle age, and the best account of a bad childhood in English.",
+  "rights": {
+    "basis": "author d. 1870; first published 1850 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "charles-dickens_david-copperfield",
+    "url": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/david-copperfield/david-copperfield.pdf",
+    "epub": "books/david-copperfield/david-copperfield.epub",
+    "txt": "books/david-copperfield/david-copperfield.txt",
+    "cover": "books/david-copperfield/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "fa5574e2",
+  "text_sha256": "adeae8f09c4c2d0f5a20012baae1e62d6fb363979ddf127f8c9bc7169352585b"
+}

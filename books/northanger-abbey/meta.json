@@ -1,0 +1,46 @@
+{
+  "id": "121",
+  "slug": "northanger-abbey",
+  "title": "Northanger Abbey",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1817,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Gothic fiction -- Parodies",
+    "England -- Social life and customs"
+  ],
+  "blurb": "A girl who has read too many gothic novels arrives at an abbey expecting horrors and finds something worse: ordinary people.",
+  "rights": {
+    "basis": "author d. 1817; first published 1817 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_northanger-abbey",
+    "url": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/northanger-abbey/northanger-abbey.pdf",
+    "epub": "books/northanger-abbey/northanger-abbey.epub",
+    "txt": "books/northanger-abbey/northanger-abbey.txt",
+    "cover": "books/northanger-abbey/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "04828f61",
+  "text_sha256": "412c675010d6533120fabc8b5043ba8168835a6cf57d68b7d751d1ed98c0d533"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "161",
+  "slug": "sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "author": {
+    "name": "Jane Austen",
+    "file_as": "Austen, Jane",
+    "death": 1817
+  },
+  "year": 1811,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Sisters -- Fiction",
+    "England -- Social life and customs"
+  ],
+  "blurb": "Two sisters, one governed by feeling and one by judgement, and a world that rewards neither. Austen's first published novel.",
+  "rights": {
+    "basis": "author d. 1817; first published 1811 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jane-austen_sense-and-sensibility",
+    "url": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/sense-and-sensibility/sense-and-sensibility.pdf",
+    "epub": "books/sense-and-sensibility/sense-and-sensibility.epub",
+    "txt": "books/sense-and-sensibility/sense-and-sensibility.txt",
+    "cover": "books/sense-and-sensibility/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "024b2335",
+  "text_sha256": "62978a42afbaab90a4ff60843073233857875538ad3c4ce23208d0826393f8fc"
+}

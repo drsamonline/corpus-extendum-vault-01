@@ -1,0 +1,46 @@
+{
+  "id": "52501",
+  "slug": "the-first-men-in-the-moon",
+  "title": "The First Men in the Moon",
+  "author": {
+    "name": "H. G. Wells",
+    "file_as": "Wells, H. G.",
+    "death": 1946
+  },
+  "year": 1901,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Moon -- Fiction",
+    "Science fiction"
+  ],
+  "blurb": "An inventor, a bankrupt, and a sphere with a blind spot. Wells' moon is inhabited, organised, and entirely uninterested in visitors.",
+  "rights": {
+    "basis": "author d. 1946; first published 1901 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-g-wells_the-first-men-in-the-moon",
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.pdf",
+    "epub": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.epub",
+    "txt": "books/the-first-men-in-the-moon/the-first-men-in-the-moon.txt",
+    "cover": "books/the-first-men-in-the-moon/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "a65f2188",
+  "text_sha256": "ddc92f54f26169791cbb7874db58f887fe830503561e4b975f293991ffac382d"
+}

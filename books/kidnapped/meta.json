@@ -1,0 +1,46 @@
+{
+  "id": "421",
+  "slug": "kidnapped",
+  "title": "Kidnapped",
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "file_as": "Stevenson, Robert Louis",
+    "death": 1894
+  },
+  "year": 1886,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Scotland -- History -- 18th century -- Fiction",
+    "Adventure stories"
+  ],
+  "blurb": "An orphan sold to a ship's captain, a flight across the Highlands, and a friendship that is the best thing in the book.",
+  "rights": {
+    "basis": "author d. 1894; first published 1886 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "robert-louis-stevenson_kidnapped",
+    "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/kidnapped/kidnapped.pdf",
+    "epub": "books/kidnapped/kidnapped.epub",
+    "txt": "books/kidnapped/kidnapped.txt",
+    "cover": "books/kidnapped/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "ff395695",
+  "text_sha256": "1a70ff02c5c95b848661bb8aefbf024c604eaf1978c31c9a6a6536812324f6fd"
+}

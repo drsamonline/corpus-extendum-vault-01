@@ -1,0 +1,46 @@
+{
+  "id": "5658",
+  "slug": "lord-jim",
+  "title": "Lord Jim",
+  "author": {
+    "name": "Joseph Conrad",
+    "file_as": "Conrad, Joseph",
+    "death": 1924
+  },
+  "year": 1900,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Seafaring life -- Fiction",
+    "Psychological fiction"
+  ],
+  "blurb": "A young officer jumps ship, and spends the rest of his life trying to be the man who would not have. Conrad on courage as an accident.",
+  "rights": {
+    "basis": "author d. 1924; first published 1900 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "joseph-conrad_lord-jim",
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/lord-jim",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/lord-jim/lord-jim.pdf",
+    "epub": "books/lord-jim/lord-jim.epub",
+    "txt": "books/lord-jim/lord-jim.txt",
+    "cover": "books/lord-jim/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "c61abf0d",
+  "text_sha256": "249251c98e7631d0f85ffd2407c75f0793e44be3f82137bc18d28c385b2dcb7d"
+}
