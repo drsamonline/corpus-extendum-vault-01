@@ -1,9 +1,10 @@
-# corpus-extendum-vault-01 | 63 books | 195.7 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T14:13Z
+# corpus-extendum-vault-01 | 65 books | 211.3 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T14:29Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
 103|around-the-world-in-eighty-days|Around the World in Eighty Days|Verne, Jules|1872|Adventure|en|author d. 1905; first published 1872|pdf,epub,txt|554|286|books/around-the-world-in-eighty-days|61d9116c|ede512e1
 1023|bleak-house|Bleak House|Dickens, Charles|1853|Fiction|en|author d. 1870; first published 1853|pdf,epub,txt|2844|918|books/bleak-house|abe319e2|a7f4d2a0
+13416|chekhov-short-fiction|Short Fiction|Chekhov, Anton|1886|Short Stories|en|author d. 1904; first published 1886|epub,txt|0|1997|books/chekhov-short-fiction|e84776e9|1cdd3032
 766|david-copperfield|David Copperfield|Dickens, Charles|1850|Fiction|en|author d. 1870; first published 1850|pdf,epub,txt|2843|954|books/david-copperfield|fa5574e2|adeae8f0
 43|dr-jekyll-and-mr-hyde|The Strange Case of Dr. Jekyll and Mr. Hyde|Stevenson, Robert Louis|1886|Gothic & Horror|en|author d. 1894; first published 1886|pdf,epub,txt|221|285|books/dr-jekyll-and-mr-hyde|40017d87|35264ce9
 345|dracula|Dracula|Stoker, Bram|1897|Gothic & Horror|en|author d. 1912; first published 1897|pdf,epub,txt|1364|529|books/dracula|860e450a|a3835198
@@ -33,6 +34,7 @@
 730|oliver-twist|Oliver Twist|Dickens, Charles|1838|Fiction|en|author d. 1870; first published 1838|pdf,epub,txt|1309|508|books/oliver-twist|d6ba25a1|b2ba7768
 34901|on-liberty|On Liberty|Mill, John Stuart|1859|Philosophy|en|author d. 1873; first published 1859|pdf,epub,txt|432|244|books/on-liberty|6316ed2d|4fc52a60
 105|persuasion|Persuasion|Austen, Jane|1817|Fiction|en|author d. 1817; first published 1817|pdf,epub,txt|687|314|books/persuasion|c19a838d|9029f8bf
+1676|plato-dialogues|Dialogues|Plato|-380|Philosophy|en|author d. -347; first published -380|epub,txt|0|2526|books/plato-dialogues|db7e1a63|71521ddb
 1342|pride-and-prejudice|Pride and Prejudice|Austen, Jane|1813|Fiction|en|author d. 1817; first published 1813|pdf,epub,txt|1034|803|books/pride-and-prejudice|ba2d9425|78a0a582
 161|sense-and-sensibility|Sense and Sensibility|Austen, Jane|1811|Fiction|en|author d. 1817; first published 1811|pdf,epub,txt|987|448|books/sense-and-sensibility|024b2335|62978a42
 1661|sherlock-holmes|The Adventures of Sherlock Holmes|Doyle, Arthur Conan|1892|Mystery & Detective|en|author d. 1930; first published 1892|pdf,epub,txt|839|1476|books/sherlock-holmes|c33240b6|d1ee5f56
