@@ -1,0 +1,52 @@
+{
+  "id": "13416",
+  "slug": "chekhov-short-fiction",
+  "title": "Short Fiction",
+  "author": {
+    "name": "Anton Chekhov",
+    "file_as": "Chekhov, Anton",
+    "death": 1904
+  },
+  "year": 1886,
+  "category": "Short Stories",
+  "language": "en",
+  "subjects": [
+    "Short stories, Russian -- Translations into English",
+    "Russia -- Social life and customs -- Fiction"
+  ],
+  "blurb": "Six volumes of stories in one book — the doctor, the steppe, and the ordinary evening that turns. Garnett's Chekhov, complete.",
+  "rights": {
+    "basis": "author d. 1904; first published 1886 — public domain in India (life + 60) and the United States (pre-1930); translation by Constance Garnett (d. 1946), first published 1916 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "anton-chekhov_short-fiction_constance-garnett",
+    "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction_constance-garnett",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "epub": "books/chekhov-short-fiction/chekhov-short-fiction.epub",
+    "txt": "books/chekhov-short-fiction/chekhov-short-fiction.txt",
+    "cover": "books/chekhov-short-fiction/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "e84776e9",
+  "text_sha256": "1cdd3032df4f7611f8694fc9a2ae73f50edc94928c1716c1ed146490f6a9af1f",
+  "notes": "shelved without a PDF: typesetting this book exceeds the ingest run budget. The EPUB is the source edition; the text is complete.",
+  "translator": {
+    "name": "Constance Garnett",
+    "death": 1946,
+    "translation_year": 1916,
+    "source": "Wikipedia (died 17 December 1946, The Cearne, Kent), Britannica and Orlando/Cambridge all give 1861-1946; her Chekhov volumes, The Tales of Tchehov, Chatto & Windus, ran 1916-1922"
+  }
+}

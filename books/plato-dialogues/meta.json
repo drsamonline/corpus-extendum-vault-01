@@ -1,0 +1,52 @@
+{
+  "id": "1676",
+  "slug": "plato-dialogues",
+  "title": "Dialogues",
+  "author": {
+    "name": "Plato",
+    "file_as": "Plato",
+    "death": -347
+  },
+  "year": -380,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Philosophy, Ancient",
+    "Socrates"
+  ],
+  "blurb": "Jowett's complete Plato — Apology, Phaedo, Symposium, Republic and the rest — the translation that carried Plato into English.",
+  "rights": {
+    "basis": "author d. -347; first published -380 — public domain in India (life + 60) and the United States (pre-1930); translation by Benjamin Jowett (d. 1893), first published 1871 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "plato_dialogues_benjamin-jowett",
+    "url": "https://standardebooks.org/ebooks/plato/dialogues_benjamin-jowett",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "epub": "books/plato-dialogues/plato-dialogues.epub",
+    "txt": "books/plato-dialogues/plato-dialogues.txt",
+    "cover": "books/plato-dialogues/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "db7e1a63",
+  "text_sha256": "71521ddb3b7a86b2849f3d344893f9acc6d712b9f2cb1f962c6aacc0ca8aca24",
+  "notes": "shelved without a PDF: typesetting this book exceeds the ingest run budget. The EPUB is the source edition; the text is complete.",
+  "translator": {
+    "name": "Benjamin Jowett",
+    "death": 1893,
+    "translation_year": 1871,
+    "source": "Wikipedia and Balliol College archives — died 1 October 1893; Dialogues of Plato translated 1871"
+  }
+}
