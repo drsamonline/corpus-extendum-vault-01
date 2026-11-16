@@ -1,4 +1,4 @@
-# corpus-extendum-vault-01 | 66 books | 212.9 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T14:55Z
+# corpus-extendum-vault-01 | 66 books | 212.9 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T17:33Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
