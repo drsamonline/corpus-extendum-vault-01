@@ -1,4 +1,4 @@
-# corpus-extendum-vault-01 | 65 books | 211.3 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T14:29Z
+# corpus-extendum-vault-01 | 66 books | 212.9 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T14:55Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
@@ -16,6 +16,7 @@
 778|five-children-and-it|Five Children and It|Nesbit, E.|1902|Children's & Fable|en|author d. 1924; first published 1902|pdf,epub,txt|437|276|books/five-children-and-it|323dea04|82961055
 84|frankenstein|Frankenstein; or, The Modern Prometheus|Shelley, Mary Wollstonecraft|1818|Gothic & Horror|en|author d. 1851; first published 1818|pdf,epub,txt|650|674|books/frankenstein|19a54747|0746682a
 7164|gitanjali|Gitanjali|Tagore, Rabindranath|1912|Poetry|en|author d. 1941; first published 1912|pdf,epub,txt|149|469|books/gitanjali|43289b3d|c75eb077
+0|goody-two-shoes|Goody Two-Shoes|Anonymous|1888|Children's & Fable|en|anonymous; first published 1888|pdf,epub,txt|1473|7|books/goody-two-shoes|aa3a0abb|dd42360b
 1400|great-expectations|Great Expectations|Dickens, Charles|1861|Fiction|en|author d. 1870; first published 1861|pdf,epub,txt|1451|652|books/great-expectations|3a67ce6e|ae9107d0
 829|gullivers-travels|Gulliver's Travels|Swift, Jonathan|1726|Satire|en|author d. 1745; first published 1726|pdf,epub,txt|1250|884|books/gullivers-travels|efa7a0a1|18efa15d
 76|huckleberry-finn|The Adventures of Huckleberry Finn|Twain, Mark|1884|Adventure|en|author d. 1910; first published 1884|pdf,epub,txt|835|488|books/huckleberry-finn|d158643d|7a7f31aa

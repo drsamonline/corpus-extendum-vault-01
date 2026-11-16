@@ -1,0 +1,46 @@
+{
+  "id": "0",
+  "slug": "goody-two-shoes",
+  "title": "Goody Two-Shoes",
+  "author": {
+    "name": "Anonymous",
+    "file_as": "Anonymous",
+    "death": 0
+  },
+  "year": 1888,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Children's literature",
+    "Conduct of life -- Juvenile fiction"
+  ],
+  "blurb": "A foundling with one shoe, a raven, and a school of her own. The 1888 illustrated edition, scanned by the Internet Archive.",
+  "rights": {
+    "basis": "anonymous; first published 1888 — public domain in India (60 years from publication) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Internet Archive",
+    "ref": "goodytwoshoes00newyiala",
+    "url": "https://archive.org/details/goodytwoshoes00newyiala",
+    "licence": "scan marked public domain (archive.org marks it NOT_IN_COPYRIGHT (public-domain collection))"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/goody-two-shoes/goody-two-shoes.pdf",
+    "epub": "books/goody-two-shoes/goody-two-shoes.epub",
+    "txt": "books/goody-two-shoes/goody-two-shoes.txt",
+    "cover": "books/goody-two-shoes/cover.jpg"
+  },
+  "cover_kind": "scan",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "aa3a0abb",
+  "text_sha256": "dd42360b482bdbbdbdf7fef2009cc801bfe04353e691df8107924a4703b7d7bd"
+}
