@@ -1,0 +1,53 @@
+{
+  "id": "10661",
+  "slug": "epictetus-discourses",
+  "title": "The Discourses of Epictetus",
+  "author": {
+    "name": "Epictetus",
+    "file_as": "Epictetus",
+    "death": 135
+  },
+  "year": 108,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Stoics",
+    "Ethics -- Early works to 1800"
+  ],
+  "blurb": "A freed slave's lectures on what is and is not in your power, written down by a student. The manual the Stoics actually used.",
+  "rights": {
+    "basis": "author d. 135; first published 108 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879), first published 1877 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "epictetus_discourses_george-long",
+    "url": "https://standardebooks.org/ebooks/epictetus/discourses_george-long",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/epictetus-discourses/epictetus-discourses.pdf",
+    "epub": "books/epictetus-discourses/epictetus-discourses.epub",
+    "txt": "books/epictetus-discourses/epictetus-discourses.txt",
+    "cover": "books/epictetus-discourses/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "d97ea3a7",
+  "text_sha256": "6dcbe3b8b4bd9abf9b0457d1734dc212d97d96823ccd71443ecbeb1aa91fa11d",
+  "translator": {
+    "name": "George Long",
+    "death": 1879,
+    "translation_year": 1877,
+    "source": "already recorded on the shelved Meditations record; Long's Epictetus and Marcus Aurelius were published by Bell & Daldy in the 1860s–70s"
+  }
+}

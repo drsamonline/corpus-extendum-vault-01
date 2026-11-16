@@ -1,8 +1,8 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 43,
-  "mb": 146.8,
+  "books": 46,
+  "mb": 152.3,
   "cap": {
     "books": 600,
     "mb": 2500
@@ -99,6 +99,59 @@
       "added": "2026-11-15",
       "file_sha8": "a551490a",
       "text_sha256": "cea7d9da85d7bfb5f7c212f0f45042b1539833cf43eaad12f384c66a1c52473b"
+    },
+    {
+      "id": "103",
+      "slug": "around-the-world-in-eighty-days",
+      "title": "Around the World in Eighty Days",
+      "author": {
+        "name": "Jules Verne",
+        "file_as": "Verne, Jules",
+        "death": 1905
+      },
+      "year": 1872,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Voyages around the world -- Fiction",
+        "Adventure stories"
+      ],
+      "blurb": "A wager, a timetable, and Phileas Fogg counting his steps. The first translation, made the year after the French edition.",
+      "rights": {
+        "basis": "author d. 1905; first published 1872 — public domain in India (life + 60) and the United States (pre-1930); translation by George Makepeace Towle (d. 1893), first published 1873 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16",
+        "translation_verified": true
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jules-verne_around-the-world-in-eighty-days_george-makepeace-towle",
+        "url": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days_george-makepeace-towle",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/around-the-world-in-eighty-days/around-the-world-in-eighty-days.pdf",
+        "epub": "books/around-the-world-in-eighty-days/around-the-world-in-eighty-days.epub",
+        "txt": "books/around-the-world-in-eighty-days/around-the-world-in-eighty-days.txt",
+        "cover": "books/around-the-world-in-eighty-days/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "61d9116c",
+      "text_sha256": "ede512e12407ad7d8a56e101ccace5ff43ad24ff475a7977f6c29b756dd3d91d",
+      "translator": {
+        "name": "George Makepeace Towle",
+        "death": 1893,
+        "translation_year": 1873,
+        "source": "Wikipedia, George Makepeace Towle — died 9 August 1893, Brookline, Massachusetts; translated Verne's Around the World in Eighty Days, 1873"
+      }
     },
     {
       "id": "43",
@@ -282,6 +335,59 @@
       "added": "2026-11-16",
       "file_sha8": "f6e2142d",
       "text_sha256": "496435fef773dac0dce08546717b0b7d2be2b9ff12c4db25f6da73f5dc16f73a"
+    },
+    {
+      "id": "10661",
+      "slug": "epictetus-discourses",
+      "title": "The Discourses of Epictetus",
+      "author": {
+        "name": "Epictetus",
+        "file_as": "Epictetus",
+        "death": 135
+      },
+      "year": 108,
+      "category": "Philosophy",
+      "language": "en",
+      "subjects": [
+        "Stoics",
+        "Ethics -- Early works to 1800"
+      ],
+      "blurb": "A freed slave's lectures on what is and is not in your power, written down by a student. The manual the Stoics actually used.",
+      "rights": {
+        "basis": "author d. 135; first published 108 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879), first published 1877 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16",
+        "translation_verified": true
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "epictetus_discourses_george-long",
+        "url": "https://standardebooks.org/ebooks/epictetus/discourses_george-long",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/epictetus-discourses/epictetus-discourses.pdf",
+        "epub": "books/epictetus-discourses/epictetus-discourses.epub",
+        "txt": "books/epictetus-discourses/epictetus-discourses.txt",
+        "cover": "books/epictetus-discourses/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "d97ea3a7",
+      "text_sha256": "6dcbe3b8b4bd9abf9b0457d1734dc212d97d96823ccd71443ecbeb1aa91fa11d",
+      "translator": {
+        "name": "George Long",
+        "death": 1879,
+        "translation_year": 1877,
+        "source": "already recorded on the shelved Meditations record; Long's Epictetus and Marcus Aurelius were published by Bell & Daldy in the 1860s–70s"
+      }
     },
     {
       "id": "204",
@@ -1112,6 +1218,59 @@
       "added": "2026-11-15",
       "file_sha8": "5f1c8d92",
       "text_sha256": "a3904a2a0cdcab666ff6c3148f64696a4d61c9c2c37830fcea2f2c3412f42301"
+    },
+    {
+      "id": "216",
+      "slug": "tao-te-ching",
+      "title": "Tao Te Ching",
+      "author": {
+        "name": "Laozi",
+        "file_as": "Laozi",
+        "death": -400
+      },
+      "year": -400,
+      "category": "Sacred Texts",
+      "language": "en",
+      "subjects": [
+        "Taoism -- Sacred books",
+        "Philosophy, Chinese"
+      ],
+      "blurb": "Eighty-one short chapters on doing less, arriving sooner. Legge's scholarly Victorian translation, with the Chinese text beside it.",
+      "rights": {
+        "basis": "author d. -400; first published -400 — public domain in India (life + 60) and the United States (pre-1930); translation by James Legge (d. 1897), first published 1891 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16",
+        "translation_verified": true
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "laozi_tao-te-ching_james-legge",
+        "url": "https://standardebooks.org/ebooks/laozi/tao-te-ching_james-legge",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/tao-te-ching/tao-te-ching.pdf",
+        "epub": "books/tao-te-ching/tao-te-ching.epub",
+        "txt": "books/tao-te-ching/tao-te-ching.txt",
+        "cover": "books/tao-te-ching/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "16ed54c3",
+      "text_sha256": "bdf9d623fecb5db06e9929e6080032f1c536399adfe78af9700b24414a132a49",
+      "translator": {
+        "name": "James Legge",
+        "death": 1897,
+        "translation_year": 1891,
+        "source": "Wikipedia, James Legge — died 29 November 1897, Oxford; Sacred Books of the East, 1879–1891"
+      }
     },
     {
       "id": "541",

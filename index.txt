@@ -1,11 +1,13 @@
-# corpus-extendum-vault-01 | 43 books | 146.8 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T02:34Z
+# corpus-extendum-vault-01 | 46 books | 152.3 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T07:37Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
+103|around-the-world-in-eighty-days|Around the World in Eighty Days|Verne, Jules|1872|Adventure|en|author d. 1905; first published 1872|pdf,epub,txt|554|286|books/around-the-world-in-eighty-days|61d9116c|ede512e1
 43|dr-jekyll-and-mr-hyde|The Strange Case of Dr. Jekyll and Mr. Hyde|Stevenson, Robert Louis|1886|Gothic & Horror|en|author d. 1894; first published 1886|pdf,epub,txt|221|285|books/dr-jekyll-and-mr-hyde|40017d87|35264ce9
 345|dracula|Dracula|Stoker, Bram|1897|Gothic & Horror|en|author d. 1912; first published 1897|pdf,epub,txt|1364|529|books/dracula|860e450a|a3835198
 2814|dubliners|Dubliners|Joyce, James|1914|Short Stories|en|author d. 1941; first published 1914|pdf,epub,txt|559|890|books/dubliners|6905b4f4|b137cc2e
 2944|emerson-essays|Essays: First Series|Emerson, Ralph Waldo|1841|Essays|en|author d. 1882; first published 1841|pdf,epub,txt|1034|450|books/emerson-essays|f6e2142d|496435fe
+10661|epictetus-discourses|The Discourses of Epictetus|Epictetus|108|Philosophy|en|author d. 135; first published 108|pdf,epub,txt|1443|462|books/epictetus-discourses|d97ea3a7|6dcbe3b8
 204|father-brown|The Innocence of Father Brown|Chesterton, G. K.|1911|Mystery & Detective|en|author d. 1936; first published 1911|pdf,epub,txt|641|348|books/father-brown|8b76236b|b0366433
 778|five-children-and-it|Five Children and It|Nesbit, E.|1902|Children's & Fable|en|author d. 1924; first published 1902|pdf,epub,txt|437|276|books/five-children-and-it|323dea04|82961055
 84|frankenstein|Frankenstein; or, The Modern Prometheus|Shelley, Mary Wollstonecraft|1818|Gothic & Horror|en|author d. 1851; first published 1818|pdf,epub,txt|650|674|books/frankenstein|19a54747|0746682a
@@ -24,6 +26,7 @@
 1342|pride-and-prejudice|Pride and Prejudice|Austen, Jane|1813|Fiction|en|author d. 1817; first published 1813|pdf,epub,txt|1034|803|books/pride-and-prejudice|ba2d9425|78a0a582
 1661|sherlock-holmes|The Adventures of Sherlock Holmes|Doyle, Arthur Conan|1892|Mystery & Detective|en|author d. 1930; first published 1892|pdf,epub,txt|839|1476|books/sherlock-holmes|c33240b6|d1ee5f56
 408|souls-of-black-folk|The Souls of Black Folk|Du Bois, W. E. B.|1903|Essays|en|author d. 1963; first published 1903|pdf,epub,txt|964|716|books/souls-of-black-folk|5f1c8d92|a3904a2a
+216|tao-te-ching|Tao Te Ching|Laozi|-400|Sacred Texts|en|author d. -400; first published -400|pdf,epub,txt|442|289|books/tao-te-ching|16ed54c3|bdf9d623
 541|the-age-of-innocence|The Age of Innocence|Wharton, Edith|1920|Fiction|en|author d. 1937; first published 1920|pdf,epub,txt|871|487|books/the-age-of-innocence|58ca3b1d|9bafcdb5
 160|the-awakening|The Awakening|Chopin, Kate|1899|Fiction|en|author d. 1904; first published 1899|pdf,epub,txt|425|309|books/the-awakening|5eb33c5f|16f70dcb
 2852|the-hound-of-the-baskervilles|The Hound of the Baskervilles|Doyle, Arthur Conan|1902|Mystery & Detective|en|author d. 1930; first published 1902|pdf,epub,txt|486|356|books/the-hound-of-the-baskervilles|469f7ed7|72665242

@@ -1,0 +1,53 @@
+{
+  "id": "216",
+  "slug": "tao-te-ching",
+  "title": "Tao Te Ching",
+  "author": {
+    "name": "Laozi",
+    "file_as": "Laozi",
+    "death": -400
+  },
+  "year": -400,
+  "category": "Sacred Texts",
+  "language": "en",
+  "subjects": [
+    "Taoism -- Sacred books",
+    "Philosophy, Chinese"
+  ],
+  "blurb": "Eighty-one short chapters on doing less, arriving sooner. Legge's scholarly Victorian translation, with the Chinese text beside it.",
+  "rights": {
+    "basis": "author d. -400; first published -400 — public domain in India (life + 60) and the United States (pre-1930); translation by James Legge (d. 1897), first published 1891 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "laozi_tao-te-ching_james-legge",
+    "url": "https://standardebooks.org/ebooks/laozi/tao-te-ching_james-legge",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/tao-te-ching/tao-te-ching.pdf",
+    "epub": "books/tao-te-ching/tao-te-ching.epub",
+    "txt": "books/tao-te-ching/tao-te-ching.txt",
+    "cover": "books/tao-te-ching/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "16ed54c3",
+  "text_sha256": "bdf9d623fecb5db06e9929e6080032f1c536399adfe78af9700b24414a132a49",
+  "translator": {
+    "name": "James Legge",
+    "death": 1897,
+    "translation_year": 1891,
+    "source": "Wikipedia, James Legge — died 29 November 1897, Oxford; Sacred Books of the East, 1879–1891"
+  }
+}
