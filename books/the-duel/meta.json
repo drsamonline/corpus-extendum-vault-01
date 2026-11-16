@@ -1,0 +1,53 @@
+{
+  "id": "13505",
+  "slug": "the-duel",
+  "title": "The Duel",
+  "author": {
+    "name": "Anton Chekhov",
+    "file_as": "Chekhov, Anton",
+    "death": 1904
+  },
+  "year": 1891,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Dueling -- Fiction",
+    "Russia -- Social life and customs -- Fiction"
+  ],
+  "blurb": "Two men who cannot stand each other, a town that watches, and a duel nobody quite wants. Chekhov's longest novella, and his coldest.",
+  "rights": {
+    "basis": "author d. 1904; first published 1891 — public domain in India (life + 60) and the United States (pre-1930); translation by Constance Garnett (d. 1946), first published 1916 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "anton-chekhov_the-duel_constance-garnett",
+    "url": "https://standardebooks.org/ebooks/anton-chekhov/the-duel_constance-garnett",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-duel/the-duel.pdf",
+    "epub": "books/the-duel/the-duel.epub",
+    "txt": "books/the-duel/the-duel.txt",
+    "cover": "books/the-duel/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "82f7e115",
+  "text_sha256": "f4b6be0b09051213d46c809945b07738d1837ad074c3d573cebe8c48f349f53f",
+  "translator": {
+    "name": "Constance Garnett",
+    "death": 1946,
+    "translation_year": 1916,
+    "source": "Wikipedia (died 17 December 1946, The Cearne, Kent), Britannica and Orlando/Cambridge all give 1861-1946; her Chekhov volumes, The Tales of Tchehov, Chatto & Windus, ran 1916-1922"
+  }
+}

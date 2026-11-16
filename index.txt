@@ -1,4 +1,4 @@
-# corpus-extendum-vault-01 | 46 books | 152.3 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T08:05Z
+# corpus-extendum-vault-01 | 47 books | 153.3 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T10:19Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
@@ -29,6 +29,7 @@
 216|tao-te-ching|Tao Te Ching|Laozi|-400|Sacred Texts|en|author d. -400; first published -400|pdf,epub,txt|442|289|books/tao-te-ching|fdb72ff9|bdf9d623
 541|the-age-of-innocence|The Age of Innocence|Wharton, Edith|1920|Fiction|en|author d. 1937; first published 1920|pdf,epub,txt|871|487|books/the-age-of-innocence|58ca3b1d|9bafcdb5
 160|the-awakening|The Awakening|Chopin, Kate|1899|Fiction|en|author d. 1904; first published 1899|pdf,epub,txt|425|309|books/the-awakening|5eb33c5f|16f70dcb
+13505|the-duel|The Duel|Chekhov, Anton|1891|Fiction|en|author d. 1904; first published 1891|pdf,epub,txt|337|231|books/the-duel|82f7e115|f4b6be0b
 2852|the-hound-of-the-baskervilles|The Hound of the Baskervilles|Doyle, Arthur Conan|1902|Mystery & Detective|en|author d. 1930; first published 1902|pdf,epub,txt|486|356|books/the-hound-of-the-baskervilles|469f7ed7|72665242
 5230|the-invisible-man|The Invisible Man|Wells, H. G.|1897|Science Fiction|en|author d. 1946; first published 1897|pdf,epub,txt|414|394|books/the-invisible-man|025dbe5f|5c00d82b
 18247|the-last-man|The Last Man|Shelley, Mary Wollstonecraft|1826|Science Fiction|en|author d. 1851; first published 1826|pdf,epub,txt|1423|674|books/the-last-man|bb59e855|c80a3193
