@@ -1,0 +1,46 @@
+{
+  "id": "108",
+  "slug": "the-return-of-sherlock-holmes",
+  "title": "The Return of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "file_as": "Doyle, Arthur Conan",
+    "death": 1930
+  },
+  "year": 1905,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character)",
+    "Detective and mystery stories"
+  ],
+  "blurb": "Thirteen cases after the fall at Reichenbach, including the empty house and the six Napoleons.",
+  "rights": {
+    "basis": "author d. 1930; first published 1905 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "arthur-conan-doyle_the-return-of-sherlock-holmes",
+    "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.pdf",
+    "epub": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.epub",
+    "txt": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.txt",
+    "cover": "books/the-return-of-sherlock-holmes/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "7cb54e12",
+  "text_sha256": "afcce019f45589f2c8e90998559db613cac4f91511b546bb0488293cd1a017a9"
+}

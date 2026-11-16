@@ -1,0 +1,46 @@
+{
+  "id": "37172",
+  "slug": "the-room-in-the-dragon-volant",
+  "title": "The Room in the Dragon Volant",
+  "author": {
+    "name": "J. Sheridan Le Fanu",
+    "file_as": "Le Fanu, Joseph Sheridan",
+    "death": 1873
+  },
+  "year": 1872,
+  "category": "Gothic & Horror",
+  "language": "en",
+  "subjects": [
+    "Gothic fiction",
+    "France -- Fiction"
+  ],
+  "blurb": "A young Englishman in France takes a room he should not have and falls for a woman he should not have. Le Fanu at his most controlled.",
+  "rights": {
+    "basis": "author d. 1873; first published 1872 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "j-sheridan-le-fanu_the-room-in-the-dragon-volant",
+    "url": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.pdf",
+    "epub": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.epub",
+    "txt": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.txt",
+    "cover": "books/the-room-in-the-dragon-volant/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "c300b2ca",
+  "text_sha256": "5eeabc56a6922d4e70b6e3f8e5294c5254e831f34c001c789cf2d22a5bda99ee"
+}

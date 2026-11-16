@@ -1,0 +1,46 @@
+{
+  "id": "2021",
+  "slug": "nostromo",
+  "title": "Nostromo",
+  "author": {
+    "name": "Joseph Conrad",
+    "file_as": "Conrad, Joseph",
+    "death": 1924
+  },
+  "year": 1904,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Revolutions -- Fiction",
+    "South America -- Fiction"
+  ],
+  "blurb": "A silver mine, a revolution, and a man everyone trusts with everything. Conrad's largest book.",
+  "rights": {
+    "basis": "author d. 1924; first published 1904 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "joseph-conrad_nostromo",
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/nostromo",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/nostromo/nostromo.pdf",
+    "epub": "books/nostromo/nostromo.epub",
+    "txt": "books/nostromo/nostromo.txt",
+    "cover": "books/nostromo/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "3510b894",
+  "text_sha256": "659e1c11132c6bada0fb6133e98d627976fa35fa83793e8ca899ab83f218748f"
+}

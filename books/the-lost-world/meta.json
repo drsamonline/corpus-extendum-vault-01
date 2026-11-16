@@ -1,0 +1,46 @@
+{
+  "id": "139",
+  "slug": "the-lost-world",
+  "title": "The Lost World",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "file_as": "Doyle, Arthur Conan",
+    "death": 1930
+  },
+  "year": 1912,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Dinosaurs -- Fiction",
+    "Adventure stories"
+  ],
+  "blurb": "Professor Challenger goes looking for dinosaurs on a plateau in South America and finds them, along with worse things.",
+  "rights": {
+    "basis": "author d. 1930; first published 1912 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "arthur-conan-doyle_the-lost-world",
+    "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-lost-world/the-lost-world.pdf",
+    "epub": "books/the-lost-world/the-lost-world.epub",
+    "txt": "books/the-lost-world/the-lost-world.txt",
+    "cover": "books/the-lost-world/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "af37ee3d",
+  "text_sha256": "bb785f636a4559d44b7ef32c2e67884c2b8862004a990c9e874af7e1ce481cdf"
+}

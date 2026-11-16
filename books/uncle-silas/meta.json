@@ -1,0 +1,46 @@
+{
+  "id": "14851",
+  "slug": "uncle-silas",
+  "title": "Uncle Silas",
+  "author": {
+    "name": "J. Sheridan Le Fanu",
+    "file_as": "Le Fanu, Joseph Sheridan",
+    "death": 1873
+  },
+  "year": 1864,
+  "category": "Gothic & Horror",
+  "language": "en",
+  "subjects": [
+    "Governesses -- Fiction",
+    "Gothic fiction"
+  ],
+  "blurb": "An heiress is handed to a charming, ruined uncle in a locked house. The best Victorian novel about knowing you are in danger.",
+  "rights": {
+    "basis": "author d. 1873; first published 1864 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "j-sheridan-le-fanu_uncle-silas",
+    "url": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/uncle-silas/uncle-silas.pdf",
+    "epub": "books/uncle-silas/uncle-silas.epub",
+    "txt": "books/uncle-silas/uncle-silas.txt",
+    "cover": "books/uncle-silas/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "dea83e73",
+  "text_sha256": "54142b229cbadb15cc93580d511f42bd757640442001fe12e977b069434256ce"
+}

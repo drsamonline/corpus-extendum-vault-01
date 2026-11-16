@@ -1,0 +1,46 @@
+{
+  "id": "2186",
+  "slug": "captains-courageous",
+  "title": "Captains Courageous",
+  "author": {
+    "name": "Rudyard Kipling",
+    "file_as": "Kipling, Rudyard",
+    "death": 1936
+  },
+  "year": 1897,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Sea stories",
+    "Coming of age -- Fiction"
+  ],
+  "blurb": "A spoiled rich boy falls off a liner and is picked up by a fishing schooner that has no use for him as he is.",
+  "rights": {
+    "basis": "author d. 1936; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "rudyard-kipling_captains-courageous",
+    "url": "https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/captains-courageous/captains-courageous.pdf",
+    "epub": "books/captains-courageous/captains-courageous.epub",
+    "txt": "books/captains-courageous/captains-courageous.txt",
+    "cover": "books/captains-courageous/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "577cd1fe",
+  "text_sha256": "8ac741813f1c289501253623e1903e453bccc632fc18cdf1de5d9edabf4b8db4"
+}

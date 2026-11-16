@@ -1,0 +1,46 @@
+{
+  "id": "974",
+  "slug": "the-secret-agent",
+  "title": "The Secret Agent",
+  "author": {
+    "name": "Joseph Conrad",
+    "file_as": "Conrad, Joseph",
+    "death": 1924
+  },
+  "year": 1907,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "London (England) -- Fiction",
+    "Conspiracies -- Fiction"
+  ],
+  "blurb": "A shopkeeper in Soho is paid to blow up Greenwich Observatory, and his family pays for it. Conrad's bleakest joke.",
+  "rights": {
+    "basis": "author d. 1924; first published 1907 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "joseph-conrad_the-secret-agent",
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-secret-agent/the-secret-agent.pdf",
+    "epub": "books/the-secret-agent/the-secret-agent.epub",
+    "txt": "books/the-secret-agent/the-secret-agent.txt",
+    "cover": "books/the-secret-agent/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "5a60fee2",
+  "text_sha256": "af69f8fb129f0475ced61e0b05511aaf12c67f539983f7f3e93b3f27e0d687e9"
+}

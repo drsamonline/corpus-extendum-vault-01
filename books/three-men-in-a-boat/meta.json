@@ -1,0 +1,46 @@
+{
+  "id": "308",
+  "slug": "three-men-in-a-boat",
+  "title": "Three Men in a Boat",
+  "author": {
+    "name": "Jerome K. Jerome",
+    "file_as": "Jerome, Jerome K.",
+    "death": 1927
+  },
+  "year": 1889,
+  "category": "Satire",
+  "language": "en",
+  "subjects": [
+    "Humorous stories",
+    "Thames River (England) -- Fiction"
+  ],
+  "blurb": "Three hypochondriacs and a dog take a boat up the Thames and complain. The funniest book in this library, and it knows it.",
+  "rights": {
+    "basis": "author d. 1927; first published 1889 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "jerome-k-jerome_three-men-in-a-boat",
+    "url": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/three-men-in-a-boat/three-men-in-a-boat.pdf",
+    "epub": "books/three-men-in-a-boat/three-men-in-a-boat.epub",
+    "txt": "books/three-men-in-a-boat/three-men-in-a-boat.txt",
+    "cover": "books/three-men-in-a-boat/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "68f6053d",
+  "text_sha256": "5276ec36bab75c412bbdb9e347d169fd309f30a3d7d0301d51d4da69b232eccd"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "32488",
+  "slug": "just-so-stories",
+  "title": "Just So Stories",
+  "author": {
+    "name": "Rudyard Kipling",
+    "file_as": "Kipling, Rudyard",
+    "death": 1936
+  },
+  "year": 1902,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Animals -- Juvenile fiction",
+    "Short stories"
+  ],
+  "blurb": "How the camel got his hump and the elephant his trunk, told to be read aloud, with Kipling's own drawings.",
+  "rights": {
+    "basis": "author d. 1936; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "rudyard-kipling_just-so-stories",
+    "url": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/just-so-stories/just-so-stories.pdf",
+    "epub": "books/just-so-stories/just-so-stories.epub",
+    "txt": "books/just-so-stories/just-so-stories.txt",
+    "cover": "books/just-so-stories/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "bc80bdcf",
+  "text_sha256": "ef7f2b9e72d054e8f6b332380cb6655c53fd60b3ffab8f69ef7585cef45ff219"
+}

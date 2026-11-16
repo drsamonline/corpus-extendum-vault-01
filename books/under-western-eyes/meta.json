@@ -1,0 +1,46 @@
+{
+  "id": "2480",
+  "slug": "under-western-eyes",
+  "title": "Under Western Eyes",
+  "author": {
+    "name": "Joseph Conrad",
+    "file_as": "Conrad, Joseph",
+    "death": 1924
+  },
+  "year": 1911,
+  "category": "Fiction",
+  "language": "en",
+  "subjects": [
+    "Russia -- History -- Fiction",
+    "Betrayal -- Fiction"
+  ],
+  "blurb": "A student betrays a man and spends the rest of the book being read by everyone. Conrad on Russia, from outside and inside.",
+  "rights": {
+    "basis": "author d. 1924; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "joseph-conrad_under-western-eyes",
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/under-western-eyes/under-western-eyes.pdf",
+    "epub": "books/under-western-eyes/under-western-eyes.epub",
+    "txt": "books/under-western-eyes/under-western-eyes.txt",
+    "cover": "books/under-western-eyes/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "e82da5eb",
+  "text_sha256": "ce711b0b112c7b0afe84e49cb3e9c757b03b8e612a1bcbd1460d9e3864ad6d2b"
+}

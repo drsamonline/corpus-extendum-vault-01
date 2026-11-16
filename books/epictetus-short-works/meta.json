@@ -1,0 +1,53 @@
+{
+  "id": "10661",
+  "slug": "epictetus-short-works",
+  "title": "Short Works",
+  "author": {
+    "name": "Epictetus",
+    "file_as": "Epictetus",
+    "death": 135
+  },
+  "year": 108,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Stoics",
+    "Ethics -- Early works to 1800"
+  ],
+  "blurb": "The Encheiridion and the fragments — the Stoic manual stripped to what you can carry.",
+  "rights": {
+    "basis": "author d. 135; first published 108 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879), first published 1877 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16",
+    "translation_verified": true
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "epictetus_short-works_george-long",
+    "url": "https://standardebooks.org/ebooks/epictetus/short-works_george-long",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/epictetus-short-works/epictetus-short-works.pdf",
+    "epub": "books/epictetus-short-works/epictetus-short-works.epub",
+    "txt": "books/epictetus-short-works/epictetus-short-works.txt",
+    "cover": "books/epictetus-short-works/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "876d00ac",
+  "text_sha256": "4544a8ac871141686a551b813862ff135ed1f8b8a7f9bb91e94ee34794c4be1b",
+  "translator": {
+    "name": "George Long",
+    "death": 1879,
+    "translation_year": 1877,
+    "source": "already recorded on the shelved Meditations record; Long's Epictetus and Marcus Aurelius were published by Bell & Daldy in the 1860s–70s"
+  }
+}

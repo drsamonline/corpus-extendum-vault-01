@@ -1,9 +1,11 @@
-# corpus-extendum-vault-01 | 66 books | 212.9 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T17:33Z
+# corpus-extendum-vault-01 | 79 books | 243.4 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T18:00Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
+86|a-connecticut-yankee|A Connecticut Yankee in King Arthur's Court|Twain, Mark|1889|Satire|en|author d. 1910; first published 1889|pdf,epub,txt|941|472|books/a-connecticut-yankee|d9efdfad|7c6cb56e
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
 103|around-the-world-in-eighty-days|Around the World in Eighty Days|Verne, Jules|1872|Adventure|en|author d. 1905; first published 1872|pdf,epub,txt|554|286|books/around-the-world-in-eighty-days|61d9116c|ede512e1
 1023|bleak-house|Bleak House|Dickens, Charles|1853|Fiction|en|author d. 1870; first published 1853|pdf,epub,txt|2844|918|books/bleak-house|abe319e2|a7f4d2a0
+2186|captains-courageous|Captains Courageous|Kipling, Rudyard|1897|Adventure|en|author d. 1936; first published 1897|pdf,epub,txt|457|244|books/captains-courageous|577cd1fe|8ac74181
 13416|chekhov-short-fiction|Short Fiction|Chekhov, Anton|1886|Short Stories|en|author d. 1904; first published 1886|epub,txt|0|1997|books/chekhov-short-fiction|e84776e9|1cdd3032
 766|david-copperfield|David Copperfield|Dickens, Charles|1850|Fiction|en|author d. 1870; first published 1850|pdf,epub,txt|2843|954|books/david-copperfield|fa5574e2|adeae8f0
 43|dr-jekyll-and-mr-hyde|The Strange Case of Dr. Jekyll and Mr. Hyde|Stevenson, Robert Louis|1886|Gothic & Horror|en|author d. 1894; first published 1886|pdf,epub,txt|221|285|books/dr-jekyll-and-mr-hyde|40017d87|35264ce9
@@ -12,6 +14,7 @@
 2944|emerson-essays|Essays: First Series|Emerson, Ralph Waldo|1841|Essays|en|author d. 1882; first published 1841|pdf,epub,txt|1034|450|books/emerson-essays|f6e2142d|496435fe
 158|emma|Emma|Austen, Jane|1815|Fiction|en|author d. 1817; first published 1815|pdf,epub,txt|1315|515|books/emma|833093a1|d119670c
 10661|epictetus-discourses|The Discourses of Epictetus|Epictetus|108|Philosophy|en|author d. 135; first published 108|pdf,epub,txt|1443|462|books/epictetus-discourses|d97ea3a7|6dcbe3b8
+10661|epictetus-short-works|Short Works|Epictetus|108|Philosophy|en|author d. 135; first published 108|pdf,epub,txt|277|147|books/epictetus-short-works|876d00ac|4544a8ac
 204|father-brown|The Innocence of Father Brown|Chesterton, G. K.|1911|Mystery & Detective|en|author d. 1936; first published 1911|pdf,epub,txt|641|348|books/father-brown|8b76236b|b0366433
 778|five-children-and-it|Five Children and It|Nesbit, E.|1902|Children's & Fable|en|author d. 1924; first published 1902|pdf,epub,txt|437|276|books/five-children-and-it|323dea04|82961055
 84|frankenstein|Frankenstein; or, The Modern Prometheus|Shelley, Mary Wollstonecraft|1818|Gothic & Horror|en|author d. 1851; first published 1818|pdf,epub,txt|650|674|books/frankenstein|19a54747|0746682a
@@ -21,6 +24,7 @@
 829|gullivers-travels|Gulliver's Travels|Swift, Jonathan|1726|Satire|en|author d. 1745; first published 1726|pdf,epub,txt|1250|884|books/gullivers-travels|efa7a0a1|18efa15d
 76|huckleberry-finn|The Adventures of Huckleberry Finn|Twain, Mark|1884|Adventure|en|author d. 1910; first published 1884|pdf,epub,txt|835|488|books/huckleberry-finn|d158643d|7a7f31aa
 1260|jane-eyre|Jane Eyre|Bronte, Charlotte|1847|Fiction|en|author d. 1855; first published 1847|pdf,epub,txt|1529|650|books/jane-eyre|e85b55cc|5eb6385f
+32488|just-so-stories|Just So Stories|Kipling, Rudyard|1902|Children's & Fable|en|author d. 1936; first published 1902|pdf,epub,txt|4155|3973|books/just-so-stories|bc80bdcf|ef7f2b9e
 23583|keats-poems|Poems|Keats, John|1820|Poetry|en|author d. 1821; first published 1820|pdf,epub,txt|799|360|books/keats-poems|e4140c1c|7a3f2635
 421|kidnapped|Kidnapped|Stevenson, Robert Louis|1886|Adventure|en|author d. 1894; first published 1886|pdf,epub,txt|629|338|books/kidnapped|ff395695|1a70ff02
 2226|kim|Kim|Kipling, Rudyard|1901|Adventure|en|author d. 1936; first published 1901|pdf,epub,txt|888|406|books/kim|0c669ac6|a01f1d57
@@ -32,6 +36,7 @@
 2680|meditations|Meditations|Marcus Aurelius, Emperor of Rome|180|Philosophy|en|author d. 180; first published 180|pdf,epub,txt|428|676|books/meditations|0c15745e|8a65f945
 2701|moby-dick|Moby-Dick; or, The Whale|Melville, Herman|1851|Fiction|en|author d. 1891; first published 1851|pdf,epub,txt|1819|894|books/moby-dick|413ce4ab|19094886
 121|northanger-abbey|Northanger Abbey|Austen, Jane|1817|Fiction|en|author d. 1817; first published 1817|pdf,epub,txt|641|369|books/northanger-abbey|04828f61|412c6750
+2021|nostromo|Nostromo|Conrad, Joseph|1904|Fiction|en|author d. 1924; first published 1904|pdf,epub,txt|1398|614|books/nostromo|3510b894|659e1c11
 730|oliver-twist|Oliver Twist|Dickens, Charles|1838|Fiction|en|author d. 1870; first published 1838|pdf,epub,txt|1309|508|books/oliver-twist|d6ba25a1|b2ba7768
 34901|on-liberty|On Liberty|Mill, John Stuart|1859|Philosophy|en|author d. 1873; first published 1859|pdf,epub,txt|432|244|books/on-liberty|6316ed2d|4fc52a60
 105|persuasion|Persuasion|Austen, Jane|1817|Fiction|en|author d. 1817; first published 1817|pdf,epub,txt|687|314|books/persuasion|c19a838d|9029f8bf
@@ -43,16 +48,21 @@
 216|tao-te-ching|Tao Te Ching|Laozi|-400|Sacred Texts|en|author d. -400; first published -400|pdf,epub,txt|442|289|books/tao-te-ching|fdb72ff9|bdf9d623
 541|the-age-of-innocence|The Age of Innocence|Wharton, Edith|1920|Fiction|en|author d. 1937; first published 1920|pdf,epub,txt|871|487|books/the-age-of-innocence|58ca3b1d|9bafcdb5
 160|the-awakening|The Awakening|Chopin, Kate|1899|Fiction|en|author d. 1904; first published 1899|pdf,epub,txt|425|309|books/the-awakening|5eb33c5f|16f70dcb
+32954|the-black-arrow|The Black Arrow|Stevenson, Robert Louis|1888|Adventure|en|author d. 1894; first published 1888|pdf,epub,txt|642|351|books/the-black-arrow|745eb26b|506cf4f4
 13505|the-duel|The Duel|Chekhov, Anton|1891|Fiction|en|author d. 1904; first published 1891|pdf,epub,txt|337|231|books/the-duel|82f7e115|f4b6be0b
 52501|the-first-men-in-the-moon|The First Men in the Moon|Wells, H. G.|1901|Science Fiction|en|author d. 1946; first published 1901|pdf,epub,txt|563|251|books/the-first-men-in-the-moon|a65f2188|ddc92f54
 2852|the-hound-of-the-baskervilles|The Hound of the Baskervilles|Doyle, Arthur Conan|1902|Mystery & Detective|en|author d. 1930; first published 1902|pdf,epub,txt|486|356|books/the-hound-of-the-baskervilles|469f7ed7|72665242
 5230|the-invisible-man|The Invisible Man|Wells, H. G.|1897|Science Fiction|en|author d. 1946; first published 1897|pdf,epub,txt|414|394|books/the-invisible-man|025dbe5f|5c00d82b
 159|the-island-of-doctor-moreau|The Island of Doctor Moreau|Wells, H. G.|1896|Science Fiction|en|author d. 1946; first published 1896|pdf,epub,txt|363|222|books/the-island-of-doctor-moreau|162dd8ad|19dd9bea
 18247|the-last-man|The Last Man|Shelley, Mary Wollstonecraft|1826|Science Fiction|en|author d. 1851; first published 1826|pdf,epub,txt|1423|674|books/the-last-man|bb59e855|c80a3193
+139|the-lost-world|The Lost World|Doyle, Arthur Conan|1912|Science Fiction|en|author d. 1930; first published 1912|pdf,epub,txt|637|338|books/the-lost-world|af37ee3d|bb785f63
 155|the-moonstone|The Moonstone|Collins, Wilkie|1868|Mystery & Detective|en|author d. 1889; first published 1868|pdf,epub,txt|1609|693|books/the-moonstone|e8ca30f2|55966528
 174|the-picture-of-dorian-gray|The Picture of Dorian Gray|Wilde, Oscar|1890|Fiction|en|author d. 1900; first published 1890|pdf,epub,txt|631|408|books/the-picture-of-dorian-gray|6297606a|afe98b3e
 58585|the-prophet|The Prophet|Gibran, Kahlil|1923|Poetry|en|author d. 1931; first published 1923|pdf,epub,txt|114|228|books/the-prophet|607af02f|b2906338
+108|the-return-of-sherlock-holmes|The Return of Sherlock Holmes|Doyle, Arthur Conan|1905|Mystery & Detective|en|author d. 1930; first published 1905|pdf,epub,txt|1018|448|books/the-return-of-sherlock-holmes|7cb54e12|afcce019
+37172|the-room-in-the-dragon-volant|The Room in the Dragon Volant|Le Fanu, Joseph Sheridan|1872|Gothic & Horror|en|author d. 1873; first published 1872|pdf,epub,txt|385|229|books/the-room-in-the-dragon-volant|c300b2ca|5eeabc56
 25344|the-scarlet-letter|The Scarlet Letter|Hawthorne, Nathaniel|1850|Fiction|en|author d. 1864; first published 1850|pdf,epub,txt|698|397|books/the-scarlet-letter|a5cadb15|962ac5b3
+974|the-secret-agent|The Secret Agent|Conrad, Joseph|1907|Fiction|en|author d. 1924; first published 1907|pdf,epub,txt|783|327|books/the-secret-agent|5a60fee2|af69f8fb
 17396|the-secret-garden|The Secret Garden|Burnett, Frances Hodgson|1911|Children's & Fable|en|author d. 1924; first published 1911|pdf,epub,txt|624|321|books/the-secret-garden|8be019f2|c55ec9a7
 2388|the-song-celestial|The Song Celestial; or, Bhagavad-Gita|Arnold, Edwin, Sir|1885|Sacred Texts|en|author d. 1904; first published 1885|pdf,epub,txt|187|120|books/the-song-celestial|36bd6fc1|b7ca516c
 969|the-tenant-of-wildfell-hall|The Tenant of Wildfell Hall|Bronte, Anne|1848|Fiction|en|author d. 1849; first published 1848|pdf,epub,txt|1343|537|books/the-tenant-of-wildfell-hall|defef284|b0b520a7
@@ -61,8 +71,11 @@
 27805|the-wind-in-the-willows|The Wind in the Willows|Grahame, Kenneth|1908|Children's & Fable|en|author d. 1932; first published 1908|pdf,epub,txt|482|321|books/the-wind-in-the-willows|59886253|5e315048
 223|the-wisdom-of-father-brown|The Wisdom of Father Brown|Chesterton, G. K.|1914|Mystery & Detective|en|author d. 1936; first published 1914|pdf,epub,txt|587|385|books/the-wisdom-of-father-brown|12673780|9ecbc9c3
 583|the-woman-in-white|The Woman in White|Collins, Wilkie|1860|Mystery & Detective|en|author d. 1889; first published 1860|pdf,epub,txt|2009|793|books/the-woman-in-white|cfa4f59e|4cb3c88a
+308|three-men-in-a-boat|Three Men in a Boat|Jerome, Jerome K.|1889|Satire|en|author d. 1927; first published 1889|pdf,epub,txt|532|295|books/three-men-in-a-boat|68f6053d|5276ec36
 12|through-the-looking-glass|Through the Looking-Glass|Carroll, Lewis|1871|Children's & Fable|en|author d. 1898; first published 1871|pdf,epub,txt|12301|12115|books/through-the-looking-glass|cebee142|c8f076ad
 27780|treasure-island|Treasure Island|Stevenson, Robert Louis|1883|Adventure|en|author d. 1894; first published 1883|pdf,epub,txt|546|435|books/treasure-island|64256573|3a6662cb
+14851|uncle-silas|Uncle Silas|Le Fanu, Joseph Sheridan|1864|Gothic & Horror|en|author d. 1873; first published 1864|pdf,epub,txt|1364|518|books/uncle-silas|dea83e73|54142b22
+2480|under-western-eyes|Under Western Eyes|Conrad, Joseph|1911|Fiction|en|author d. 1924; first published 1911|pdf,epub,txt|937|426|books/under-western-eyes|e82da5eb|ce711b0b
 9182|villette|Villette|Bronte, Charlotte|1853|Fiction|en|author d. 1855; first published 1853|pdf,epub,txt|1714|588|books/villette|bb1fa350|9327b694
 205|walden|Walden|Thoreau, Henry David|1854|Essays|en|author d. 1862; first published 1854|pdf,epub,txt|832|464|books/walden|b96efc80|7487798c
 768|wuthering-heights|Wuthering Heights|Bronte, Emily|1847|Fiction|en|author d. 1848; first published 1847|pdf,epub,txt|967|529|books/wuthering-heights|3d65f918|de65ea47

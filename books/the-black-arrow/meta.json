@@ -1,0 +1,45 @@
+{
+  "id": "32954",
+  "slug": "the-black-arrow",
+  "title": "The Black Arrow",
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "file_as": "Stevenson, Robert Louis",
+    "death": 1894
+  },
+  "year": 1888,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Great Britain -- History -- Wars of the Roses -- Fiction"
+  ],
+  "blurb": "The Wars of the Roses as a boys' adventure with real bodies in it. Stevenson's most underrated romance.",
+  "rights": {
+    "basis": "author d. 1894; first published 1888 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "robert-louis-stevenson_the-black-arrow",
+    "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-black-arrow/the-black-arrow.pdf",
+    "epub": "books/the-black-arrow/the-black-arrow.epub",
+    "txt": "books/the-black-arrow/the-black-arrow.txt",
+    "cover": "books/the-black-arrow/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "745eb26b",
+  "text_sha256": "506cf4f4a5067dbe0e8c61ea9ce1f737b04d977127fdcf49a18ce862edf53ec7"
+}

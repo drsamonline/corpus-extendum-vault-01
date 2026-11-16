@@ -1,13 +1,59 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 66,
-  "mb": 212.9,
+  "books": 79,
+  "mb": 243.4,
   "cap": {
     "books": 600,
     "mb": 2500
   },
   "records": [
+    {
+      "id": "86",
+      "slug": "a-connecticut-yankee",
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "author": {
+        "name": "Mark Twain",
+        "file_as": "Twain, Mark",
+        "death": 1910
+      },
+      "year": 1889,
+      "category": "Satire",
+      "language": "en",
+      "subjects": [
+        "Arthurian romances -- Adaptations",
+        "Time travel -- Fiction"
+      ],
+      "blurb": "A nineteenth-century engineer wakes in the sixth century and tries to industrialise it. It ends badly, and Twain means it to.",
+      "rights": {
+        "basis": "author d. 1910; first published 1889 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "mark-twain_a-connecticut-yankee-in-king-arthurs-court",
+        "url": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/a-connecticut-yankee/a-connecticut-yankee.pdf",
+        "epub": "books/a-connecticut-yankee/a-connecticut-yankee.epub",
+        "txt": "books/a-connecticut-yankee/a-connecticut-yankee.txt",
+        "cover": "books/a-connecticut-yankee/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "d9efdfad",
+      "text_sha256": "7c6cb56ee4e7552b1fa113eb7d424659c16214bef9331df09da6a4c91e9e1da8"
+    },
     {
       "id": "98",
       "slug": "a-tale-of-two-cities",
@@ -198,6 +244,52 @@
       "added": "2026-11-16",
       "file_sha8": "abe319e2",
       "text_sha256": "a7f4d2a0c744a407c9ac45de2152443c2c708415af7be33e6ee35a743558fb7c"
+    },
+    {
+      "id": "2186",
+      "slug": "captains-courageous",
+      "title": "Captains Courageous",
+      "author": {
+        "name": "Rudyard Kipling",
+        "file_as": "Kipling, Rudyard",
+        "death": 1936
+      },
+      "year": 1897,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Sea stories",
+        "Coming of age -- Fiction"
+      ],
+      "blurb": "A spoiled rich boy falls off a liner and is picked up by a fishing schooner that has no use for him as he is.",
+      "rights": {
+        "basis": "author d. 1936; first published 1897 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "rudyard-kipling_captains-courageous",
+        "url": "https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/captains-courageous/captains-courageous.pdf",
+        "epub": "books/captains-courageous/captains-courageous.epub",
+        "txt": "books/captains-courageous/captains-courageous.txt",
+        "cover": "books/captains-courageous/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "577cd1fe",
+      "text_sha256": "8ac741813f1c289501253623e1903e453bccc632fc18cdf1de5d9edabf4b8db4"
     },
     {
       "id": "13416",
@@ -572,6 +664,59 @@
       "added": "2026-11-16",
       "file_sha8": "d97ea3a7",
       "text_sha256": "6dcbe3b8b4bd9abf9b0457d1734dc212d97d96823ccd71443ecbeb1aa91fa11d",
+      "translator": {
+        "name": "George Long",
+        "death": 1879,
+        "translation_year": 1877,
+        "source": "already recorded on the shelved Meditations record; Long's Epictetus and Marcus Aurelius were published by Bell & Daldy in the 1860s–70s"
+      }
+    },
+    {
+      "id": "10661",
+      "slug": "epictetus-short-works",
+      "title": "Short Works",
+      "author": {
+        "name": "Epictetus",
+        "file_as": "Epictetus",
+        "death": 135
+      },
+      "year": 108,
+      "category": "Philosophy",
+      "language": "en",
+      "subjects": [
+        "Stoics",
+        "Ethics -- Early works to 1800"
+      ],
+      "blurb": "The Encheiridion and the fragments — the Stoic manual stripped to what you can carry.",
+      "rights": {
+        "basis": "author d. 135; first published 108 — public domain in India (life + 60) and the United States (pre-1930); translation by George Long (d. 1879), first published 1877 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16",
+        "translation_verified": true
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "epictetus_short-works_george-long",
+        "url": "https://standardebooks.org/ebooks/epictetus/short-works_george-long",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/epictetus-short-works/epictetus-short-works.pdf",
+        "epub": "books/epictetus-short-works/epictetus-short-works.epub",
+        "txt": "books/epictetus-short-works/epictetus-short-works.txt",
+        "cover": "books/epictetus-short-works/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "876d00ac",
+      "text_sha256": "4544a8ac871141686a551b813862ff135ed1f8b8a7f9bb91e94ee34794c4be1b",
       "translator": {
         "name": "George Long",
         "death": 1879,
@@ -992,6 +1137,52 @@
       "added": "2026-11-15",
       "file_sha8": "e85b55cc",
       "text_sha256": "5eb6385f5aaa53a62b8d48464da3089d95cfb1d511b81b54b0bf9999e29fd714"
+    },
+    {
+      "id": "32488",
+      "slug": "just-so-stories",
+      "title": "Just So Stories",
+      "author": {
+        "name": "Rudyard Kipling",
+        "file_as": "Kipling, Rudyard",
+        "death": 1936
+      },
+      "year": 1902,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Animals -- Juvenile fiction",
+        "Short stories"
+      ],
+      "blurb": "How the camel got his hump and the elephant his trunk, told to be read aloud, with Kipling's own drawings.",
+      "rights": {
+        "basis": "author d. 1936; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "rudyard-kipling_just-so-stories",
+        "url": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/just-so-stories/just-so-stories.pdf",
+        "epub": "books/just-so-stories/just-so-stories.epub",
+        "txt": "books/just-so-stories/just-so-stories.txt",
+        "cover": "books/just-so-stories/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "bc80bdcf",
+      "text_sha256": "ef7f2b9e72d054e8f6b332380cb6655c53fd60b3ffab8f69ef7585cef45ff219"
     },
     {
       "id": "23583",
@@ -1500,6 +1691,52 @@
       "added": "2026-11-16",
       "file_sha8": "04828f61",
       "text_sha256": "412c675010d6533120fabc8b5043ba8168835a6cf57d68b7d751d1ed98c0d533"
+    },
+    {
+      "id": "2021",
+      "slug": "nostromo",
+      "title": "Nostromo",
+      "author": {
+        "name": "Joseph Conrad",
+        "file_as": "Conrad, Joseph",
+        "death": 1924
+      },
+      "year": 1904,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Revolutions -- Fiction",
+        "South America -- Fiction"
+      ],
+      "blurb": "A silver mine, a revolution, and a man everyone trusts with everything. Conrad's largest book.",
+      "rights": {
+        "basis": "author d. 1924; first published 1904 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "joseph-conrad_nostromo",
+        "url": "https://standardebooks.org/ebooks/joseph-conrad/nostromo",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/nostromo/nostromo.pdf",
+        "epub": "books/nostromo/nostromo.epub",
+        "txt": "books/nostromo/nostromo.txt",
+        "cover": "books/nostromo/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "3510b894",
+      "text_sha256": "659e1c11132c6bada0fb6133e98d627976fa35fa83793e8ca899ab83f218748f"
     },
     {
       "id": "730",
@@ -2021,6 +2258,51 @@
       "text_sha256": "16f70dcb2419a8928ea85248d693dff4ac910a0ef631b429c29fe1fa3a0581ff"
     },
     {
+      "id": "32954",
+      "slug": "the-black-arrow",
+      "title": "The Black Arrow",
+      "author": {
+        "name": "Robert Louis Stevenson",
+        "file_as": "Stevenson, Robert Louis",
+        "death": 1894
+      },
+      "year": 1888,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Great Britain -- History -- Wars of the Roses -- Fiction"
+      ],
+      "blurb": "The Wars of the Roses as a boys' adventure with real bodies in it. Stevenson's most underrated romance.",
+      "rights": {
+        "basis": "author d. 1894; first published 1888 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "robert-louis-stevenson_the-black-arrow",
+        "url": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-black-arrow/the-black-arrow.pdf",
+        "epub": "books/the-black-arrow/the-black-arrow.epub",
+        "txt": "books/the-black-arrow/the-black-arrow.txt",
+        "cover": "books/the-black-arrow/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "745eb26b",
+      "text_sha256": "506cf4f4a5067dbe0e8c61ea9ce1f737b04d977127fdcf49a18ce862edf53ec7"
+    },
+    {
       "id": "13505",
       "slug": "the-duel",
       "title": "The Duel",
@@ -2304,6 +2586,52 @@
       "text_sha256": "c80a3193960dc423ae91310f3d9fe6d4b1a6c2711c49f0cc2b8f0cd09ac462e6"
     },
     {
+      "id": "139",
+      "slug": "the-lost-world",
+      "title": "The Lost World",
+      "author": {
+        "name": "Arthur Conan Doyle",
+        "file_as": "Doyle, Arthur Conan",
+        "death": 1930
+      },
+      "year": 1912,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Dinosaurs -- Fiction",
+        "Adventure stories"
+      ],
+      "blurb": "Professor Challenger goes looking for dinosaurs on a plateau in South America and finds them, along with worse things.",
+      "rights": {
+        "basis": "author d. 1930; first published 1912 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "arthur-conan-doyle_the-lost-world",
+        "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-lost-world/the-lost-world.pdf",
+        "epub": "books/the-lost-world/the-lost-world.epub",
+        "txt": "books/the-lost-world/the-lost-world.txt",
+        "cover": "books/the-lost-world/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "af37ee3d",
+      "text_sha256": "bb785f636a4559d44b7ef32c2e67884c2b8862004a990c9e874af7e1ce481cdf"
+    },
+    {
       "id": "155",
       "slug": "the-moonstone",
       "title": "The Moonstone",
@@ -2442,6 +2770,98 @@
       "text_sha256": "b29063387fc8ba072931fb2f705305026c8b849e0c7124f3d7f7930a3fb890aa"
     },
     {
+      "id": "108",
+      "slug": "the-return-of-sherlock-holmes",
+      "title": "The Return of Sherlock Holmes",
+      "author": {
+        "name": "Arthur Conan Doyle",
+        "file_as": "Doyle, Arthur Conan",
+        "death": 1930
+      },
+      "year": 1905,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Holmes, Sherlock (Fictitious character)",
+        "Detective and mystery stories"
+      ],
+      "blurb": "Thirteen cases after the fall at Reichenbach, including the empty house and the six Napoleons.",
+      "rights": {
+        "basis": "author d. 1930; first published 1905 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "arthur-conan-doyle_the-return-of-sherlock-holmes",
+        "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.pdf",
+        "epub": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.epub",
+        "txt": "books/the-return-of-sherlock-holmes/the-return-of-sherlock-holmes.txt",
+        "cover": "books/the-return-of-sherlock-holmes/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "7cb54e12",
+      "text_sha256": "afcce019f45589f2c8e90998559db613cac4f91511b546bb0488293cd1a017a9"
+    },
+    {
+      "id": "37172",
+      "slug": "the-room-in-the-dragon-volant",
+      "title": "The Room in the Dragon Volant",
+      "author": {
+        "name": "J. Sheridan Le Fanu",
+        "file_as": "Le Fanu, Joseph Sheridan",
+        "death": 1873
+      },
+      "year": 1872,
+      "category": "Gothic & Horror",
+      "language": "en",
+      "subjects": [
+        "Gothic fiction",
+        "France -- Fiction"
+      ],
+      "blurb": "A young Englishman in France takes a room he should not have and falls for a woman he should not have. Le Fanu at his most controlled.",
+      "rights": {
+        "basis": "author d. 1873; first published 1872 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "j-sheridan-le-fanu_the-room-in-the-dragon-volant",
+        "url": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.pdf",
+        "epub": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.epub",
+        "txt": "books/the-room-in-the-dragon-volant/the-room-in-the-dragon-volant.txt",
+        "cover": "books/the-room-in-the-dragon-volant/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "c300b2ca",
+      "text_sha256": "5eeabc56a6922d4e70b6e3f8e5294c5254e831f34c001c789cf2d22a5bda99ee"
+    },
+    {
       "id": "25344",
       "slug": "the-scarlet-letter",
       "title": "The Scarlet Letter",
@@ -2486,6 +2906,52 @@
       "added": "2026-11-15",
       "file_sha8": "a5cadb15",
       "text_sha256": "962ac5b3e07f974b1adbd1d2ec2cb4646469a581a24eced975719d6f56eb469e"
+    },
+    {
+      "id": "974",
+      "slug": "the-secret-agent",
+      "title": "The Secret Agent",
+      "author": {
+        "name": "Joseph Conrad",
+        "file_as": "Conrad, Joseph",
+        "death": 1924
+      },
+      "year": 1907,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "London (England) -- Fiction",
+        "Conspiracies -- Fiction"
+      ],
+      "blurb": "A shopkeeper in Soho is paid to blow up Greenwich Observatory, and his family pays for it. Conrad's bleakest joke.",
+      "rights": {
+        "basis": "author d. 1924; first published 1907 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "joseph-conrad_the-secret-agent",
+        "url": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-secret-agent/the-secret-agent.pdf",
+        "epub": "books/the-secret-agent/the-secret-agent.epub",
+        "txt": "books/the-secret-agent/the-secret-agent.txt",
+        "cover": "books/the-secret-agent/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "5a60fee2",
+      "text_sha256": "af69f8fb129f0475ced61e0b05511aaf12c67f539983f7f3e93b3f27e0d687e9"
     },
     {
       "id": "17396",
@@ -2856,6 +3322,52 @@
       "text_sha256": "4cb3c88aee2a5df85edbdf265aeaf56b1d5b7535d22d8fcad153095feebe6bf3"
     },
     {
+      "id": "308",
+      "slug": "three-men-in-a-boat",
+      "title": "Three Men in a Boat",
+      "author": {
+        "name": "Jerome K. Jerome",
+        "file_as": "Jerome, Jerome K.",
+        "death": 1927
+      },
+      "year": 1889,
+      "category": "Satire",
+      "language": "en",
+      "subjects": [
+        "Humorous stories",
+        "Thames River (England) -- Fiction"
+      ],
+      "blurb": "Three hypochondriacs and a dog take a boat up the Thames and complain. The funniest book in this library, and it knows it.",
+      "rights": {
+        "basis": "author d. 1927; first published 1889 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "jerome-k-jerome_three-men-in-a-boat",
+        "url": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/three-men-in-a-boat/three-men-in-a-boat.pdf",
+        "epub": "books/three-men-in-a-boat/three-men-in-a-boat.epub",
+        "txt": "books/three-men-in-a-boat/three-men-in-a-boat.txt",
+        "cover": "books/three-men-in-a-boat/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "68f6053d",
+      "text_sha256": "5276ec36bab75c412bbdb9e347d169fd309f30a3d7d0301d51d4da69b232eccd"
+    },
+    {
       "id": "12",
       "slug": "through-the-looking-glass",
       "title": "Through the Looking-Glass",
@@ -2946,6 +3458,98 @@
       "added": "2026-11-15",
       "file_sha8": "64256573",
       "text_sha256": "3a6662cb21f07291f3572ab317aa0c1d7224f102fd07525c21bb148f4f111996"
+    },
+    {
+      "id": "14851",
+      "slug": "uncle-silas",
+      "title": "Uncle Silas",
+      "author": {
+        "name": "J. Sheridan Le Fanu",
+        "file_as": "Le Fanu, Joseph Sheridan",
+        "death": 1873
+      },
+      "year": 1864,
+      "category": "Gothic & Horror",
+      "language": "en",
+      "subjects": [
+        "Governesses -- Fiction",
+        "Gothic fiction"
+      ],
+      "blurb": "An heiress is handed to a charming, ruined uncle in a locked house. The best Victorian novel about knowing you are in danger.",
+      "rights": {
+        "basis": "author d. 1873; first published 1864 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "j-sheridan-le-fanu_uncle-silas",
+        "url": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/uncle-silas/uncle-silas.pdf",
+        "epub": "books/uncle-silas/uncle-silas.epub",
+        "txt": "books/uncle-silas/uncle-silas.txt",
+        "cover": "books/uncle-silas/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "dea83e73",
+      "text_sha256": "54142b229cbadb15cc93580d511f42bd757640442001fe12e977b069434256ce"
+    },
+    {
+      "id": "2480",
+      "slug": "under-western-eyes",
+      "title": "Under Western Eyes",
+      "author": {
+        "name": "Joseph Conrad",
+        "file_as": "Conrad, Joseph",
+        "death": 1924
+      },
+      "year": 1911,
+      "category": "Fiction",
+      "language": "en",
+      "subjects": [
+        "Russia -- History -- Fiction",
+        "Betrayal -- Fiction"
+      ],
+      "blurb": "A student betrays a man and spends the rest of the book being read by everyone. Conrad on Russia, from outside and inside.",
+      "rights": {
+        "basis": "author d. 1924; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "joseph-conrad_under-western-eyes",
+        "url": "https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/under-western-eyes/under-western-eyes.pdf",
+        "epub": "books/under-western-eyes/under-western-eyes.epub",
+        "txt": "books/under-western-eyes/under-western-eyes.txt",
+        "cover": "books/under-western-eyes/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "e82da5eb",
+      "text_sha256": "ce711b0b112c7b0afe84e49cb3e9c757b03b8e612a1bcbd1460d9e3864ad6d2b"
     },
     {
       "id": "9182",

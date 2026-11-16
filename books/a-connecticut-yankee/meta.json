@@ -1,0 +1,46 @@
+{
+  "id": "86",
+  "slug": "a-connecticut-yankee",
+  "title": "A Connecticut Yankee in King Arthur's Court",
+  "author": {
+    "name": "Mark Twain",
+    "file_as": "Twain, Mark",
+    "death": 1910
+  },
+  "year": 1889,
+  "category": "Satire",
+  "language": "en",
+  "subjects": [
+    "Arthurian romances -- Adaptations",
+    "Time travel -- Fiction"
+  ],
+  "blurb": "A nineteenth-century engineer wakes in the sixth century and tries to industrialise it. It ends badly, and Twain means it to.",
+  "rights": {
+    "basis": "author d. 1910; first published 1889 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "mark-twain_a-connecticut-yankee-in-king-arthurs-court",
+    "url": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/a-connecticut-yankee/a-connecticut-yankee.pdf",
+    "epub": "books/a-connecticut-yankee/a-connecticut-yankee.epub",
+    "txt": "books/a-connecticut-yankee/a-connecticut-yankee.txt",
+    "cover": "books/a-connecticut-yankee/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "d9efdfad",
+  "text_sha256": "7c6cb56ee4e7552b1fa113eb7d424659c16214bef9331df09da6a4c91e9e1da8"
+}
