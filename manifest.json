@@ -1,8 +1,8 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 42,
-  "mb": 122.6,
+  "books": 43,
+  "mb": 146.8,
   "cap": {
     "books": 600,
     "mb": 2500
@@ -1802,6 +1802,52 @@
       "added": "2026-11-16",
       "file_sha8": "cfa4f59e",
       "text_sha256": "4cb3c88aee2a5df85edbdf265aeaf56b1d5b7535d22d8fcad153095feebe6bf3"
+    },
+    {
+      "id": "12",
+      "slug": "through-the-looking-glass",
+      "title": "Through the Looking-Glass",
+      "author": {
+        "name": "Lewis Carroll",
+        "file_as": "Carroll, Lewis",
+        "death": 1898
+      },
+      "year": 1871,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Fantasy fiction",
+        "Alice (Fictitious character from Carroll)"
+      ],
+      "blurb": "A mirror, a chess game, and the poems everyone learns without deciding to. The rarer of the two Alices, and the stranger.",
+      "rights": {
+        "basis": "author d. 1898; first published 1871 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "lewis-carroll_through-the-looking-glass",
+        "url": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/through-the-looking-glass/through-the-looking-glass.pdf",
+        "epub": "books/through-the-looking-glass/through-the-looking-glass.epub",
+        "txt": "books/through-the-looking-glass/through-the-looking-glass.txt",
+        "cover": "books/through-the-looking-glass/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "cebee142",
+      "text_sha256": "c8f076ad1ead887bd4a771326e1d71e7961e762c451ed82fc77fc2884d4d71c3"
     },
     {
       "id": "27780",

@@ -1,4 +1,4 @@
-# corpus-extendum-vault-01 | 42 books | 122.6 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T02:19Z
+# corpus-extendum-vault-01 | 43 books | 146.8 MB | cap 600 books / 2500 MB | state: open | built 2026-11-16T02:34Z
 # id | slug | title | author | year | category | lang | pd_basis | formats | pdf_kb | epub_kb | path | file_sha8 | text_sha8
 98|a-tale-of-two-cities|A Tale of Two Cities|Dickens, Charles|1859|Fiction|en|author d. 1870; first published 1859|pdf,epub,txt|1097|582|books/a-tale-of-two-cities|53570927|2316c742
 11|alice-in-wonderland|Alice's Adventures in Wonderland|Carroll, Lewis|1865|Children's & Fable|en|author d. 1898; first published 1865|pdf,epub,txt|18648|18612|books/alice-in-wonderland|a551490a|cea7d9da
@@ -39,6 +39,7 @@
 36|the-war-of-the-worlds|The War of the Worlds|Wells, H. G.|1898|Science Fiction|en|author d. 1946; first published 1898|pdf,epub,txt|492|433|books/the-war-of-the-worlds|e28c155c|0be6ecce
 27805|the-wind-in-the-willows|The Wind in the Willows|Grahame, Kenneth|1908|Children's & Fable|en|author d. 1932; first published 1908|pdf,epub,txt|482|321|books/the-wind-in-the-willows|59886253|5e315048
 583|the-woman-in-white|The Woman in White|Collins, Wilkie|1860|Mystery & Detective|en|author d. 1889; first published 1860|pdf,epub,txt|2009|793|books/the-woman-in-white|cfa4f59e|4cb3c88a
+12|through-the-looking-glass|Through the Looking-Glass|Carroll, Lewis|1871|Children's & Fable|en|author d. 1898; first published 1871|pdf,epub,txt|12301|12115|books/through-the-looking-glass|cebee142|c8f076ad
 27780|treasure-island|Treasure Island|Stevenson, Robert Louis|1883|Adventure|en|author d. 1894; first published 1883|pdf,epub,txt|546|435|books/treasure-island|64256573|3a6662cb
 205|walden|Walden|Thoreau, Henry David|1854|Essays|en|author d. 1862; first published 1854|pdf,epub,txt|832|464|books/walden|b96efc80|7487798c
 768|wuthering-heights|Wuthering Heights|Bronte, Emily|1847|Fiction|en|author d. 1848; first published 1847|pdf,epub,txt|967|529|books/wuthering-heights|3d65f918|de65ea47
