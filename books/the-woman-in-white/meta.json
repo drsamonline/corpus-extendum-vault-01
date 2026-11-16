@@ -1,0 +1,46 @@
+{
+  "id": "583",
+  "slug": "the-woman-in-white",
+  "title": "The Woman in White",
+  "author": {
+    "name": "Wilkie Collins",
+    "file_as": "Collins, Wilkie",
+    "death": 1889
+  },
+  "year": 1860,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "England -- Social life and customs -- 19th century",
+    "Detective and mystery stories"
+  ],
+  "blurb": "A woman in white on a dark road, and an identity stolen for money. The original sensation novel.",
+  "rights": {
+    "basis": "author d. 1889; first published 1860 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "wilkie-collins_the-woman-in-white",
+    "url": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-woman-in-white/the-woman-in-white.pdf",
+    "epub": "books/the-woman-in-white/the-woman-in-white.epub",
+    "txt": "books/the-woman-in-white/the-woman-in-white.txt",
+    "cover": "books/the-woman-in-white/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "cfa4f59e",
+  "text_sha256": "4cb3c88aee2a5df85edbdf265aeaf56b1d5b7535d22d8fcad153095feebe6bf3"
+}

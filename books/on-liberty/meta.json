@@ -1,0 +1,46 @@
+{
+  "id": "34901",
+  "slug": "on-liberty",
+  "title": "On Liberty",
+  "author": {
+    "name": "John Stuart Mill",
+    "file_as": "Mill, John Stuart",
+    "death": 1873
+  },
+  "year": 1859,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Liberty",
+    "Political science"
+  ],
+  "blurb": "The harm principle, stated once and never improved on: the only reason to restrain anyone is to prevent harm to others.",
+  "rights": {
+    "basis": "author d. 1873; first published 1859 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "john-stuart-mill_on-liberty",
+    "url": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/on-liberty/on-liberty.pdf",
+    "epub": "books/on-liberty/on-liberty.epub",
+    "txt": "books/on-liberty/on-liberty.txt",
+    "cover": "books/on-liberty/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "6316ed2d",
+  "text_sha256": "4fc52a60e416e6f848d86e37430c73c870f77be0ab26cbf82d5783f78decf75a"
+}

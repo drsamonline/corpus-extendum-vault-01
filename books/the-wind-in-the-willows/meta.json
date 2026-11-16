@@ -1,0 +1,46 @@
+{
+  "id": "27805",
+  "slug": "the-wind-in-the-willows",
+  "title": "The Wind in the Willows",
+  "author": {
+    "name": "Kenneth Grahame",
+    "file_as": "Grahame, Kenneth",
+    "death": 1932
+  },
+  "year": 1908,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Animals -- Fiction",
+    "England -- Fiction"
+  ],
+  "blurb": "A river, a caravan, a motor-car and Mr Toad's complete inability to learn. Started as bedtime stories for one boy.",
+  "rights": {
+    "basis": "author d. 1932; first published 1908 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "kenneth-grahame_the-wind-in-the-willows",
+    "url": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-wind-in-the-willows/the-wind-in-the-willows.pdf",
+    "epub": "books/the-wind-in-the-willows/the-wind-in-the-willows.epub",
+    "txt": "books/the-wind-in-the-willows/the-wind-in-the-willows.txt",
+    "cover": "books/the-wind-in-the-willows/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "59886253",
+  "text_sha256": "5e3150488c334469e5734ae5887c4b2b02e4ce54cd32eb4fc7e9054b62a12007"
+}

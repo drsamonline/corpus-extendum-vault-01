@@ -1,0 +1,46 @@
+{
+  "id": "2166",
+  "slug": "king-solomons-mines",
+  "title": "King Solomon's Mines",
+  "author": {
+    "name": "H. Rider Haggard",
+    "file_as": "Haggard, H. Rider",
+    "death": 1925
+  },
+  "year": 1885,
+  "category": "Adventure",
+  "language": "en",
+  "subjects": [
+    "Quatermain, Allan (Fictitious character)",
+    "Africa -- Fiction"
+  ],
+  "blurb": "Allan Quatermain, a map drawn in blood, and a lost civilisation. The book that invented the treasure hunt.",
+  "rights": {
+    "basis": "author d. 1925; first published 1885 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-rider-haggard_king-solomons-mines",
+    "url": "https://standardebooks.org/ebooks/h-rider-haggard/king-solomons-mines",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/king-solomons-mines/king-solomons-mines.pdf",
+    "epub": "books/king-solomons-mines/king-solomons-mines.epub",
+    "txt": "books/king-solomons-mines/king-solomons-mines.txt",
+    "cover": "books/king-solomons-mines/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "2a3d81dc",
+  "text_sha256": "088e77e98980397b2ee3708e438eadc7db425a8e3b278f1a1b8fa21194901141"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "18247",
+  "slug": "the-last-man",
+  "title": "The Last Man",
+  "author": {
+    "name": "Mary Wollstonecraft Shelley",
+    "file_as": "Shelley, Mary Wollstonecraft",
+    "death": 1851
+  },
+  "year": 1826,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "End of the world -- Fiction",
+    "Plague -- Fiction"
+  ],
+  "blurb": "A plague empties the world and one man walks through it. The first pandemic novel, written by the author of Frankenstein.",
+  "rights": {
+    "basis": "author d. 1851; first published 1826 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "mary-shelley_the-last-man",
+    "url": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-last-man/the-last-man.pdf",
+    "epub": "books/the-last-man/the-last-man.epub",
+    "txt": "books/the-last-man/the-last-man.txt",
+    "cover": "books/the-last-man/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "bb59e855",
+  "text_sha256": "c80a3193960dc423ae91310f3d9fe6d4b1a6c2711c49f0cc2b8f0cd09ac462e6"
+}

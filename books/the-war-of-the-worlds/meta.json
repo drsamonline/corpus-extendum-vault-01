@@ -1,0 +1,46 @@
+{
+  "id": "36",
+  "slug": "the-war-of-the-worlds",
+  "title": "The War of the Worlds",
+  "author": {
+    "name": "H. G. Wells",
+    "file_as": "Wells, H. G.",
+    "death": 1946
+  },
+  "year": 1898,
+  "category": "Science Fiction",
+  "language": "en",
+  "subjects": [
+    "Mars (Planet) -- Fiction",
+    "Imaginary wars and battles"
+  ],
+  "blurb": "Martians land in Surrey and the British Empire discovers it is not the strongest thing in the universe.",
+  "rights": {
+    "basis": "author d. 1946; first published 1898 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "h-g-wells_the-war-of-the-worlds",
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-war-of-the-worlds/the-war-of-the-worlds.pdf",
+    "epub": "books/the-war-of-the-worlds/the-war-of-the-worlds.epub",
+    "txt": "books/the-war-of-the-worlds/the-war-of-the-worlds.txt",
+    "cover": "books/the-war-of-the-worlds/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "e28c155c",
+  "text_sha256": "0be6eccec41e83d9b8575c69b9841f6e116e73b4afcc646a4e271eb7525ca93f"
+}

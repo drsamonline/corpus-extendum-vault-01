@@ -1,0 +1,45 @@
+{
+  "id": "2944",
+  "slug": "emerson-essays",
+  "title": "Essays: First Series",
+  "author": {
+    "name": "Ralph Waldo Emerson",
+    "file_as": "Emerson, Ralph Waldo",
+    "death": 1882
+  },
+  "year": 1841,
+  "category": "Essays",
+  "language": "en",
+  "subjects": [
+    "American essays -- 19th century"
+  ],
+  "blurb": "Self-Reliance, Compensation, History. The essays that gave American thought permission to stop looking at Europe.",
+  "rights": {
+    "basis": "author d. 1882; first published 1841 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "ralph-waldo-emerson_essays",
+    "url": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/emerson-essays/emerson-essays.pdf",
+    "epub": "books/emerson-essays/emerson-essays.epub",
+    "txt": "books/emerson-essays/emerson-essays.txt",
+    "cover": "books/emerson-essays/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "f6e2142d",
+  "text_sha256": "496435fef773dac0dce08546717b0b7d2be2b9ff12c4db25f6da73f5dc16f73a"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "17396",
+  "slug": "the-secret-garden",
+  "title": "The Secret Garden",
+  "author": {
+    "name": "Frances Hodgson Burnett",
+    "file_as": "Burnett, Frances Hodgson",
+    "death": 1924
+  },
+  "year": 1911,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Orphans -- Fiction",
+    "Gardens -- Fiction"
+  ],
+  "blurb": "A locked garden, a sickly boy, and the discovery that fresh air and work cure more than medicine does.",
+  "rights": {
+    "basis": "author d. 1924; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "frances-hodgson-burnett_the-secret-garden",
+    "url": "https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-secret-garden/the-secret-garden.pdf",
+    "epub": "books/the-secret-garden/the-secret-garden.epub",
+    "txt": "books/the-secret-garden/the-secret-garden.txt",
+    "cover": "books/the-secret-garden/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "8be019f2",
+  "text_sha256": "c55ec9a74fed33d3a516e23e7c7772561d7369edef2f4679a2d0f2985810dfc3"
+}

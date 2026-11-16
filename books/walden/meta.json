@@ -1,0 +1,46 @@
+{
+  "id": "205",
+  "slug": "walden",
+  "title": "Walden",
+  "author": {
+    "name": "Henry David Thoreau",
+    "file_as": "Thoreau, Henry David",
+    "death": 1862
+  },
+  "year": 1854,
+  "category": "Essays",
+  "language": "en",
+  "subjects": [
+    "Wilderness areas -- Massachusetts",
+    "Solitude"
+  ],
+  "blurb": "Two years in a cabin, and an argument about what a person actually needs. Still the best book on choosing less.",
+  "rights": {
+    "basis": "author d. 1862; first published 1854 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "henry-david-thoreau_walden",
+    "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/walden/walden.pdf",
+    "epub": "books/walden/walden.epub",
+    "txt": "books/walden/walden.txt",
+    "cover": "books/walden/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "b96efc80",
+  "text_sha256": "7487798c80f781201de3df549244ef3ee5cd0df590ed6007d41fb019acfd10d2"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "3207",
+  "slug": "leviathan",
+  "title": "Leviathan",
+  "author": {
+    "name": "Thomas Hobbes",
+    "file_as": "Hobbes, Thomas",
+    "death": 1679
+  },
+  "year": 1651,
+  "category": "Philosophy",
+  "language": "en",
+  "subjects": [
+    "Political science -- Early works to 1800",
+    "State, The"
+  ],
+  "blurb": "The state as an artificial man, built to escape the war of all against all. Every argument about government starts here.",
+  "rights": {
+    "basis": "author d. 1679; first published 1651 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "thomas-hobbes_leviathan",
+    "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/leviathan/leviathan.pdf",
+    "epub": "books/leviathan/leviathan.epub",
+    "txt": "books/leviathan/leviathan.txt",
+    "cover": "books/leviathan/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "45a8430b",
+  "text_sha256": "7e58dddc1e278aefe69bb97168afe275c3829ebe07ac37633f05cdc0746a1a4a"
+}

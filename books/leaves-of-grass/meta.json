@@ -1,0 +1,45 @@
+{
+  "id": "1322",
+  "slug": "leaves-of-grass",
+  "title": "Leaves of Grass",
+  "author": {
+    "name": "Walt Whitman",
+    "file_as": "Whitman, Walt",
+    "death": 1892
+  },
+  "year": 1855,
+  "category": "Poetry",
+  "language": "en",
+  "subjects": [
+    "American poetry -- 19th century"
+  ],
+  "blurb": "The book Whitman rewrote his whole life. Free verse invented in public, and a country described by someone who loved it without flinching.",
+  "rights": {
+    "basis": "author d. 1892; first published 1855 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "walt-whitman_leaves-of-grass",
+    "url": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/leaves-of-grass/leaves-of-grass.pdf",
+    "epub": "books/leaves-of-grass/leaves-of-grass.epub",
+    "txt": "books/leaves-of-grass/leaves-of-grass.txt",
+    "cover": "books/leaves-of-grass/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "7ee16ebd",
+  "text_sha256": "6f0c73a28040eafe2bbc05434bf89354f6ae9f7f6c3b5d45c7b06ec217b532a7"
+}

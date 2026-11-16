@@ -1,8 +1,8 @@
 {
   "vault": "corpus-extendum-vault-01",
   "state": "open",
-  "books": 26,
-  "mb": 138.1,
+  "books": 42,
+  "mb": 122.6,
   "cap": {
     "books": 600,
     "mb": 2500
@@ -237,6 +237,143 @@
       "added": "2026-11-15",
       "file_sha8": "6905b4f4",
       "text_sha256": "b137cc2ed618e5a0d1aa5f3936c91eaacd6fbc68b899a1de83f30d90b6770447"
+    },
+    {
+      "id": "2944",
+      "slug": "emerson-essays",
+      "title": "Essays: First Series",
+      "author": {
+        "name": "Ralph Waldo Emerson",
+        "file_as": "Emerson, Ralph Waldo",
+        "death": 1882
+      },
+      "year": 1841,
+      "category": "Essays",
+      "language": "en",
+      "subjects": [
+        "American essays -- 19th century"
+      ],
+      "blurb": "Self-Reliance, Compensation, History. The essays that gave American thought permission to stop looking at Europe.",
+      "rights": {
+        "basis": "author d. 1882; first published 1841 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "ralph-waldo-emerson_essays",
+        "url": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/emerson-essays/emerson-essays.pdf",
+        "epub": "books/emerson-essays/emerson-essays.epub",
+        "txt": "books/emerson-essays/emerson-essays.txt",
+        "cover": "books/emerson-essays/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "f6e2142d",
+      "text_sha256": "496435fef773dac0dce08546717b0b7d2be2b9ff12c4db25f6da73f5dc16f73a"
+    },
+    {
+      "id": "204",
+      "slug": "father-brown",
+      "title": "The Innocence of Father Brown",
+      "author": {
+        "name": "G. K. Chesterton",
+        "file_as": "Chesterton, G. K.",
+        "death": 1936
+      },
+      "year": 1911,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Brown, Father (Fictitious character)",
+        "Detective and mystery stories"
+      ],
+      "blurb": "A small priest solves twelve crimes by understanding sin better than the police understand evidence.",
+      "rights": {
+        "basis": "author d. 1936; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "g-k-chesterton_the-innocence-of-father-brown",
+        "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/father-brown/father-brown.pdf",
+        "epub": "books/father-brown/father-brown.epub",
+        "txt": "books/father-brown/father-brown.txt",
+        "cover": "books/father-brown/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "8b76236b",
+      "text_sha256": "b0366433ad3aa2e7e8dd30714f2811294ceaf1943cfb2609f4aeb4587929b9f5"
+    },
+    {
+      "id": "778",
+      "slug": "five-children-and-it",
+      "title": "Five Children and It",
+      "author": {
+        "name": "E. Nesbit",
+        "file_as": "Nesbit, E.",
+        "death": 1924
+      },
+      "year": 1902,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Fairies -- Fiction",
+        "Wishes -- Fiction"
+      ],
+      "blurb": "A sand fairy grants one wish a day, and every wish goes wrong in a way that is entirely the children's fault.",
+      "rights": {
+        "basis": "author d. 1924; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "e-nesbit_five-children-and-it",
+        "url": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/five-children-and-it/five-children-and-it.pdf",
+        "epub": "books/five-children-and-it/five-children-and-it.epub",
+        "txt": "books/five-children-and-it/five-children-and-it.txt",
+        "cover": "books/five-children-and-it/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "323dea04",
+      "text_sha256": "8296105586773b59bd39be78eba4c7af710bccf9f40e4c4830a4f9ce45da1ba1"
     },
     {
       "id": "84",
@@ -515,6 +652,188 @@
       "text_sha256": "5eb6385f5aaa53a62b8d48464da3089d95cfb1d511b81b54b0bf9999e29fd714"
     },
     {
+      "id": "23583",
+      "slug": "keats-poems",
+      "title": "Poems",
+      "author": {
+        "name": "John Keats",
+        "file_as": "Keats, John",
+        "death": 1821
+      },
+      "year": 1820,
+      "category": "Poetry",
+      "language": "en",
+      "subjects": [
+        "English poetry -- 19th century"
+      ],
+      "blurb": "Ode to a Nightingale, Ode on a Grecian Urn, and the rest of the year 1819, which killed him.",
+      "rights": {
+        "basis": "author d. 1821; first published 1820 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "john-keats_poetry",
+        "url": "https://standardebooks.org/ebooks/john-keats/poetry",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/keats-poems/keats-poems.pdf",
+        "epub": "books/keats-poems/keats-poems.epub",
+        "txt": "books/keats-poems/keats-poems.txt",
+        "cover": "books/keats-poems/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "e4140c1c",
+      "text_sha256": "7a3f26352f3b1fe1acb26c290fcf83a9802fed48a41b1846852c9a8357d7ebfa"
+    },
+    {
+      "id": "2166",
+      "slug": "king-solomons-mines",
+      "title": "King Solomon's Mines",
+      "author": {
+        "name": "H. Rider Haggard",
+        "file_as": "Haggard, H. Rider",
+        "death": 1925
+      },
+      "year": 1885,
+      "category": "Adventure",
+      "language": "en",
+      "subjects": [
+        "Quatermain, Allan (Fictitious character)",
+        "Africa -- Fiction"
+      ],
+      "blurb": "Allan Quatermain, a map drawn in blood, and a lost civilisation. The book that invented the treasure hunt.",
+      "rights": {
+        "basis": "author d. 1925; first published 1885 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-rider-haggard_king-solomons-mines",
+        "url": "https://standardebooks.org/ebooks/h-rider-haggard/king-solomons-mines",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/king-solomons-mines/king-solomons-mines.pdf",
+        "epub": "books/king-solomons-mines/king-solomons-mines.epub",
+        "txt": "books/king-solomons-mines/king-solomons-mines.txt",
+        "cover": "books/king-solomons-mines/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "2a3d81dc",
+      "text_sha256": "088e77e98980397b2ee3708e438eadc7db425a8e3b278f1a1b8fa21194901141"
+    },
+    {
+      "id": "1322",
+      "slug": "leaves-of-grass",
+      "title": "Leaves of Grass",
+      "author": {
+        "name": "Walt Whitman",
+        "file_as": "Whitman, Walt",
+        "death": 1892
+      },
+      "year": 1855,
+      "category": "Poetry",
+      "language": "en",
+      "subjects": [
+        "American poetry -- 19th century"
+      ],
+      "blurb": "The book Whitman rewrote his whole life. Free verse invented in public, and a country described by someone who loved it without flinching.",
+      "rights": {
+        "basis": "author d. 1892; first published 1855 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "walt-whitman_leaves-of-grass",
+        "url": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/leaves-of-grass/leaves-of-grass.pdf",
+        "epub": "books/leaves-of-grass/leaves-of-grass.epub",
+        "txt": "books/leaves-of-grass/leaves-of-grass.txt",
+        "cover": "books/leaves-of-grass/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "7ee16ebd",
+      "text_sha256": "6f0c73a28040eafe2bbc05434bf89354f6ae9f7f6c3b5d45c7b06ec217b532a7"
+    },
+    {
+      "id": "3207",
+      "slug": "leviathan",
+      "title": "Leviathan",
+      "author": {
+        "name": "Thomas Hobbes",
+        "file_as": "Hobbes, Thomas",
+        "death": 1679
+      },
+      "year": 1651,
+      "category": "Philosophy",
+      "language": "en",
+      "subjects": [
+        "Political science -- Early works to 1800",
+        "State, The"
+      ],
+      "blurb": "The state as an artificial man, built to escape the war of all against all. Every argument about government starts here.",
+      "rights": {
+        "basis": "author d. 1679; first published 1651 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "thomas-hobbes_leviathan",
+        "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/leviathan/leviathan.pdf",
+        "epub": "books/leviathan/leviathan.epub",
+        "txt": "books/leviathan/leviathan.txt",
+        "cover": "books/leviathan/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "45a8430b",
+      "text_sha256": "7e58dddc1e278aefe69bb97168afe275c3829ebe07ac37633f05cdc0746a1a4a"
+    },
+    {
       "id": "2680",
       "slug": "meditations",
       "title": "Meditations",
@@ -609,6 +928,52 @@
       "added": "2026-11-15",
       "file_sha8": "413ce4ab",
       "text_sha256": "19094886a8b1f0b571e77389d35abe4dcc843c9cd96e1d2623b374c191bc6349"
+    },
+    {
+      "id": "34901",
+      "slug": "on-liberty",
+      "title": "On Liberty",
+      "author": {
+        "name": "John Stuart Mill",
+        "file_as": "Mill, John Stuart",
+        "death": 1873
+      },
+      "year": 1859,
+      "category": "Philosophy",
+      "language": "en",
+      "subjects": [
+        "Liberty",
+        "Political science"
+      ],
+      "blurb": "The harm principle, stated once and never improved on: the only reason to restrain anyone is to prevent harm to others.",
+      "rights": {
+        "basis": "author d. 1873; first published 1859 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "john-stuart-mill_on-liberty",
+        "url": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/on-liberty/on-liberty.pdf",
+        "epub": "books/on-liberty/on-liberty.epub",
+        "txt": "books/on-liberty/on-liberty.txt",
+        "cover": "books/on-liberty/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "6316ed2d",
+      "text_sha256": "4fc52a60e416e6f848d86e37430c73c870f77be0ab26cbf82d5783f78decf75a"
     },
     {
       "id": "1342",
@@ -841,6 +1206,52 @@
       "text_sha256": "16f70dcb2419a8928ea85248d693dff4ac910a0ef631b429c29fe1fa3a0581ff"
     },
     {
+      "id": "2852",
+      "slug": "the-hound-of-the-baskervilles",
+      "title": "The Hound of the Baskervilles",
+      "author": {
+        "name": "Arthur Conan Doyle",
+        "file_as": "Doyle, Arthur Conan",
+        "death": 1930
+      },
+      "year": 1902,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Holmes, Sherlock (Fictitious character)",
+        "Dartmoor (England) -- Fiction"
+      ],
+      "blurb": "A family curse, a moor at night, and a hound that may not be a hound. Doyle's best novel, and he knew it.",
+      "rights": {
+        "basis": "author d. 1930; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "arthur-conan-doyle_the-hound-of-the-baskervilles",
+        "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.pdf",
+        "epub": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.epub",
+        "txt": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.txt",
+        "cover": "books/the-hound-of-the-baskervilles/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "469f7ed7",
+      "text_sha256": "72665242953ecd9cec46015cddec1cf24faf433b6885479e2214568276c4dcf9"
+    },
+    {
       "id": "5230",
       "slug": "the-invisible-man",
       "title": "The Invisible Man",
@@ -885,6 +1296,98 @@
       "added": "2026-11-15",
       "file_sha8": "025dbe5f",
       "text_sha256": "5c00d82b77619e3832687486c5a375d04e77d6abc87ea7ad9c90b809c6e0786d"
+    },
+    {
+      "id": "18247",
+      "slug": "the-last-man",
+      "title": "The Last Man",
+      "author": {
+        "name": "Mary Wollstonecraft Shelley",
+        "file_as": "Shelley, Mary Wollstonecraft",
+        "death": 1851
+      },
+      "year": 1826,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "End of the world -- Fiction",
+        "Plague -- Fiction"
+      ],
+      "blurb": "A plague empties the world and one man walks through it. The first pandemic novel, written by the author of Frankenstein.",
+      "rights": {
+        "basis": "author d. 1851; first published 1826 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "mary-shelley_the-last-man",
+        "url": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-last-man/the-last-man.pdf",
+        "epub": "books/the-last-man/the-last-man.epub",
+        "txt": "books/the-last-man/the-last-man.txt",
+        "cover": "books/the-last-man/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "bb59e855",
+      "text_sha256": "c80a3193960dc423ae91310f3d9fe6d4b1a6c2711c49f0cc2b8f0cd09ac462e6"
+    },
+    {
+      "id": "155",
+      "slug": "the-moonstone",
+      "title": "The Moonstone",
+      "author": {
+        "name": "Wilkie Collins",
+        "file_as": "Collins, Wilkie",
+        "death": 1889
+      },
+      "year": 1868,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "Diamonds -- Fiction",
+        "Detective and mystery stories"
+      ],
+      "blurb": "A diamond taken from an Indian shrine, and the household it ruins. The first detective novel in English.",
+      "rights": {
+        "basis": "author d. 1889; first published 1868 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "wilkie-collins_the-moonstone",
+        "url": "https://standardebooks.org/ebooks/wilkie-collins/the-moonstone",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-moonstone/the-moonstone.pdf",
+        "epub": "books/the-moonstone/the-moonstone.epub",
+        "txt": "books/the-moonstone/the-moonstone.txt",
+        "cover": "books/the-moonstone/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "e8ca30f2",
+      "text_sha256": "55966528a972958455df13e883abdd69624054f85246653c93c94da54b5fd0b7"
     },
     {
       "id": "174",
@@ -1025,6 +1528,52 @@
       "text_sha256": "962ac5b3e07f974b1adbd1d2ec2cb4646469a581a24eced975719d6f56eb469e"
     },
     {
+      "id": "17396",
+      "slug": "the-secret-garden",
+      "title": "The Secret Garden",
+      "author": {
+        "name": "Frances Hodgson Burnett",
+        "file_as": "Burnett, Frances Hodgson",
+        "death": 1924
+      },
+      "year": 1911,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Orphans -- Fiction",
+        "Gardens -- Fiction"
+      ],
+      "blurb": "A locked garden, a sickly boy, and the discovery that fresh air and work cure more than medicine does.",
+      "rights": {
+        "basis": "author d. 1924; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "frances-hodgson-burnett_the-secret-garden",
+        "url": "https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-secret-garden/the-secret-garden.pdf",
+        "epub": "books/the-secret-garden/the-secret-garden.epub",
+        "txt": "books/the-secret-garden/the-secret-garden.txt",
+        "cover": "books/the-secret-garden/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "8be019f2",
+      "text_sha256": "c55ec9a74fed33d3a516e23e7c7772561d7369edef2f4679a2d0f2985810dfc3"
+    },
+    {
       "id": "2388",
       "slug": "the-song-celestial",
       "title": "The Song Celestial; or, Bhagavad-Gita",
@@ -1117,6 +1666,144 @@
       "text_sha256": "80a067bf540e8fdd2333d350752df50003be08619cc3cef1dfdf2740a1e09417"
     },
     {
+      "id": "36",
+      "slug": "the-war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "author": {
+        "name": "H. G. Wells",
+        "file_as": "Wells, H. G.",
+        "death": 1946
+      },
+      "year": 1898,
+      "category": "Science Fiction",
+      "language": "en",
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Imaginary wars and battles"
+      ],
+      "blurb": "Martians land in Surrey and the British Empire discovers it is not the strongest thing in the universe.",
+      "rights": {
+        "basis": "author d. 1946; first published 1898 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "h-g-wells_the-war-of-the-worlds",
+        "url": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-war-of-the-worlds/the-war-of-the-worlds.pdf",
+        "epub": "books/the-war-of-the-worlds/the-war-of-the-worlds.epub",
+        "txt": "books/the-war-of-the-worlds/the-war-of-the-worlds.txt",
+        "cover": "books/the-war-of-the-worlds/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "e28c155c",
+      "text_sha256": "0be6eccec41e83d9b8575c69b9841f6e116e73b4afcc646a4e271eb7525ca93f"
+    },
+    {
+      "id": "27805",
+      "slug": "the-wind-in-the-willows",
+      "title": "The Wind in the Willows",
+      "author": {
+        "name": "Kenneth Grahame",
+        "file_as": "Grahame, Kenneth",
+        "death": 1932
+      },
+      "year": 1908,
+      "category": "Children's & Fable",
+      "language": "en",
+      "subjects": [
+        "Animals -- Fiction",
+        "England -- Fiction"
+      ],
+      "blurb": "A river, a caravan, a motor-car and Mr Toad's complete inability to learn. Started as bedtime stories for one boy.",
+      "rights": {
+        "basis": "author d. 1932; first published 1908 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "kenneth-grahame_the-wind-in-the-willows",
+        "url": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-wind-in-the-willows/the-wind-in-the-willows.pdf",
+        "epub": "books/the-wind-in-the-willows/the-wind-in-the-willows.epub",
+        "txt": "books/the-wind-in-the-willows/the-wind-in-the-willows.txt",
+        "cover": "books/the-wind-in-the-willows/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "59886253",
+      "text_sha256": "5e3150488c334469e5734ae5887c4b2b02e4ce54cd32eb4fc7e9054b62a12007"
+    },
+    {
+      "id": "583",
+      "slug": "the-woman-in-white",
+      "title": "The Woman in White",
+      "author": {
+        "name": "Wilkie Collins",
+        "file_as": "Collins, Wilkie",
+        "death": 1889
+      },
+      "year": 1860,
+      "category": "Mystery & Detective",
+      "language": "en",
+      "subjects": [
+        "England -- Social life and customs -- 19th century",
+        "Detective and mystery stories"
+      ],
+      "blurb": "A woman in white on a dark road, and an identity stolen for money. The original sensation novel.",
+      "rights": {
+        "basis": "author d. 1889; first published 1860 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "wilkie-collins_the-woman-in-white",
+        "url": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/the-woman-in-white/the-woman-in-white.pdf",
+        "epub": "books/the-woman-in-white/the-woman-in-white.epub",
+        "txt": "books/the-woman-in-white/the-woman-in-white.txt",
+        "cover": "books/the-woman-in-white/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "cfa4f59e",
+      "text_sha256": "4cb3c88aee2a5df85edbdf265aeaf56b1d5b7535d22d8fcad153095feebe6bf3"
+    },
+    {
       "id": "27780",
       "slug": "treasure-island",
       "title": "Treasure Island",
@@ -1161,6 +1848,52 @@
       "added": "2026-11-15",
       "file_sha8": "64256573",
       "text_sha256": "3a6662cb21f07291f3572ab317aa0c1d7224f102fd07525c21bb148f4f111996"
+    },
+    {
+      "id": "205",
+      "slug": "walden",
+      "title": "Walden",
+      "author": {
+        "name": "Henry David Thoreau",
+        "file_as": "Thoreau, Henry David",
+        "death": 1862
+      },
+      "year": 1854,
+      "category": "Essays",
+      "language": "en",
+      "subjects": [
+        "Wilderness areas -- Massachusetts",
+        "Solitude"
+      ],
+      "blurb": "Two years in a cabin, and an argument about what a person actually needs. Still the best book on choosing less.",
+      "rights": {
+        "basis": "author d. 1862; first published 1854 — public domain in India (life + 60) and the United States (pre-1930)",
+        "india": true,
+        "us": true,
+        "verified": "2026-11-16"
+      },
+      "source": {
+        "name": "Standard Ebooks",
+        "ref": "henry-david-thoreau_walden",
+        "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+        "licence": "CC0 1.0 (edition) · text public domain"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "txt"
+      ],
+      "files": {
+        "pdf": "books/walden/walden.pdf",
+        "epub": "books/walden/walden.epub",
+        "txt": "books/walden/walden.txt",
+        "cover": "books/walden/cover.jpg"
+      },
+      "cover_kind": "source",
+      "vault": "corpus-extendum-vault-01",
+      "added": "2026-11-16",
+      "file_sha8": "b96efc80",
+      "text_sha256": "7487798c80f781201de3df549244ef3ee5cd0df590ed6007d41fb019acfd10d2"
     },
     {
       "id": "768",

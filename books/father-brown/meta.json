@@ -1,0 +1,46 @@
+{
+  "id": "204",
+  "slug": "father-brown",
+  "title": "The Innocence of Father Brown",
+  "author": {
+    "name": "G. K. Chesterton",
+    "file_as": "Chesterton, G. K.",
+    "death": 1936
+  },
+  "year": 1911,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Brown, Father (Fictitious character)",
+    "Detective and mystery stories"
+  ],
+  "blurb": "A small priest solves twelve crimes by understanding sin better than the police understand evidence.",
+  "rights": {
+    "basis": "author d. 1936; first published 1911 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "g-k-chesterton_the-innocence-of-father-brown",
+    "url": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/father-brown/father-brown.pdf",
+    "epub": "books/father-brown/father-brown.epub",
+    "txt": "books/father-brown/father-brown.txt",
+    "cover": "books/father-brown/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "8b76236b",
+  "text_sha256": "b0366433ad3aa2e7e8dd30714f2811294ceaf1943cfb2609f4aeb4587929b9f5"
+}

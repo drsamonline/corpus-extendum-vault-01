@@ -1,0 +1,46 @@
+{
+  "id": "2852",
+  "slug": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "file_as": "Doyle, Arthur Conan",
+    "death": 1930
+  },
+  "year": 1902,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character)",
+    "Dartmoor (England) -- Fiction"
+  ],
+  "blurb": "A family curse, a moor at night, and a hound that may not be a hound. Doyle's best novel, and he knew it.",
+  "rights": {
+    "basis": "author d. 1930; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "arthur-conan-doyle_the-hound-of-the-baskervilles",
+    "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.pdf",
+    "epub": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.epub",
+    "txt": "books/the-hound-of-the-baskervilles/the-hound-of-the-baskervilles.txt",
+    "cover": "books/the-hound-of-the-baskervilles/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "469f7ed7",
+  "text_sha256": "72665242953ecd9cec46015cddec1cf24faf433b6885479e2214568276c4dcf9"
+}

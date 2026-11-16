@@ -1,0 +1,46 @@
+{
+  "id": "778",
+  "slug": "five-children-and-it",
+  "title": "Five Children and It",
+  "author": {
+    "name": "E. Nesbit",
+    "file_as": "Nesbit, E.",
+    "death": 1924
+  },
+  "year": 1902,
+  "category": "Children's & Fable",
+  "language": "en",
+  "subjects": [
+    "Fairies -- Fiction",
+    "Wishes -- Fiction"
+  ],
+  "blurb": "A sand fairy grants one wish a day, and every wish goes wrong in a way that is entirely the children's fault.",
+  "rights": {
+    "basis": "author d. 1924; first published 1902 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "e-nesbit_five-children-and-it",
+    "url": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/five-children-and-it/five-children-and-it.pdf",
+    "epub": "books/five-children-and-it/five-children-and-it.epub",
+    "txt": "books/five-children-and-it/five-children-and-it.txt",
+    "cover": "books/five-children-and-it/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "323dea04",
+  "text_sha256": "8296105586773b59bd39be78eba4c7af710bccf9f40e4c4830a4f9ce45da1ba1"
+}

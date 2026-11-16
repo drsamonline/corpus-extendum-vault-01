@@ -1,0 +1,45 @@
+{
+  "id": "23583",
+  "slug": "keats-poems",
+  "title": "Poems",
+  "author": {
+    "name": "John Keats",
+    "file_as": "Keats, John",
+    "death": 1821
+  },
+  "year": 1820,
+  "category": "Poetry",
+  "language": "en",
+  "subjects": [
+    "English poetry -- 19th century"
+  ],
+  "blurb": "Ode to a Nightingale, Ode on a Grecian Urn, and the rest of the year 1819, which killed him.",
+  "rights": {
+    "basis": "author d. 1821; first published 1820 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "john-keats_poetry",
+    "url": "https://standardebooks.org/ebooks/john-keats/poetry",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/keats-poems/keats-poems.pdf",
+    "epub": "books/keats-poems/keats-poems.epub",
+    "txt": "books/keats-poems/keats-poems.txt",
+    "cover": "books/keats-poems/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "e4140c1c",
+  "text_sha256": "7a3f26352f3b1fe1acb26c290fcf83a9802fed48a41b1846852c9a8357d7ebfa"
+}

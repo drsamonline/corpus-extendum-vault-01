@@ -1,0 +1,46 @@
+{
+  "id": "155",
+  "slug": "the-moonstone",
+  "title": "The Moonstone",
+  "author": {
+    "name": "Wilkie Collins",
+    "file_as": "Collins, Wilkie",
+    "death": 1889
+  },
+  "year": 1868,
+  "category": "Mystery & Detective",
+  "language": "en",
+  "subjects": [
+    "Diamonds -- Fiction",
+    "Detective and mystery stories"
+  ],
+  "blurb": "A diamond taken from an Indian shrine, and the household it ruins. The first detective novel in English.",
+  "rights": {
+    "basis": "author d. 1889; first published 1868 — public domain in India (life + 60) and the United States (pre-1930)",
+    "india": true,
+    "us": true,
+    "verified": "2026-11-16"
+  },
+  "source": {
+    "name": "Standard Ebooks",
+    "ref": "wilkie-collins_the-moonstone",
+    "url": "https://standardebooks.org/ebooks/wilkie-collins/the-moonstone",
+    "licence": "CC0 1.0 (edition) · text public domain"
+  },
+  "formats": [
+    "pdf",
+    "epub",
+    "txt"
+  ],
+  "files": {
+    "pdf": "books/the-moonstone/the-moonstone.pdf",
+    "epub": "books/the-moonstone/the-moonstone.epub",
+    "txt": "books/the-moonstone/the-moonstone.txt",
+    "cover": "books/the-moonstone/cover.jpg"
+  },
+  "cover_kind": "source",
+  "vault": "corpus-extendum-vault-01",
+  "added": "2026-11-16",
+  "file_sha8": "e8ca30f2",
+  "text_sha256": "55966528a972958455df13e883abdd69624054f85246653c93c94da54b5fd0b7"
+}
